@@ -1194,7 +1194,7 @@ simple_triggers = [
   # Hold regular marshall elections for players_kingdom
    (24, #Disabled in favor of new system
     [
-		(assign, reg0, Version),
+        (assign, reg0, Version),
     #  (val_add, "$g_election_date", 1),
     #  (ge, "$g_election_date", 90), #elections holds once in every 90 days.
     #  (is_between, "$players_kingdom", kingdoms_begin, kingdoms_end),
@@ -1789,12 +1789,12 @@ simple_triggers = [
       (assign, "$g_recalculate_ais", 1),
     ]),
 	
-(24,[],[
+    (24,[
 
 
-(gt, "$KochankaPozyczka",0),
-(val_sub, "$KochankaPozyczka",1),
-]),
+        (gt, "$KochankaPozyczka",0),
+        (val_sub, "$KochankaPozyczka",1),
+    ]),
 	
     
   # Decide faction ai flag check

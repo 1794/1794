@@ -46033,13 +46033,6 @@ scripts = [
 	    (val_add, ":cur_good_price_slot", slot_town_trade_good_prices_begin),
 	    (party_get_slot, ":cur_price_modifier", ":center", ":cur_good_price_slot"),
 
-	    (try_begin),
-	      (lt, ":number_of_inputs_required", 0),
-	      (store_div, ":final_price_for_secondary_input", ":final_price_for_secondary_input", 2),
-	    (else_try),
-	      (store_mul, ":final_price_for_secondary_input", ":final_price_for_secondary_input", ":number_of_inputs_required"),
-	    (try_end),
-
 	    (store_mul, ":final_price_for_secondary_input", ":base_price", ":cur_price_modifier"),
 	    (val_div, ":final_price_for_secondary_input", 1000),
 	  (else_try),
