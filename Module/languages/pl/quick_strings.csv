@@ -1,0 +1,1456 @@
+qstr_Kłódka|Kłódka
+qstr_rozmowa|rozmowa
+qstr_rozmowa_2|rozmowa 2
+qstr_strumyk|strumyk
+qstr_pilowanie|pilowanie
+qstr_Next_Page|Next Page
+qstr_Game_Rules:^|Game Rules:^
+qstr_0|0
+qstr_Show_game_rules|Show game rules
+qstr_Continue...|Continue...
+qstr_Candidate_#1:_{s1}|Candidate #1: {s1}
+qstr_Candidate_#2:_{s1}|Candidate #2: {s1}
+qstr_{s3}_of_{s4}_wishes_|{s3} of {s4} wishes to select a new marshall and invites his vassals for a counsel. {s1} and {s2} are the likely candidates.
+qstr_Who_do_you_wish_to_s|Who do you wish to support?
+qstr_{s1}_gives_his_suppo|{s1} gives his support to {s2}.
+qstr_Number_of_Supporters|Number of Supporters: {reg0}
+qstr_{s2}_has_heard_his_v|{s2} has heard his vassals' counsel. He selects {s1} as the marshall of {s3}.
+qstr_Action|Action
+qstr_Mount|Mount
+qstr_Attack_Type|Attack Type
+qstr_Stand_Ground|Stand Ground
+qstr_Charge|Charge
+qstr_Follow_Me|Follow Me
+qstr_Hold_This_Position|Hold This Position
+qstr_Spread_Out|Spread Out
+qstr_Stand_Closer|Stand Closer
+qstr_Fall_Back|Fall Back
+qstr_Advance|Advance
+qstr_Dismount|Dismount
+qstr_Fire_At_Will|Fire At Will
+qstr_Hold_Your_Fire|Hold Your Fire
+qstr_Use_Blunt_Weapons|Use Blunt Weapons
+qstr_Use_Any_Weapon|Use Any Weapon
+qstr_Ready|Ready
+qstr_Wounded|Wounded
+qstr_Dead|Dead
+qstr_Podwójna_linia.|Podwójna linia.
+qstr_a|a
+qstr_Czworobok.|Czworobok.
+qstr_b|b
+qstr_Tyraleria.|Tyraleria.
+qstr_c|c
+qstr_Pierwszy_szereg_klę|Pierwszy szereg klęka.
+qstr_d|d
+qstr_Szlusuj.|Szlusuj.
+qstr_e|e
+qstr_Zakończ_formację.|Zakończ formację.
+qstr_Zmiana_rozkazu_ostrz|Zmiana rozkazu ostrzału
+qstr_f|f
+qstr_Ognia!|Ognia!
+qstr_g|g
+qstr_1|1
+qstr_2|2
+qstr_3|3
+qstr_4|4
+qstr_5|5
+qstr_6|6
+qstr_7|7
+qstr_8|8
+qstr_9|9
+qstr_A|A
+qstr_B|B
+qstr_C|C
+qstr_D|D
+qstr_E|E
+qstr_F|F
+qstr_G|G
+qstr_H|H
+qstr_I|I
+qstr_J|J
+qstr_K|K
+qstr_L|L
+qstr_M|M
+qstr_N|N
+qstr_O|O
+qstr_P|P
+qstr_Q|Q
+qstr_R|R
+qstr_S|S
+qstr_T|T
+qstr_U|U
+qstr_V|V
+qstr_W|W
+qstr_X|X
+qstr_Y|Y
+qstr_Z|Z
+qstr_Numpad_0|Numpad 0
+qstr_Numpad_1|Numpad 1
+qstr_Numpad_2|Numpad 2
+qstr_Numpad_3|Numpad 3
+qstr_Numpad_4|Numpad 4
+qstr_Numpad_5|Numpad 5
+qstr_Numpad_6|Numpad 6
+qstr_Numpad_7|Numpad 7
+qstr_Numpad_8|Numpad 8
+qstr_Numpad_9|Numpad 9
+qstr_Num_Lock|Num Lock
+qstr_Numpad_Div|Numpad Div
+qstr_Numpad_Mul|Numpad Mul
+qstr_Numpad_Mins|Numpad Mins
+qstr_Numpad_Pls|Numpad Pls
+qstr_Numpad_Entr|Numpad Entr
+qstr_Numpad_Dot|Numpad Dot
+qstr_Insert|Insert
+qstr_Delete|Delete
+qstr_Home|Home
+qstr_End|End
+qstr_Page_Up|Page Up
+qstr_Page_Down|Page Down
+qstr_Up|Up
+qstr_Down|Down
+qstr_Left|Left
+qstr_Right|Right
+qstr_F1|F1
+qstr_F2|F2
+qstr_F3|F3
+qstr_F4|F4
+qstr_F5|F5
+qstr_F6|F6
+qstr_F7|F7
+qstr_F8|F8
+qstr_F9|F9
+qstr_F10|F10
+qstr_F11|F11
+qstr_F12|F12
+qstr_Space_Bar|Space Bar
+qstr_Enter|Enter
+qstr_Tab|Tab
+qstr_Backspace|Backspace
+qstr_Left_Bracess|Left Bracess
+qstr_Right_Braces|Right Braces
+qstr_Comma|Comma
+qstr_Period|Period
+qstr_Slash|Slash
+qstr_Back_Slash|Back Slash
+qstr_Equals|Equals
+qstr_Minus|Minus
+qstr_Semicolon|Semicolon
+qstr_Apostrophe|Apostrophe
+qstr_Tilde|Tilde
+qstr_Caps_Lock|Caps Lock
+qstr_Left_Shift|Left Shift
+qstr_Right_Shift|Right Shift
+qstr_Left_Ctrl|Left Ctrl
+qstr_Right_Ctrl|Right Ctrl
+qstr_Left_Alt|Left Alt
+qstr_Right_Alt|Right Alt
+qstr_Left_Click|Left Click
+qstr_Right_Click|Right Click
+qstr_Mouse_Button_3|Mouse Button 3
+qstr_Mouse_Button_4|Mouse Button 4
+qstr_Mouse_Button_5|Mouse Button 5
+qstr_Mouse_Button_6|Mouse Button 6
+qstr_Mouse_Button_7|Mouse Button 7
+qstr_Mouse_Button_8|Mouse Button 8
+qstr_Scroll_Up|Scroll Up
+qstr_Scroll_Down|Scroll Down
+qstr_INVALID_KEY|INVALID KEY
+qstr_Podwójna_linia|Podwójna linia
+qstr_Nie_możesz_używać|Nie możesz używać tej formacji z tym oddziałem.
+qstr_Czworobok|Czworobok
+qstr_Tyraleria|Tyraleria
+qstr_Ten_rozkaz_jest_nied|Ten rozkaz jest niedostępny w trybie podążania.
+qstr_Ten_rozkaz_dostępny|Ten rozkaz dostępny jest tylko dla formacji podwójnej linii.
+qstr_Poczekaj_na_sformowa|Poczekaj na sformowanie się żołnierzy.
+qstr_Pierwszy_szereg_klęk|Pierwszy szereg klęka
+qstr_Pierwszy_szereg_wsta|Pierwszy szereg wstaje
+qstr_Zrekonstruuj_formacj|Zrekonstruuj formacje
+qstr_Koniec_formacji|Koniec formacji
+qstr_Number_of_men_knocke|Number of men knocked down: {reg1}
+qstr_Number_of_men_left:_|Number of men left: {reg1}
+qstr_Opponents_Beaten:_{r|Opponents Beaten: {reg1}
+qstr_Opponents_Remaining:|Opponents Remaining: {reg1}
+qstr_Remain_in_retirement|Remain in retirement.
+qstr_Go_back_to_the_adven|Go back to the adventuring.
+qstr_You_have_retired_at_|You have retired at level {reg4} after {reg5} days of adventuring.
+qstr_Effect_on_Score|Effect on Score
+qstr_Settlements_owned_by|Settlements owned by you: {reg0}
+qstr_Friendly_Settlements|Friendly Settlements: {reg0}
+qstr_Hostile_Settlements:|Hostile Settlements: {reg0}
+qstr_Friendly_Lords:_{reg|Friendly Lords: {reg0}
+qstr_Enemy_Lords:_{reg0}|Enemy Lords: {reg0}
+qstr_Victories:_{reg0}|Victories: {reg0}
+qstr_Defeats:_{reg0}|Defeats: {reg0}
+qstr_Quests_Completed:_{r|Quests Completed: {reg0}
+qstr_Companions_Found:_{r|Companions Found: {reg0}
+qstr_Companions_Lost/Depa|Companions Lost/Departed: {reg0}
+qstr_Wealth:_{reg0}_denar|Wealth: {reg0} denars
+qstr_Inventory:_{reg0}_de|Inventory: {reg0} denars
+qstr_Renown:_{reg0}|Renown: {reg0}
+qstr_Experience:_{reg0}|Experience: {reg0}
+qstr_Days_Passed:_{reg0}|Days Passed: {reg0}
+qstr_Difficulty:_{reg0}%|Difficulty: {reg0}%
+qstr_TOTAL_SCORE:_{reg0}|TOTAL SCORE: {reg0}
+qstr_None|None
+qstr_Płacisz_żołd_w_wy|Płacisz żołd w wysokości: {reg0}
+qstr_{s2}^____{reg0}_punk|{s2}^    {reg0} punktów renomy
+qstr_{s2}^____{reg1}_punk|{s2}^    {reg1} punktów przywództwa
+qstr__Do_następnego_awan| Do następnego awansu wymagane: {s2}
+qstr_Stopień:_{s69}|Stopień: {s69}
+qstr_{s2}|{s2}
+qstr_Rotmistrz|Rotmistrz
+qstr_Kapitan|Kapitan
+qstr_Generał|Generał
+qstr_Brygadier|Brygadier
+qstr_Posiadany_regiment:|Posiadany regiment:
+qstr_Dostępne_regimenty:|Dostępne regimenty:
+qstr_Wyjdź|Wyjdź
+qstr_Nie_wybrałeś_żadn|Nie wybrałeś żadnego regimentu.
+qstr_Kup|Kup
+qstr_Uzupełnij|Uzupełnij
+qstr_Usuń|Usuń
+qstr__| 
+qstr_Nie_dowodzisz_regime|Nie dowodzisz regimentem.
+qstr_Potwierdź_decyzję_|Potwierdź decyzję o zdaniu^ dowództwa nad regimentem.
+qstr_Ilu_zołnierzy_potrz|Ilu zołnierzy potrzebujesz?
+qstr_Regiment_nie_poniós|Regiment nie poniósł żadnych strat.
+qstr_Obecny_regiment_zost|Obecny regiment zostanie zastąpiony.^Koszt wystawienia regimentu^ wynosi {reg10}.^         Potwierdź albo zrezygnuj.
+qstr_Koszt_wystawienia_re|Koszt wystawienia regimentu^ wynosi {reg10}.^         Potwierdź albo zrezygnuj.
+qstr_Stan_regimentu:_{reg|Stan regimentu: {reg0}/{reg1}
+qstr_Liczebność_regimen|Liczebność regimentu: {reg1}^^Cena: {reg2}^^Złoto: {reg3}
+qstr_{reg2}._{s2}|{reg2}. {s2}
+qstr_Ranking_Pojedynków|Ranking Pojedynków
+qstr_Zwycięstwa:_{reg0}^|Zwycięstwa: {reg0}^Porażki: {reg1}^Wynik: {reg2}
+qstr_Wins:_{reg0}^Loses:_|Wins: {reg0}^Loses: {reg1}^Score: {reg2}
+qstr_Wyjdz|Wyjdz
+qstr_Kontynuuj|Kontynuuj
+qstr_Witaj_{playername}|Witaj {playername}
+qstr_Bywaj|Bywaj
+qstr_{reg1}|{reg1}
+qstr_{reg1|{reg1
+qstr_{s0}|{s0}
+qstr_Continue|Continue
+qstr_Wygłoś_manifest.|Wygłoś manifest.
+qstr_Wejdź_do_środka.|Wejdź do środka.
+qstr_Zatrzymaj_się_na_ja|Zatrzymaj się na jakiś czas.
+qstr_Wyjdź...|Wyjdź...
+qstr_disableUI|disableUI
+qstr_Manifest:_{reg0}|Manifest: {reg0}
+qstr_Zwycięstwo!|Zwycięstwo!
+qstr_Porażka!|Porażka!
+qstr_Kontynuuj...|Kontynuuj...
+qstr_Ilość_punktów_do_|Ilość punktów do współczynnika: {reg1}
+qstr_Wysokość_nagrody_p|Wysokość nagrody pieniężnej: {reg1}
+qstr_Uzyskana_renoma:_{re|Uzyskana renoma: {reg1}
+qstr_Pozycja:_{reg10}_^Z�|Pozycja: {reg10} ^Złoto: {reg12}
+qstr_Rozpocznij.|Rozpocznij.
+qstr_Suma:|Suma:
+qstr_{reg0}|{reg0}
+qstr_Wypij|Wypij
+qstr_Dostępne_zadania|Dostępne zadania
+qstr_Nie_wybrałeś_żadne|Nie wybrałeś żadnego zadania.
+qstr_Przyjmij|Przyjmij
+qstr_DEBUG:_regions:_{reg|DEBUG: regions: {reg0}
+qstr_Twierdza_{s1}_dołą|Twierdza {s1} dołączyła do rewolucji!
+qstr_{s1}__{s3}__został_|{s1} ({s3}) został pokonany w bitwie, lecz zdołał uciec.
+qstr_{s54}_is_a_claimant_|{s54} is a claimant to the throne of {s56}.
+qstr_nowhere|nowhere
+qstr_{s57}_and_{s58}|{s57} and {s58}
+qstr_{reg3?She:He}|{reg3?She:He}
+qstr_The_town_of_{s50}|The town of {s50}
+qstr_The_village_of_{s50}|The village of {s50} near {s52}
+qstr_{s51}_belongs_to_{s1|{s51} belongs to {s1} of {s2}.^
+qstr_{s7}_and_{s8}|{s7} and {s8}
+qstr_{s2}It_has_no_villag|{s2}It has no villages.^
+qstr_{s2}{reg0?Its_villag|{s2}{reg0?Its villages are:Its village is} {s8}.^
+qstr_{s2}Its_prosperity_i|{s2}Its prosperity is: {s50}
+qstr_noone|noone
+qstr_{s9}_and_{s10}|{s9} and {s10}
+qstr_{s5}_has_been_defeat|{s5} has been defeated!
+qstr_{s7}_opened_the_gate|{s7} opened the gate
+qstr_{s7}_closed_the_gate|{s7} closed the gate
+qstr_{s1}|{s1}
+qstr_+{reg1}_to_party_mor|+{reg1} to party morale
+qstr_Requires_{reg1}_inte|Requires {reg1} intelligence to read
+qstr_Reading_Progress:_{r|Reading Progress: {reg1}%
+qstr_wound_treament|wound treament
+qstr_trainer|trainer
+qstr_surgery|surgery
+qstr_+1_to_{s1}_while_in_|+1 to {s1} while in inventory
+qstr_Move_here|Move here
+qstr_View_notes|View notes
+qstr_Accompany|Accompany
+qstr_zabito|zabito
+qstr_raniono|raniono
+qstr_{s0}^ŁĄCZNIE:_{reg|{s0}^ŁĄCZNIE: {reg3} ({s2})
+qstr_Nie_posiadasz_obecni|Nie posiadasz obecnie regimentu.
+qstr_^brak|^brak
+qstr_cf_training_ground_s|cf training ground sub routine for training result 1
+qstr_cf_training_ground_su|cf training ground sub routine for training result 2
+qstr_nothing|nothing
+qstr_{reg0}_village{reg1?|{reg0} village{reg1?s:}
+qstr_{reg0}_castle{reg1?s|{reg0} castle{reg1?s:}
+qstr_{reg0}_castle{reg1?s:|{reg0} castle{reg1?s:} and {s0}
+qstr_{reg0}_town{reg1?s:}|{reg0} town{reg1?s:}
+qstr_{reg0}_town{reg1?s:}_|{reg0} town{reg1?s:} and {s0}
+qstr_{reg0}_town{reg1?s:}_{|{reg0} town{reg1?s:}, {s0}
+qstr_Your_opponents_are_r|Your opponents are ready for the fight.
+qstr_Try_to_destroy_as_ma|Try to destroy as many targets as you can. You have two and a half minutes to clear the track.
+qstr_Stay_behind_the_line|Stay behind the line on the ground and shoot the targets. Try not to waste any shots.
+qstr_Przewaga_bitewna_=_{|Przewaga bitewna = {reg0}.
+qstr_{s9}_wants_you_to_re|{s9} wants you to resume following his army until further notice.
+qstr_{s0}_jest_usuwany|{s0} jest usuwany
+qstr_DEBUG:_ERROR_change_|DEBUG: ERROR change troop faction trp player {s1}
+qstr_DEBUG:_{s0}_uzupełn|DEBUG: {s0} uzupełnił oddział. ilość przed uzupełnieniem: {reg0} po: {reg1}
+qstr__Being_Raided_|(Being Raided)
+qstr__Looted_|(Looted)
+qstr__Pod_oblężeniem_|(Pod oblężeniem)
+qstr_{s0}_rozpoczyna_obl�|{s0} rozpoczyna oblężenie {s1}
+qstr_Spawnuje_obok_{s0}{s|Spawnuje obok {s0}|{s1}
+qstr_The_village_of_{s1}_|The village of {s1} has been looted by {s2}.
+qstr_{s3}_nie_jest_już_p|{s3} nie jest już pod oblężeniem.
+qstr_Zauważono_niewielki|Zauważono niewielkie oddziały wroga w pobliżu miejscowości {s1}.
+qstr_Zauważono_wrogie_pa|Zauważono wrogie patrole w pobliżu miejscowości {s1}.
+qstr_Zauważono_średniej|Zauważono średniej wielkości oddziały wroga w pobliżu miejscowości {s1}.
+qstr_Zauważono_liczne_od|Zauważono liczne oddziały wroga w pobliżu miejscowości {s1}.
+qstr_Zauważono_wrogą_ar|Zauważono wrogą armię w pobliżu miejscowości {s1}.
+qstr_Zauważono_sporą_wr|Zauważono sporą wrogą armię w pobliżu miejscowości {s1}.
+qstr_Zauważono_wielką_i|Zauważono wielką ilość wrogów w pobliżu miejscowości {s1}.
+qstr_discarding_besieging|discarding besieging center for {s0
+qstr_Twierdza_{s1}_dołąc|Twierdza {s1} dołącza do rewolucji!
+qstr_{s1}_has_been_besieg|{s1} has been besieged by {s2} of {s3}.
+qstr__{s1}__{s11}:_{s14}|({s1}) {s11}: {s14}
+qstr_{s14}__{s21}_|{s14} ({s21})
+qstr_{s1}_is_the_new_mars|{s1} is the new marshal of {s2}.
+qstr_check_and_finish_act|check and finish active army quests for faction
+qstr_Zdobywasz_{reg12}_pk|Zdobywasz {reg12} pkt. renomy.
+qstr_Tracisz_{reg12}_pkt.|Tracisz {reg12} pkt. renomy.
+qstr_Your_relation_with_{|Your relation with {s1} has improved.
+qstr_Your_relation_with_{s|Your relation with {s1} has deteriorated.
+qstr_Zyskujesz_honor.|Zyskujesz honor.
+qstr_Tracisz_honor.|Tracisz honor.
+qstr_{s1}_wypowiedział_w|{s1} wypowiedział wojnę przeciw państwu o nazwie {s2}.
+qstr_{s1}_and_{s2}_have_m|{s1} and {s2} have made peace with each other.
+qstr_{s2}_{reg3?was:is_cu|{s2} {reg3?was:is currently} at {s3}.
+qstr_{s2}_{reg3?was:is}_t|{s2} {reg3?was:is} travelling to {s3} and {reg4?she:he} {reg3?was:should be} close to {s4}{reg3?: at the moment}.
+qstr_{s2}_{reg3?was:is}_i|{s2} {reg3?was:is} in the field and {reg4?she:he} {reg3?was:should be} close to {s3}{reg3?: at the moment}.
+qstr_{s2}_{reg3?was:is}_b|{s2} {reg3?was:is} being held captive at {s3}.
+qstr_{s2}_{reg3?was:has_b|{s2} {reg3?was:has been} taken captive by {reg4?her:his} enemies.
+qstr_{reg3?{s2}_s_locatio|{reg3?{s2}'s location was unknown:I don't know where {s2} is}.
+qstr_{s6}_has_joined_your|{s6} has joined your party.
+qstr_You_now_owe_{reg2}_d|You now owe {reg2} denars to {s1}.
+qstr_Stawka_renomy_tej_bi|Stawka renomy tej bitwy wynosi {reg8}.
+qstr_You_have_run_into_a_|You have run into a trap!
+qstr_You_are_attacked_by_|You are attacked by a group of bandits!
+qstr_Holding|Holding
+qstr_Following|Following
+qstr_Charging|Charging
+qstr_Advancing|Advancing
+qstr_Falling_Back|Falling Back
+qstr_Standing_Closer|Standing Closer
+qstr_Spreading_Out|Spreading Out
+qstr_Standing|Standing
+qstr_N/A|N/A
+qstr_Free|Free
+qstr_Any_Weapon|Any Weapon
+qstr_Blunt_Weapons|Blunt Weapons
+qstr_DEBUG:_player_join_f|DEBUG: player join faction {s1}
+qstr_{s1}_Rebels|{s1} Rebels
+qstr_Otrzymany_od:_{s62}|Otrzymany od: {s62}
+qstr_Otrzymany_w_{s60}|Otrzymany w {s60}
+qstr_Masz_{reg0}_dni_aby_|Masz {reg0} dni, aby ukończyć to zadanie.
+qstr_Zadanie_zostało_wyk|Zadanie zostało wykonane. Porozmawiaj z {s59}, aby je ukończyć.
+qstr_Zadanie_zostało_pom|Zadanie zostało pomyślnie wykonane. Porozmawiaj z {s59}, aby je ukończyć.
+qstr_Zadanie_nie_zostało|Zadanie nie zostało wykonane pomyślnie. Porozmawiaj z {s59}.
+qstr_At_the_time_quest_wa|At the time quest was given:^{s1}
+qstr_DEBUG:_{s0}_przechod|DEBUG: {s0} przechodzi w ramach bonusu!
+qstr_Renoma:_{reg0}_Wspol|Renoma: {reg0} Wspolczynnik: {reg1}
+qstr_http://1794.com.pl/1|http://1794.com.pl/1794/get.php?player={s1}&type=0&message={s0}
+qstr_{s5}_has_a_strength_|{s5} has a strength of {reg1} men in total.
+qstr_The_last_time_you_sa|The last time you saw {reg1?her:him}, {s1}
+qstr_The_last_time_you_he|The last time you heard about {reg1?her:him}, {s1}
+qstr_Current_garrison_con|Current garrison consists of {reg5} men.^Has food stock for {reg6} days.
+qstr_Very_Poor|Very Poor
+qstr_Poor|Poor
+qstr_Average|Average
+qstr_Rich|Rich
+qstr_Very_Rich|Very Rich
+qstr_Manor|Manor
+qstr_A_manor_lets_you_res|A manor lets you rest at the village and pay your troops half wages while you rest.
+qstr_Mill|Mill
+qstr_A_mill_increases_vil|A mill increases village prosperity by 5%.
+qstr_Watch_Tower|Watch Tower
+qstr_A_watch_tower_lets_t|A watch tower lets the villagers raise alarm earlier. The time it takes for enemies to loot the village increases by 50%.
+qstr_School|School
+qstr_A_shool_increases_th|A shool increases the loyality of the villagers to you by +1 every month.
+qstr_Messenger_Post|Messenger Post
+qstr_A_messenger_post_let|A messenger post lets the inhabitants send you a message whenever enemies are nearby, even if you are far away from here.
+qstr_Prison_Tower|Prison Tower
+qstr_A_prison_tower_reduc|A prison tower reduces the chance of captives held here running away successfully.
+qstr_Prosperity_of_{s2}_h|Prosperity of {s2} has changed from {s3} to {s4}.
+qstr_{s4}_looks_upset.|{s4} looks upset.
+qstr_your_party|your party
+qstr_{reg0?One_of_your_pr|{reg0?One of your prisoners, :}{s1} of {s3} has escaped from captivity!
+qstr_You_brought_{reg3}_h|You brought {reg3} heads of cattle to {s1}.
+qstr_I_heard_that_there_w|I heard that there will be a tournament in {s62} soon.
+qstr_I_heard_that_one_can|I heard that one can buy {s62} very cheap at {s63}.
+qstr_I_heard_that_they_pa|I heard that they pay a very high price for {s62} at {s63}.
+qstr_two_days_ago|two days ago
+qstr_Best_threat_of_{s4}_|Best threat of {s4} has value level of {reg1}
+qstr_No_center_found_to_d|No center found to defend
+qstr_Powrót|Powrót
+qstr_Korony|Korony
+qstr_Litwy|Litwy
+qstr_Rusi|Rusi
+qstr_Terytoriów_Zewnetrz|Terytoriów Zewnetrznych
+qstr_Zubożałym_Szlachci|Zubożałym Szlachcicem
+qstr_Bogatym_Mieszczanine|Bogatym Mieszczaninem
+qstr_Niewiadomego_Pochodz|Niewiadomego Pochodzenia
+qstr_Szerzyć_ideały_dem|Szerzyć ideały demokratyczne
+qstr_Odzyskać_utracony_m|Odzyskać utracony majątek 
+qstr_Odzyskać_utraconą_|Odzyskać utraconą pozycję 
+qstr_Uwolnić_się_od_wie|Uwolnić się od wierzycieli
+qstr_Kadetem|Kadetem
+qstr_Rewolucjonistą|Rewolucjonistą
+qstr_Studentem|Studentem
+qstr_Księdzem|Księdzem
+qstr_FinalWinLevel_=_{reg|FinalWinLevel = {reg0}
+qstr_http://1794.com.pl/17|http://1794.com.pl/1794/get.php?player={s0}&type={reg0}&message=Przeszedl%20do%20etapu%203!
+qstr_Konfederacja_Targowi|Konfederacja Targowicka
+qstr_Frakcja_upadła|Frakcja upadła
+qstr_Frakcja_upadła_usuw|Frakcja upadła, usuwanie {s0}
+qstr_http://1794.com.pl/179|http://1794.com.pl/1794/get.php?player={s0}&type={reg0}
+qstr_We_ain_t_gonna_take_|We ain't gonna take it!: {reg0}
+qstr_WE_LL_SEE|WE'LL SEE
+qstr_disableRain|disableRain
+qstr_windPower|windPower
+qstr_czynnik_{reg10}_type|czynnik {reg10} type: {reg0} str {reg1} fog {reg2} wind {reg3} grass {reg4} waves {reg5} skybox {reg6}
+qstr_DEBUG_INFO:_{s0}_prz|DEBUG INFO: {s0} przywrocony
+qstr_DEBUG_INFO:_{s0}_dod|DEBUG INFO: {s0} dodany jako bonus
+qstr_Patrol_został_zlikw|Patrol został zlikwidowany.
+qstr_Rzeczpospolita_Obojg|Rzeczpospolita Obojga Narodow
+qstr_http://1794.com.pl/1794|http://1794.com.pl/1794/get.php?player={s0}&type={reg0}&message=Przeszedl%20do%20etapu%204!
+qstr_DEBUG:_{s1}_jest_prz|DEBUG: {s1} jest przypisany do {s0}
+qstr_DEBUG:_Spawned_patro|DEBUG: Spawned patrol can't have troops
+qstr_Wojna_mimo_iż_na_dw|Wojna, mimo iż na dwóch frontach przeprowadzana, została zakończona sukcesem. Zarówno Królestwo Prus jak i Monarchia Habsburgów zostały odrzucone od granic Rzeczpospolitej, ze znacznymi stratami. Niebagatelne znaczenie miała zmiana władzy w Cesarstwie Rosyjskim i przynajmniej czasowe wygaszenie konfliktu między obydwoma narodami…
+qstr_Wojna_przeprowadzana|Wojna przeprowadzana na dwóch frontach, z Królestwem Prus i Monarchią Habsburgów, zakończyła się porażką. Mimo wielu starań nie udało się utrzymać kluczowych mas, na tyle długo, aby przeprowadzić w nich konieczne umocnienia i powołać nową demokratyczną władzę. Rzeczpospolita znów znalazła się pod kuratelą wrogich mocarstw…
+qstr_Wojna_mimo_iż_na_dw�|Wojna, mimo iż na dwóch frontach przeprowadzana, została zakończona sukcesem. Zarówno Królestwo Prus jak i Cesarstwo Rosyjskie zostały odrzucone od granic Rzeczpospolitej, ze znacznymi stratami. Niemałe było tu znaczenie Spiskowców, którzy od wewnątrz walcząc z Cesarstwem doprowadzili do jego osłabienia.
+qstr_Wojna_przeprowadzana_|Wojna przeprowadzana na dwóch frontach, z Królestwem Prus i Cesarstwem Rosyjskim, zakończyła się porażką. Mimo wielu starań nie udało się utrzymać kluczowych mas, na tyle długo, aby przeprowadzić w nich konieczne umocnienia i powołać nową demokratyczną władzę. Rzeczpospolita znów znalazła się pod kuratelą wrogich mocarstw…
+qstr_Wojna_mimo_iż_na_dwó|Wojna, mimo iż na dwóch frontach przeprowadzana, została zakończona sukcesem. Zarówno Królestwo Prus jak i Cesarstwo Rosyjskie zostały odrzucone od granic Rzeczpospolitej, ze znacznymi stratami. Sukces tym większy, iż odniesiony bez pomocy państw zewnętrznych.
+qstr_Przegrana_rewolucja_|Przegrana rewolucja w rosji
+qstr_Nierozstrzygnięta_r|Nierozstrzygnięta rewolucja w rosji
+qstr_Wygrana_rewolucja_w_|Wygrana rewolucja w rosji
+qstr_Porucznik|Porucznik
+qstr_Poruczniku|Poruczniku
+qstr_Kapitanie|Kapitanie
+qstr_Rotmistrzu|Rotmistrzu
+qstr_Major|Major
+qstr_Majorze|Majorze
+qstr_Pułkownik|Pułkownik
+qstr_Pułkowniku|Pułkowniku
+qstr_Generale|Generale
+qstr_Brygadierze|Brygadierze
+qstr_http://1794.com.pl/1794/|http://1794.com.pl/1794/get.php?player={s0}&type={reg0}&quest={s1}
+qstr_BattleDataSetSlot_ER|BattleDataSetSlot ERROR: team < 0  || team > 9
+qstr_BattleDataGetSlot_ER|BattleDataGetSlot ERROR: team < 0 || team > 9
+qstr_ERROR:_invalid_lover|ERROR: invalid lover
+qstr_ended|ended
+qstr_Umundurowanie_zosta�|Umundurowanie zostało dodane do ekwipunku.
+qstr_http://1794.com.pl/1794/g|http://1794.com.pl/1794/get.php?player={s0}&type=5&rank={reg0}
+qstr_Strzelać_bez_rozkaz|Strzelać bez rozkazu!
+qstr_Salwy_cykliczne!|Salwy cykliczne!
+qstr_Salwy_na_rozkaz!|Salwy na rozkaz!
+qstr_Wstrzymać_ostrzał|Wstrzymać ostrzał
+qstr_End16|End16
+qstr_W_pobliskim_wąwozie|W pobliskim wąwozie przygotowana została zasadzka na konwój z bronią. Wzmocnij siły zasadzki wraz ze swoimi ludźmi, aby zwiększyć szanse na powodzenie zasadzki.
+qstr_Parszywiec|Parszywiec
+qstr_Nikczemnik|Nikczemnik
+qstr_Kuklinowski|Kuklinowski
+qstr_Grzędosławski|Grzędosławski
+qstr_Pawłowicz|Pawłowicz
+qstr_Długolas|Długolas
+qstr_Wspieraj_węgierskic|Wspieraj węgierskich konspiratorów w przygotowaniach do powstania.
+qstr_Odnajdź_przywódcó|Odnajdź przywódców konspiracji w innych regionach.
+qstr_Skontaktuj_się_z_pr|Skontaktuj się z przywódcą konspiratorów w Budapeszcie.
+qstr_Skontaktuj_się_z_po|Skontaktuj się z posłańcem w pobliżu Debreczyna.
+qstr_Skontaktuj_się_z_Ma|Skontaktuj się z Martinovics'em w Budapeszcie.
+qstr_Udaj_się_do_Rzeczpo|Udaj się do Rzeczpospolitej i odnajdź Generała Tadeusza Kościuszkę. Naczelnik powstania powinien przebywać w Krakowie lub jego okolicach.
+qstr_Skontaktuj_się_z_prz|Skontaktuj się z przywówdcą węgierskiej konspiracji - Ignacem Martinovicsem, aby odebrać rozkazy.
+qstr_Wspieraj_wojska_pod_|Wspieraj wojska pod dowództwem Naczelnika Kościuszki, aż do przejęcia wszystkich ziem z rąk Targowicy.
+qstr_Udaj_się_do_Rzeczpos|Udaj się do Rzeczpospolitej i odnajdź Generała Tadeusza Kościuszkę.
+qstr_Zgłoś_się_do_Nacz|Zgłoś się do Naczelnika Kościuszki w sprawie dalszych rozkazów.
+qstr_Wykonałeś_wszystki|Wykonałeś wszystkie rozkazy. Czekaj na dalszy rozwój zdarzeń.
+qstr_Uzupełnij_wojska_i_|Uzupełnij wojska i oczekuj na wieści o ofensywie wrogich wojsk.
+qstr_Chroń_tereny_Rzeczp|Chroń tereny Rzeczpospolitej przed atakami wroga i przeprowadzaj działania dywersyjne w ramach kontrofensywy.
+qstr_Plotka_o_ID_{reg0}_z|Plotka o ID {reg0} została odblokowana.
+qstr_Plotka_o_ID_{reg0}_zo|Plotka o ID {reg0} została zablokowana.
+qstr_uciekinier_widziany_|uciekinier widziany w okolicy {s0}
+qstr_Pluton_piechoty_lini|Pluton piechoty liniowej
+qstr_Kompania_piechoty_li|Kompania piechoty liniowej
+qstr_Pluton_lekkiej_piech|Pluton lekkiej piechoty
+qstr_Szwadron_lekkiej_kaw|Szwadron lekkiej kawalerii
+qstr_Batalion_piechoty_li|Batalion piechoty liniowej
+qstr_Kompania_lekkiej_pie|Kompania lekkiej piechoty
+qstr_Pluton_grenadierów|Pluton grenadierów
+qstr_Pulk_lekkiej_kawaler|Pulk lekkiej kawalerii
+qstr_Szwadron_ciężkiej_|Szwadron ciężkiej kawalerii
+qstr_Regiment_piechoty_li|Regiment piechoty liniowej
+qstr_Batalion_lekkiej_pie|Batalion lekkiej piechoty
+qstr_Kompania_grenadieró|Kompania grenadierów
+qstr_Brygada_lekkiej_kawa|Brygada lekkiej kawalerii
+qstr_Pulk_ciężkiej_kawa|Pulk ciężkiej kawalerii
+qstr_Batalion_piechoty_gw|Batalion piechoty gwardii
+qstr_Regiment_lekkiej_pie|Regiment lekkiej piechoty
+qstr_Batalion_grenadieró|Batalion grenadierów
+qstr_Brygada_kawalerii_gw|Brygada kawalerii gwardii
+qstr_Pułk_lekkiej_kawale|Pułk lekkiej kawalerii
+qstr_Brak|Brak
+qstr_Masz_za_mało_pieni�|Masz za mało pieniędzy
+qstr_Koszt:_{reg0}^Budże|Koszt: {reg0}^Budżet: {reg1}
+qstr_MaraudersTactic|MaraudersTactic
+qstr_charge!!!!!!!!!!!!!!|charge!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+qstr_CavalryVsCavalry:_{r|CavalryVsCavalry: {reg0}
+qstr_dists:_{reg0}_{reg1}|dists: {reg0} {reg1}
+qstr_chargeee!!!!!!!!!!!!|chargeee!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+qstr_InfantryVsInfantry:_|InfantryVsInfantry: {reg0}
+qstr_CavalryVsInfantry:_{|CavalryVsInfantry: {reg0}
+qstr_Manifest_możesz_wyg|Manifest możesz wygłosić w ciągu dnia, gdy w karczmie jest większy ruch.
+qstr_Do_wiadomości_tu_ob|Do wiadomości tu obecnym, w imieniu Naczelnika Tadeusza Kościuszki, następujący uniwersał ogłaszam.
+qstr_Podług_prawa_obwies|Podług prawa obwieszcza się, iż osoba wszelkiego włościanina jest wolna, ...
+qstr_a_lud_pozostaje_pod_|a lud pozostaje pod opieką Rządu Krajowego, oraz ulżenia w robociznach ma następujące...
+qstr_...któryby_podstaro|...któryby podstarościc czy ekonom wykroczył przeciw zarządzeniu i czyniłby uciążliwości ludowi...
+qstr_wzięty_ma_być_i_pr|wzięty ma być i przed Sąd Kryminalny stawiony.
+qstr_Przebywający_w_karc|Przebywający w karczmie żołnierze, przerywają odczyt manifestu...
+qstr_Przebywający_w_karcz|Przebywający w karczmie emisariusz, przerywa odczyt uniwersału...
+qstr_Imperium|Imperium
+qstr_Królestwa|Królestwa
+qstr_Monarchii|Monarchii
+qstr_Paskudna|Paskudna
+qstr_Parszywa|Parszywa
+qstr_piwo_zacne_w_tej_mie|piwo zacne w tej mieścinie mają, wasze zdrowie dobrzy ludzie!
+qstr_miód_przedni__w_oko|miód przedni  w okolicy mają
+qstr_napić_się_można_w|napić się można w dobrej kompanii
+qstr_Do_czorta|Do czorta
+qstr_Do_diabła|Do diabła
+qstr_Zaraza|Zaraza
+qstr_diabli_wezmą_dalsz�|diabli wezmą dalszą drogę.
+qstr_nie_ujadę_tyle_coby|nie ujadę tyle coby na popas stanąć w karczmie u Jankiela.
+qstr_Cholera|Cholera
+qstr_Eh|Eh
+qstr_Święci_pańscy|Święci pańscy
+qstr_w_zamtuzie_zabawić_|w zamtuzie zabawić nieco, nawet tego nie idzie
+qstr_iść_ryby_na_targ_k|iść ryby na targ kupić, znowu stara kijem obije
+qstr_siedzieć_na_rzyci|siedzieć na rzyci
+qstr_siedzieć_i_nosa_z_d|siedzieć i nosa z domu nie wystawiać
+qstr_bezczynnie_stać_jak|bezczynnie stać, jakież marnotrawstwo czasu
+qstr_towary_nie_dojadą_n|towary nie dojadą na czas
+qstr_towarów_nie_dostarc|towarów nie dostarczą i ino straty będą
+qstr_handel_podupadnie_a_|handel podupadnie, a babka mówiła, że sucha wiosna idzie
+qstr_dzieci_dom_mi_roznio|dzieci dom mi rozniosą
+qstr_nie_będę_mogła_pl|nie będę mogła pleć grządek
+qstr_chłopi_na_targ_grz�|chłopi na targ grząskimi traktami nie zjadą
+qstr_gdzie_się_durny_wł|gdzie się durny włóczy po deszczu
+qstr_pewno_piwsko_chleje_|pewno piwsko chleje w szynku i o dziatkach, ni świecie nie pamięta
+qstr_licho_wie_gdzie_jest|licho wie gdzie jest i z kim to się zadaję, nauczę rozumu gdy wróci
+qstr_tyle_deszczu_było|tyle deszczu było
+qstr_padało_tyle|padało tyle
+qstr_lało_od_świtu_do_n|lało od świtu do nocy
+qstr_za_mojego_życia_nie|za mojego życia nie pamiętam
+qstr_nie_było_nigdy_wcze|nie było nigdy wcześniej
+qstr_10_lat_nie_było|10 lat nie było
+qstr_pewnikiem_wszystkie_|pewnikiem wszystkie trakty zamokną
+qstr_trakty_znowuż_niepr|trakty znowuż nieprzejezdne będą
+qstr_znowu_stać_i_czeka�|znowu stać i czekać nam przyjdzie, bez pożytku nijakiego
+qstr_W_krzyżu_łomie|W krzyżu łomie
+qstr_W_kościach_łomie|W kościach łomie
+qstr_eh_żyć_się_odechc|eh, żyć się odechciewa
+qstr_kiedyż_wreszcie_pad|kiedyż wreszcie padać przestanie.
+qstr_zamokniętej_marchew|zamokniętej marchewki
+qstr_zamokniętego_grochu|zamokniętego grochu
+qstr_mokrych_kartofli|mokrych kartofli
+qstr_Psia_mać|Psia mać
+qstr_do_wszystkich_diabł|do wszystkich diabłów
+qstr_sobaczy_los|sobaczy los
+qstr_Piwa|Piwa
+qstr_Wina|Wina
+qstr_Wódki|Wódki
+qstr_taką|taką
+qstr_parszywą|parszywą
+qstr_psią|psią
+qstr_ale_kiesa_pusta|ale kiesa pusta
+qstr_lecz_grosza_nie_ma|lecz grosza nie ma
+qstr_Czołem|Czołem
+qstr_Moje_uszanowanie|Moje uszanowanie
+qstr_Czołem_Panie_Bracie|Czołem Panie Bracie
+qstr_Witam_waćpana|Witam waćpana
+qstr_Wyborne|Wyborne
+qstr_Przednie|Przednie
+qstr_Wspaniałe|Wspaniałe
+qstr_dłużej_w_tym_mieś|dłużej w tym mieście
+qstr_jeszcze_kilka_dni|jeszcze kilka dni
+qstr_wszystko_co_dobre_sw|wszystko co dobre swój koniec ma, czas w drogę
+qstr_Diabli_nadali|Diabli nadali
+qstr_mogłoby_popadać|mogłoby popadać
+qstr_coś_dawno_nie_pada�|coś dawno nie padało
+qstr_Nie_ma_nic_do_robien|Nie ma nic do robienia
+qstr_Nic_ciekawego_niema|Nic ciekawego niema
+qstr_zaplutej|zaplutej
+qstr_parszywej|parszywej
+qstr_trunki|trunki
+qstr_miody|miody
+qstr_wina|wina
+qstr_Witam_{s69}.|Witam, {s69}.
+qstr_Dzień_dobry.|Dzień dobry.
+qstr_Piękny_dziś_mamy_d|Piękny dziś mamy dzień, {s69}.
+qstr_na_dzisiejszy_bal|na dzisiejszy bal
+qstr_na_dzisiejszą_kolac|na dzisiejszą kolację
+qstr_tylko_w_Paryżu_pię|tylko w Paryżu piękne można kupić
+qstr_piękna|piękna
+qstr_cudowna|cudowna
+qstr_znakomita|znakomita
+qstr_piknik|piknik
+qstr_przejażdżkę_kolas|przejażdżkę kolasą za miasto
+qstr_spacer|spacer
+qstr_Dobry_dzień.|Dobry dzień.
+qstr_Kłaniam_się_nisko.|Kłaniam się nisko.
+qstr_Witam.|Witam.
+qstr_Dobry.|Dobry.
+qstr_Do_licha|Do licha
+qstr_Doskonała_pogoda|Doskonała pogoda
+qstr_Świetna_pogoda|Świetna pogoda
+qstr_Znakomita_pogoda|Znakomita pogoda
+qstr_piwo|piwo
+qstr_ryby|ryby
+qstr_grzyby|grzyby
+qstr_wizytę_w_szynku|wizytę w szynku
+qstr_w_tym_kraju|w tym kraju
+qstr_w_tym_województwie|w tym województwie
+qstr_tutaj|tutaj
+qstr_Niech_to_licho|Niech to licho
+qstr_zrobiłbym_wszystko|zrobiłbym wszystko
+qstr_oddałbym_życie|oddałbym życie
+qstr_zwodowałem_wczoraj_|zwodowałem wczoraj szkutę ze zbożem pod Sandomierzem
+qstr_coraz_więcej_płót|coraz więcej płótna się  sprzedaje
+qstr_otworzyłem_nowy_skl|otworzyłem nowy sklep we Lwowie
+qstr_dobre_plony_były_w_|dobre plony były w roku ubiegłym
+qstr_Chłopi_mi_uciekają|Chłopi mi uciekają z folwarku
+qstr_długi_mam_u_tutejsz|długi mam u tutejszego lichwiarza
+qstr_duszno|duszno
+qstr_straszna_duchota|straszna duchota
+qstr_parno|parno
+qstr_Piękny_dzionek|Piękny dzionek
+qstr_Wspaniała_pogoda|Wspaniała pogoda
+qstr_Tak_gorąco|Tak gorąco
+qstr_No_dalej|No dalej
+qstr_Dalej|Dalej
+qstr_nicponie|nicponie
+qstr_łajdaki|łajdaki
+qstr_święta|święta
+qstr_parady|parady
+qstr_hołota|hołota
+qstr_plebs|plebs
+qstr_gałgany|gałgany
+qstr_tchórze|tchórze
+qstr_We_Francji|We Francji
+qstr_We_Włoszech|We Włoszech
+qstr_W_Anglii|W Anglii
+qstr_ERROR:_[waveStart]_r|ERROR: [waveStart] region == -1
+qstr_INFO:_[waveStart]_{s|INFO: [waveStart] {s0} started wave towards {s1}
+qstr_INFO:_[waveUpdate][{|INFO: [waveUpdate][{reg1}] wave will last for {reg0} hours
+qstr_{reg0}/{reg1}|{reg0}/{reg1}
+qstr_{reg0}_size:_{reg1}|{reg0} size: {reg1}
+qstr_{s0}_considered_capt|{s0} considered captured...
+qstr_{reg0}_is_next_targe|{reg0} is next target
+qstr_{s1}_to_attack_{s0}|{s1} to attack {s0}
+qstr_{s25}_{s0}|{s25}, {s0}
+qstr_{s26}_{s1}|{s26}, {s1}
+qstr_Imperium_Rosyjskiego|Imperium Rosyjskiego
+qstr_Królestwa_Prus|Królestwa Prus
+qstr_Monarchii_Habsburgó|Monarchii Habsburgów
+qstr_[etap4Update]:_{reg0|[etap4Update]: {reg0} time: {reg1}
+qstr_Stop_sounds...|Stop sounds...
+qstr_Podwojna_linia|Podwojna linia
+qstr_Nie_możesz_używać_|Nie możesz używać tej formacji z takim wojskiem
+qstr_Nie_możesz_użyć_t|Nie możesz użyć tej formacji dla kawalerii.
+qstr_Masz_na_sobie_mundur|Masz na sobie mundur. Nie uda ci się tak złapać zdrajców
+qstr_Miasto_nie_jest_w_r�|Miasto nie jest w rękach Kościuszkowców. Nie uda ci się tak złapać zdrajców
+qstr_Starting_execution..|Starting execution...
+qstr_okno|okno
+qstr_pies|pies
+qstr_dzwony|dzwony
+qstr_mucha|mucha
+qstr_Egzekucje_odbywają_|Egzekucje odbywają się na przedmieściach miast. Możesz spotkać je wykonując zadania.　Zaczekaj na miejscu na dalszy przebieg zdarzeń.
+qstr_Postaci_które_musis|Postaci, które musisz odszukać zawsze przebywają w scenie. Nad ich głowami znajduje się znacznik, ułatwiający poszukiwania.
+qstr_Aby_ukończyć_zadan|Aby ukończyć zadanie odnajdź w lokacji zleceniodawcę. Nad  głową postaci zawsze znajduje się znacznik.
+qstr_Warchoł_to_postać_|Warchoł to postać znajdująca się w każdym z miast, zarówno w centrum, jak i na przedmieściach. W dowolny czasie możesz stoczyć pojedynek, aby zdobyć pieniądze i renomę.
+qstr_DEBUG:_{reg45}_enemi|DEBUG: {reg45} enemies are following player
+qstr_Nie_możesz_wyjśc_w|Nie możesz wyjśc w trakcie egzekucji.
+qstr_You_got_keys_of_dung|You got keys of dungeon.
+qstr_WTF_PLAYER_IS_NOT_AC|WTF, PLAYER IS NOT ACTIVE?
+qstr_leaders_{s0}_{s1}|leaders {s0}, {s1}
+qstr_AI_formations_initia|AI formations initialized!
+qstr_stan_formacji:_{reg0|stan formacji: {reg0}
+qstr_ally:_{reg0}_enemy:_|ally: {reg0} enemy: {reg1}
+qstr_tactic_distance:_{re|tactic distance: {reg0}
+qstr_cav_vs_inf|cav vs inf
+qstr_taktyka_1|taktyka 1
+qstr_taktyka_2|taktyka 2
+qstr_taktyka_3|taktyka 3
+qstr_cav_vs_cav|cav vs cav
+qstr_inf_vs_inf|inf vs inf
+qstr_inf_vs_cav|inf vs cav
+qstr_team_{reg0}:_{reg1}|team {reg0}: {reg1}
+qstr_Cannons_init|Cannons init
+qstr_Spawning_cannon_a|Spawning cannon a
+qstr_Spawning_cannon_b|Spawning cannon b
+qstr_assigning_{s0}_to_ma|assigning {s0} to marker no {reg0}
+qstr_You_must_stay_behind|You must stay behind the line on the ground! Point is not counted.
+qstr_Poddajesz_sie|Poddajesz sie
+qstr_Poddajesz_się.|Poddajesz się.
+qstr_Twoja_runda!|Twoja runda!
+qstr_Tutorial|Tutorial
+qstr_Klucz_który_posiada|Klucz, który posiadasz nie pasuje do tego zamka. Znajdź inny sposób, aby dostać się do środka.
+qstr_Zdobądź_klucz_aby_|Zdobądź klucz, aby otworzyć drzwi.
+qstr_Głos_z_wewnątrz:^H|Głos z wewnątrz:^Hej, ludzie! Tutaj! Nie zostawiajcieaaaa...
+qstr_Glos_z_wewnatrz:^Hej|Glos z wewnatrz:^Hej, ludzie! Tutaj! Nie zostawiajcieaaaa...
+qstr_Coś_mi_się_widzi_�|Coś mi się widzi, że dalej jednak nie pójdziecie...
+qstr_Stan:_{reg0}|Stan: {reg0}
+qstr_Werbownik_to_postać|Werbownik to postać u której możesz kupować i uzupełniać regimenty. Postać znajduje się w obozie, a także w miastach frakcji do której należysz.
+qstr_You_came_into_the_wo|You came into the world a {reg3?daughter:son} of declining nobility, owning only the house in which they lived. However, despite your family's hardships, they afforded you a good education and trained you from childhood for the rigors of aristocracy and life at court.
+qstr_You_were_born_the_{r|You were born the {reg3?daughter:son} of travelling merchants, always moving from place to place in search of a profit. Although your parents were wealthier than most and educated you as well as they could, you found little opportunity to make friends on the road, living mostly for the moments when you could sell something to somebody.
+qstr_As_a_child_your_fami|As a child, your family scrabbled out a meagre living from your father's wages as a guardsman to the local lord. It was not an easy existence, and you were too poor to get much of an education. You learned mainly how to defend yourself on the streets, with or without a weapon in hand.
+qstr_{reg3?daughter:son}|{reg3?daughter:son}
+qstr_You_were_the_{reg3?d|You were the {reg3?daughter:son} of a family who lived off the woods, doing whatever they needed to make ends meet. Hunting, woodcutting, making arrows, even a spot of poaching whenever things got tight. Winter was never a good time for your family as the cold took animals and people alike, but you always lived to see another dawn, though your brothers and sisters might not be so fortunate.
+qstr_You_were_a_child_of_|You were a child of the steppe, born to a tribe of wandering nomads who lived in great camps throughout the arid grasslands. Like the other tribesmen, your family revered horses above almost everything else, and they taught you how to ride almost before you learned how to walk. 
+qstr_As_the_{reg3?daughte|As the {reg3?daughter:son} of a thief, you had very little 'formal' education. Instead you were out on the street, begging until you learned how to cut purses, cutting purses until you learned how to pick locks, all the way through your childhood. Still, these long years made you streetwise and sharp to the secrets of cities and shadowy backways.
+qstr_As_a_{reg3?girl:boy}|As a {reg3?girl:boy} growing out of childhood, you were sent to live in the court of one of the nobles of the land. There, your first lessons were in humility, as you waited upon the lords and ladies of the household. But from their chess games, their gossip, even the poetry of great deeds and courtly love, you quickly began to learn about the adult world of conflict and competition. You also learned from the rough games of the other children, who battered at each other with sticks in imitation of their elders' swords.
+qstr_As_a_{reg3?girl:boy}_|As a {reg3?girl:boy} growing out of childhood, you apprenticed with a local craftsman to learn a trade. After years of hard work and study under your new master, he promoted you to journeyman and employed you as a fully paid craftsman for as long as you wished to stay.
+qstr_As_a_{reg3?girl:boy}_g|As a {reg3?girl:boy} growing out of childhood, you apprenticed to a wealthy merchant, picking up the trade over years of working shops and driving caravans. You soon became adept at the art of buying low, selling high, and leaving the customer thinking they'd got the better deal.
+qstr_As_a_{reg3?girl:boy}_gr|As a {reg3?girl:boy} growing out of childhood, you took to the streets, doing whatever you must to survive. Begging, thieving and working for gangs to earn your bread, you lived from day to day in this violent world, always one step ahead of the law and those who wished you ill.
+qstr_As_a_{reg3?girl:boy}_gro|As a {reg3?girl:boy} growing out of childhood, you rode the great steppes on a horse of your own, learning the ways of the grass and the desert. Although you sometimes went hungry, you became a skillful hunter and pathfinder in this trackless country. Your body too started to harden with muscle as you grew into the life of a nomad {reg3?woman:man}.
+qstr_{reg3?daughter:man}|{reg3?daughter:man}
+qstr_Though_the_distincti|Though the distinction felt sudden to you, somewhere along the way you had become a {reg3?woman:man}, and the whole world seemed to change around you. When you were named squire to a noble at court, you practiced long hours with weapons, learning how to deal out hard knocks and how to take them, too. You were instructed in your obligations to your lord, and of your duties to those who might one day be your vassals. But in addition to learning the chivalric ideal, you also learned about the less uplifting side -- old warriors' stories of ruthless power politics, of betrayals and usurpations, of men who used guile as well as valor to achieve their aims.
+qstr_{reg3?woman:man}|{reg3?woman:man}
+qstr_Though_the_distinctio|Though the distinction felt sudden to you, somewhere along the way you had become a {s13}, and the whole world seemed to change around you. You joined the tightly-knit circle of women at court, ladies who all did proper ladylike things, the wives and mistresses of noble men as well as maidens who had yet to find a husband. However, even here you found politics at work as the ladies schemed for prominence and fought each other bitterly to catch the eye of whatever unmarried man was in fashion at court. You soon learned ways of turning these situations and goings-on to your advantage. With it came the realisation that you yourself could wield great influence in the world, if only you applied yourself with a little bit of subtlety.
+qstr_Though_the_distinction|Though the distinction felt sudden to you, somewhere along the way you had become a {s13}, and the whole world seemed to change around you. You set out on your own with nothing except the instrument slung over your back and your own voice. It was a poor existence, with many a hungry night when people failed to appreciate your play, but you managed to survive on your music alone. As the years went by you became adept at playing the drunken crowds in your taverns, and even better at talking anyone out of anything you wanted.
+qstr_Though_the_distinction_|Though the distinction felt sudden to you, somewhere along the way you had become a {reg3?woman:man}, and the whole world seemed to change around you. You found yourself as a student in the university of one of the great cities, where you studied theology, philosophy, and medicine. But not all your lessons were learned in the lecture halls. You may or may not have joined in with your fellows as they roamed the alleys in search of wine, women, and a good fight. However, you certainly were able to observe how a broken jaw is set, or how an angry townsman can be persuaded to set down his club and accept cash compensation for the destruction of his shop.
+qstr_Though_the_distinction_f|Though the distinction felt sudden to you, somewhere along the way you had become a {s13}, and the whole world seemed to change around you. Heeding the call of the open road, you travelled from village to village buying and selling what you could. It was not a rich existence, but you became a master at haggling even the most miserly elders into giving you a good price. Soon, you knew, you would be well-placed to start your own trading empire...
+qstr_Though_the_distinction_fe|Though the distinction felt sudden to you, somewhere along the way you had become a {s13}, and the whole world seemed to change around you. You pursued a career as a smith, crafting items of function and beauty out of simple metal. As time wore on you became a master of your trade, and fine work started to fetch fine prices. With food in your belly and logs on your fire, you could take pride in your work and your growing reputation.
+qstr_Though_the_distinction_fel|Though the distinction felt sudden to you, somewhere along the way you had become a {s13}, and the whole world seemed to change around you. Dissatisfied with common men's desperate scrabble for coin, you took to your local lord's own forests and decided to help yourself to its bounty, laws be damned. You hunted stags, boars and geese and sold the precious meat under the table. You cut down trees right under the watchmen's noses and turned them into firewood that warmed many freezing homes during winter. All for a few silvers, of course.
+qstr_Only_you_know_exactl|Only you know exactly what caused you to give up your old life and become an adventurer. Still, it was not a difficult choice to leave, with the rage burning brightly in your heart. You want vengeance. You want justice. What was done to you cannot be undone, and these debts can only be paid in blood...
+qstr_Only_you_know_exactly|Only you know exactly what caused you to give up your old life and become an adventurer. All you can say is that you couldn't bear to stay, not with the memories of those you loved so close and so painful. Perhaps your new life will let you forget, or honour the name that you can no longer bear to speak...
+qstr_Only_you_know_exactly_|Only you know exactly what caused you to give up your old life and become an adventurer. You're not even sure when your home became a prison, when the familiar became mundane, but your dreams of wandering have taken over your life. Whether you yearn for some faraway place or merely for the open road and the freedom to travel, you could no longer bear to stay in the same place. You simply went and never looked back...
+qstr_Only_you_know_exactly_w|Only you know exactly what caused you to give up your old life and become an adventurer. However, you know you cannot go back. There's nothing to go back to. Whatever home you may have had is gone now, and you must face the fact that you're out in the wide wide world. Alone to sink or swim...
+qstr_Only_you_know_exactly_wh|Only you know exactly what caused you to give up your old life and become an adventurer. To everyone else, it's clear that you're now motivated solely by personal gain. You want to be rich, powerful, respected, feared. You want to be the one whom others hurry to obey. You want people to know your name, and tremble whenever it is spoken. You want everything, and you won't let anyone stop you from having it...
+qstr_Back_to_the_beginnin|Back to the beginning...
+qstr_View_next_segment...|View next segment...
+qstr_^No_food:___{reg7}|^No food:  -{reg7}
+qstr_^Wage_debt:___{reg6}|^Wage debt:  -{reg6}
+qstr_Appoint_next_marshal|Appoint next marshal
+qstr_Award_{s12}_as_fief|Award {s12} as fief
+qstr_No_one|No one
+qstr_Selected_faction_is:|Selected faction is: {s10}^^{s9}
+qstr_You_are_currently_re|You are currently reading {s8}.
+qstr_You_are_not_reading_|You are not reading any books.
+qstr_none|none
+qstr_{s5}_and_{s6}|{s5} and {s6}
+qstr_Your_estates_are:_{s|Your estates are: {s8}.^{s9}
+qstr_Current_party_size_l|Current party size limit is {reg5}.^Current party size modifiers are:^^Base size:  +30^Leadership: {s2}{reg1}^Charisma: {s3}{reg2}^Renown: {s4}{reg3}^TOTAL:  {reg5}
+qstr_Lojalni|Lojalni
+qstr_Oddani|Oddani
+qstr_Lubiący|Lubiący
+qstr_Wdzięczni|Wdzięczni
+qstr_Przyjaźni|Przyjaźni
+qstr_Wspierający|Wspierający
+qstr_Życzliwi|Życzliwi
+qstr_Współpracujący|Współpracujący
+qstr_Akceptujący|Akceptujący
+qstr_Obojętni|Obojętni
+qstr_Podejrzliwi|Podejrzliwi
+qstr_Narzekający|Narzekający
+qstr_Wrogo_nastawieni|Wrogo nastawieni
+qstr_Niechętni|Niechętni
+qstr_Rozgniewani|Rozgniewani
+qstr_Nienawidzący|Nienawidzący
+qstr_Żądni_zemsty|Żądni zemsty
+qstr_Mściwi|Mściwi
+qstr_Masz_następujące_r|Masz następujące relacje z frakcjami:^{s2}
+qstr_AIPower:_{reg0}_4Eta|AIPower: {reg0}, 4Etap: {reg1}
+qstr_czynnik_pogody:_{reg|czynnik pogody: {reg0}
+qstr_lost|lost
+qstr_won|won
+qstr_gave_up|gave up
+qstr_Player_renown_is_inc|Player renown is increased by 100. 
+qstr_Player_honor_is_incr|Player honor is increased by 1 and it is now {reg7}.
+qstr_{reg1}_{s1}_{reg2?ac|{reg1} {s1} {reg2?accept:accepts} the offer.
+qstr_No_one_accepts_the_o|No one accepts the offer.
+qstr_You_start_reading_{s|You start reading {s2}. After a few pages, you feel you could learn a lot from this book. You decide to keep it close by and read whenever you have the time.
+qstr_You_flip_through_the|You flip through the pages of {s2}, but you find the text confusing and difficult to follow. Try as you might, it soon gives you a headache, and you're forced to give up the attempt.
+qstr_Napotkałeś_{s1}.|Napotkałeś {s1}.
+qstr_Napotkałeś_{s1}_gd|Napotkałeś {s1}, gdy najeżdżał {s3}.
+qstr_Zostałeś_złapany_|Zostałeś złapany przez {s1} podczas gdy najeżdżałeś {s3}.
+qstr_Zwyciężyłeś!|Zwyciężyłeś!
+qstr_Bitwa_przegrana._Two|Bitwa przegrana. Twoje siły zostały zmiażdżone.
+qstr_Twoi_towarzysze_wyno|Twoi towarzysze wynoszą cię z pola bitwy.
+qstr_Pokonałeś_przeciwn|Pokonałeś przeciwnika.
+qstr_Uciekłeś_z_pola_bi|Uciekłeś z pola bitwy.
+qstr_^^Straty_sojusznika:|^^Straty sojusznika:{s0}
+qstr_{s1}_z_{s3}_zdołał|{s1} z {s3} zdołał uciec.
+qstr_Some_of_your_tendons|Some of your tendons have been damaged in the battle. You lose 1 strength.
+qstr_You_took_a_nasty_wou|You took a nasty wound which will cause you to limp slightly even after it heals. You lose 1 agility.
+qstr_You_have_trouble_thi|You have trouble thinking straight after the battle, perhaps from a particularly hard hit to your head, and frequent headaches now plague your existence. Your intelligence is reduced by 1.
+qstr_Perhaps_I_m_getting_|Perhaps I'm getting unlucky...
+qstr_Retirement_is_starti|Retirement is starting to sound better and better.
+qstr_No_matter!_I_will_pe|No matter! I will persevere!
+qstr_What_did_I_do_to_des|What did I do to deserve this?
+qstr_I_suppose_it_ll_make|I suppose it'll make for a good story, at least...
+qstr_{s9}_wants_you_to_fo|{s9} wants you to follow his army until further notice.
+qstr_Jesteś_w_{reg6?mie�|Jesteś w {reg6?mieście:zamku}
+qstr_{s8}_of_{s9}|{s8} of {s9}
+qstr__Your_own_banner_fli| Your own banner flies over the castle gate.
+qstr__You_see_the_banner_| You see the banner of {s7} over the castle gate.
+qstr__Your_own_banner_flie| Your own banner flies over the town gates.
+qstr__You_see_the_banner_o| You see the banner of {s7} over the town gates.
+qstr_Złapałeś_{reg0}/3|Złapałeś {reg0}/3 zdrajców
+qstr_The_{reg6?town_s:cas|The {reg6?town's:castle's} food stores should last for {reg3} more days.
+qstr_The_{reg6?town_s:cast|The {reg6?town's:castle's} food stores have run out and the defenders are starving.
+qstr_You_re_preparing_to_|You're preparing to attack the walls, the work should finish in {reg9} hours.
+qstr_Your_forces_are_buil|Your forces are building a siege tower. They estimate another {reg9} hours to complete the build.
+qstr_You_are_ready_to_att|You are ready to attack the walls at any time.
+qstr_The_siege_tower_is_b|The siege tower is built and ready to make an assault.
+qstr_{reg6}|{reg6}
+qstr_Spawnuje_artylerzyst|Spawnuje artylerzystow obok {s0}|{s1}
+qstr_cos_sie_spierniczylo|cos sie spierniczylo.... error kurde...
+qstr_As_a_last_defensive_|As a last defensive effort, you retreat to the main hall of the keep. You and your remaining soldiers will put up a desperate fight here. If you are defeated, there's no other place to fall back to.
+qstr_You_ve_been_driven_a|You've been driven away from the walls. Now the attackers are pouring into the streets. IF you can defeat them, you can perhaps turn the tide and save the day.
+qstr_You_ve_breached_the_|You've breached the town walls, but the stubborn defenders continue to resist you in the streets! You'll have to deal with them before you can attack the keep at the heart of the town.
+qstr_script_give_center_t|script give center to faction 0
+qstr_However_since_you_ar|However, since you are not a sworn {man/follower} of {s9}, there is no chance he would recognize you as the {lord/lady} of this {reg8?town:castle}.
+qstr_Wróg_został_zmuszo|Wróg został zmuszony do ucieczki. Szturm dobiega końca, lecz oblężenie nadal trwa.
+qstr_As_you_approach_you_|As you approach, you are spotted by the castle guards, who welcome you and open the gates for their {king/queen}.
+qstr_As_you_approach_you_a|As you approach, you are spotted by the castle guards, who welcome you and open the gates for their {lord/lady}.
+qstr_No_one_here_seems_to|No one here seems to be willing to join your party.
+qstr_One_{s3}_volunteers_|One {s3} volunteers to follow you.
+qstr_{reg5}_{s3}_voluntee|{reg5} {s3} volunteer to follow you.
+qstr_Try_as_you_might_you|Try as you might, you could not defeat the bandits. Infuriated, they raze the village to the ground to punish the peasants, and then leave the burning wasteland behind to find greener pastures to plunder.
+qstr_village|village
+qstr_town|town
+qstr_castle|castle
+qstr_The_{s17}_has_no_imp|The {s17} has no improvements.
+qstr_The_{s17}_has_the_fo|The {s17} has the following improvements:{s18}.
+qstr_The_assasins_beat_yo|The assasins beat you down and leave you for dead. .
+qstr_You_have_fallen._The|You have fallen. The bandits quickly search your body for every coin they can find, then vanish into the night. They have left you alive, if only barely.
+qstr_Luckily_some_of_your|Luckily some of your companions come to search for you when you do not return, and find you lying by the side of the road. They hurry you to safety and dress your wounds.
+qstr_Luckily_some_passing|Luckily some passing townspeople find you lying by the side of the road, and recognise you as something other than a simple beggar. They carry you to the nearest inn and dress your wounds.
+qstr_You_fail_to_steal_an|You fail to steal any cattle.
+qstr_You_drive_away_{reg1|You drive away {reg17} {reg12?heads:head} of cattle from the village's herd.
+qstr_You_are_at_{s2}.|You are at {s2}.
+qstr__This_castle_has_no_| This castle has no garrison.
+qstr__This_town_has_no_ga| This town has no garrison.
+qstr__You_have_successful| You have successfully sneaked in.
+qstr_{s13}_A_tournament_w|{s13} A tournament will be held here soon.
+qstr_{reg0}_{s0}_dna:_{re|{reg0} {s0} dna: {reg1}
+qstr___{reg1}_talarów_za| ({reg1} talarów za noc)
+qstr_Moreover_you_earn_{r|Moreover, you earn {reg8} denars from the clever bets you placed on yourself...
+qstr_Victory_is_yours!_Yo|Victory is yours! You have won this melee, but now you must prepare yourself for the next round. 
+qstr_You_have_been_bested|You have been bested in this melee, but the master of ceremonies declares a recognition of your skill and bravery, allowing you to take part in the next round. 
+qstr_You_were_beaten._The|You were beaten. The peasants are heartened by their success, but the lesson you wanted to teach them probably didn't get through...
+qstr_After_beating_your_l|After beating your last opponent, you explain to the peasants how to better defend themselves against such an attack. Hopefully they'll take the experience on board and will be prepared next time.
+qstr_The_bandits_are_brok|The bandits are broken! Those few who remain alive and conscious run off with their tails between their legs, terrified of the peasants and their new champion.
+qstr_{s1}_s_Ship|{s1}'s Ship
+qstr_However_{reg3?You_ar|However, {reg3?You are:{s1} is} unable to find any trade goods that would bring a profit.
+qstr_^Buying_{s4}_here_an|^Buying {s4} here and selling it at {s5} would bring a profit of {reg6} denars per item.{s3}
+qstr_{reg3?You_find:{s1}_|{reg3?You find:{s1} finds} out the following:^{s3}
+qstr_{s2}^{reg1}_{s1}_ear|{s2}^{reg1} {s1} earned {reg0} experience.
+qstr_{s2}^{s1}_earned_an_|{s2}^{s1} earned an additional {reg0} experience.
+qstr_^You_earned_{reg0}_e|^You earned {reg0} experience.{s2}
+qstr_The_training_didn_t_|The training didn't go well at all.
+qstr_The_training_didn_t_g|The training didn't go very well.
+qstr_The_training_went_qu|The training went quite well.
+qstr_The_training_went_ve|The training went very well.
+qstr_The_training_went_pe|The training went perfectly.
+qstr_{s13}_asked_you_to_r|{s13} asked you to report to him with at least {reg13} troops.
+qstr_{s13}_ordered_you_to|{s13} ordered you to join the assault against {s14}.
+qstr_Find_and_speak_with_|Find and speak with {s3} of {s4} to give him your oath of homage.
+qstr_There_has_been_an_al|There has been an alleged border incident: {s9}
+qstr_^^Note_that_so_long_|^^Note that so long as you remain marshal, the lords of the realm will be expecting you to lead them on campaign. So, if you are awaiting a feast, either for a wedding or for other purposes, you may wish to resign the marshalship by speaking to your liege.
+qstr_Zbliżasz_się_do_kr|Zbliżasz się do kryjówki maruderów.
+qstr_Wygrana!|Wygrana!
+qstr_Przegrana!|Przegrana!
+qstr_Bitwa_przegrana!_Woj|Bitwa przegrana! Wojska chroniące konwój skutecznie odparły atak.
+qstr_Bitwa_wygrana!_Konw�|Bitwa wygrana! Konwój został przejęty!
+qstr_Wrogi_konwój_wpadł|Wrogi konwój wpadł w zasadzkę, okazał się być jednak znacznie lepiej chroniony niż zwiadowcy donosili...
+qstr_Prezentacja_regiment|Prezentacja regimentów.
+qstr_Wróć_na_mapę_stra|Wróć na mapę strategiczną.
+qstr_Twój_przeciwnik_tri|Twój przeciwnik triumfuje. Gdy leżysz raniony, udaje mu się niepostrzeżenie odjechać...
+qstr_Wygrywasz_pojedynek.|Wygrywasz pojedynek.
+qstr_{playername}_bez_zw�|{playername}, bez zwłoki przybywaj do Budapesztu. Mam ci do przekazania wieści wielkiej wagi.^^^              Ignac Martinovics 
+qstr_Błyskotliwą_prowok|Błyskotliwą prowokację, zakończyło równie błyskotliwe zwycięstwo. Oponent padł bez życia.
+qstr_Mimo_błyskotliwej_p|Mimo błyskotliwej prowokacji, oponent zatriumfował w starciu. 
+qstr_Dzięki_sprawnej_akc|Dzięki sprawnej akcji odbicia spiskowców, ich dywersyjny atak na budynki garnizonu powiódł się. Możliwości obronne miasta zostały znacznie osłabione.
+qstr_Na_przedmieściach_w|Na przedmieściach wybuchły zamieszki. Część wojska należąca do garnizonu, została wysłana w celu stłumienia rozruchów, osłabiając tym samym potencjał obronny miasta.
+qstr_Atak_na_dowódcę_ga|Atak na dowódcę garnizonu obniżył morale i dyscyplinę załogi miasta. Nastąpiła masowa dezercja.
+qstr_Przykro_nam_ale_star|Przykro nam, ale stare zapisy gry nie są kompatybilne z ta wersję. Rozpocznij nową grę.
+qstr_DEBUG:_Odbyly_sie_po|DEBUG: Odbyly sie pojedynki
+qstr_Zwijasz_obóz...|Zwijasz obóz...
+qstr_DEBUG:_party_id_{reg|DEBUG: party id {reg0}
+qstr_http://1794.com.pl/1794/ge|http://1794.com.pl/1794/get.php?type=100&ver={reg0}
+qstr_{s0}_powinno_zaczac_|{s0} powinno zaczac oblezenie
+qstr_Twój_oddział_zosta|Twój oddział zostaje zauważony przez: {s1}.
+qstr_Party_has_nothing_to|Party has nothing to eat!
+qstr_{reg1}_{s1}_{reg2?zd|{reg1} {s1} {reg2?zdołali:zdołał} uciec nocą z twojej drużyny.
+qstr_{s1}__{s3}__został_w|{s1} ({s3}) został wypuszczony z niewoli.
+qstr_Fortyfikacja_{s1}_zn|Fortyfikacja {s1} znalazła się w rękach wroga! Doprowadź do przejęcia tego strategicznego punktu na mapie, aby móc z sukcesem prowadzić dalsze działania wojenne.
+qstr_Odnieś_zwycięstwo_|Odnieś zwycięstwo w bitwie z dowolnym wrogim oficerem.
+qstr_Building_of_{s0}_in_|Building of {s0} in {s4} has been completed.
+qstr_{s1}_is_no_longer_in|{s1} is no longer infested by bandits (at night).
+qstr_Płacisz_za_nocleg.|Płacisz za nocleg.
+qstr_Betrothal_to_{s5}_ex|Betrothal to {s5} expires
+qstr__Your_tactics_skill_| Your tactics skill has increased by 1.
+qstr__Your_persuasion_ski| Your persuasion skill has increased by 1.
+qstr__Your_leadership_ski| Your leadership skill has increased by 1.
+qstr__Your_intelligence_h| Your intelligence has increased by 1.
+qstr__Your_trade_skill_ha| Your trade skill has increased by 1.
+qstr__Your_weapon_master_| Your weapon master skill has increased by 1.
+qstr__Your_engineer_skill| Your engineer skill has increased by 1.
+qstr_You_have_finished_re|You have finished reading {s1}.{s2}
+qstr_Book_Read|Book Read
+qstr_You_have_{reg0}_days|You have {reg0} days to finish this quest.
+qstr_{s1}_is_scouted.|{s1} is scouted.
+qstr_{s1}_has_switched_fr|{s1} has switched from {s2} to {s3}.
+qstr_Przeciwnicy_opuszcza|Przeciwnicy opuszczaja karczme {s0}
+qstr_Przeciwnicy_przybywa|Przeciwnicy przybywaja do karczmy {s0}
+qstr_DEBUG:Usuwam_marker|DEBUG:Usuwam marker
+qstr_beh:_{reg0}_obj:_{re|beh: {reg0} obj: {reg1}, cur beh: {reg2} cur obj: {reg3}, slot state: {reg4}. slot obj, {reg5}
+qstr_DEBUG:_Wspolczynnik_|DEBUG: Wspolczynnik zwyciestwa wynosi: {reg0}
+qstr_updating_wave_for_fa|updating wave for faction {s0}
+qstr_Wygłosiłeś_manife|Wygłosiłeś manifest
+qstr_AI_tick_AIPower:_{re|AI tick, AIPower: {reg0}
+qstr_AI_3_etap...|AI 3 etap...
+qstr________ai_state_=_{r|       ai state = {reg0}
+qstr____________is_holdin|           is holding center and do nothing
+qstr_{s0}_patroluje_{s1}|{s0} patroluje {s1}
+qstr_4Etap_AI...|4Etap AI...
+qstr_DEBUG:_{s0}_doesnt_h|DEBUG: {s0} doesnt have a bound
+qstr_4etap_1:_{s0}_nadal_|4etap 1: {s0} nadal odpoczywa w {s1} ({reg0}%%) {reg1}/{reg2}
+qstr_4etap_1:_{s0}_idzie_|4etap 1: {s0} idzie odpoczywac w {s1} ({reg0}%%) {reg1}/{reg2}
+qstr____center:_{reg0}|   center: {reg0}
+qstr_4etap_1:_{s0}_atakuj|4etap 1: {s0} atakuje {s1}
+qstr_AI_ani_3_ani_4_etap.|AI ani 3 ani 4 etap...
+qstr_Wyjście_z_gry_w_tym|Wyjście z gry w tym momencie może spowodować błąd.
+qstr_Szpieg_nie_powrocil_|Szpieg nie powrocil, najprawdopodobniej wpadl w rece wroga.
+qstr_{reg65?my_Lady:my_Lo|{reg65?my Lady:my Lord}
+qstr_{reg65?My_Lady:My_Lo|{reg65?My Lady:My Lord}
+qstr_{reg65?madame:sir}|{reg65?madame:sir}
+qstr_{reg65?Madame:Sir}|{reg65?Madame:Sir}
+qstr_Dialog_Level:_{reg4}|Dialog Level: {reg4}
+qstr_A_witam_witam...|A, witam, witam...
+qstr_Dobry...|Dobry...
+qstr_Ehem_czego?|Ehem, czego?
+qstr_Czołem_dobrze_was_w|Czołem, dobrze was widzieć. 
+qstr_Witam_waszmościa_z_|Witam waszmościa, z czym przychodzicie? 
+qstr_Czołem_w_czym_rzecz|Czołem, w czym rzecz?
+qstr_Witam_z_czym_przycho|Witam, z czym przychodzicie?
+qstr_Czołem_czego_wam_tr|Czołem, czego wam trzeba?
+qstr_Dobry_jak_pomóc_wa�|Dobry, jak pomóc waści?
+qstr_Czołem_Panie_Bracie!|Czołem Panie Bracie! 
+qstr_Witam_mospanie!_|Witam mospanie! 
+qstr_Dobrze_widzieć_wasz|Dobrze widzieć waszmościa, z czym przychodzicie?
+qstr_Żegnam.|Żegnam.
+qstr_A_witam_witam.|A, witam, witam.
+qstr_Dzień_dobry_z_czym_|Dzień dobry, z czym tam przychodzicie?
+qstr_Dobry_w_czym_pomóc_|Dobry, w czym pomóc mogę? 
+qstr_Uprzejmie_witam_mił|Uprzejmie witam, miło mi poznać waćpana...
+qstr_Witam_z_czy_waszmoś|Witam, z czy waszmość przychodzi? 
+qstr_A_żegnam_żegnam._|A żegnam, żegnam. 
+qstr_Do_obaczenia.|Do obaczenia.
+qstr_Żegnam._|Żegnam. 
+qstr_Ostańcie_w_zdrowiu.|Ostańcie w zdrowiu. 
+qstr_Bywajcie.|Bywajcie.
+qstr_Kłaniam_się_panu..|Kłaniam się panu...
+qstr_Witam_w_naszych_skro|Witam w naszych skromnych progach...
+qstr_Witaj_{playername}_z|Witaj {playername}, z czym przychodzisz?
+qstr_Witaj_kochany_co_ci�|Witaj kochany, co cię do mnie przywiodło?
+qstr_Witaj_mój_miły_co_|Witaj mój miły, co jeszcze mogę dla ciebie zrobić?
+qstr_Witaj_ukochany_czego|Witaj ukochany, czego pragniesz?
+qstr_Witaj_{playername}._|Witaj {playername}. Z czym przychodzisz?
+qstr_Żegnaj_ukochany..._|Żegnaj ukochany... liczę, że wkrótce znów się pojawisz.
+qstr_Tak_szybko?_Skoro_mu|Tak szybko? Skoro musisz... to nie zatrzymuję, ale liczę, że nie każesz mi długo czekać na ponowną wizytę.
+qstr_Dobry|Dobry
+qstr_Witam|Witam
+qstr_A_witam_witam|A, witam, witam
+qstr_Kłaniam_się_|Kłaniam się 
+qstr_Czołem_waszmości|Czołem waszmości
+qstr_Miło_mi_powitać_wa|Miło mi powitać waszmościa
+qstr_Kłaniam_się_uniże|Kłaniam się uniżenie
+qstr_Witam_mości_pana|Witam mości pana
+qstr_Witam_{s69}_{playern|Witam, {s69} {playername}, jeśli mnie oczy nie mylą? Zaszczyt to dla mnie
+qstr_Witam_waćpana_jeste|Witam waćpana, jestem zaszczycony
+qstr_w_czym_mogę_służy|w czym mogę służyć?
+qstr_jak_mogę_pomóc?|jak mogę pomóc?
+qstr_czego_wam_trzeba?|czego wam trzeba?
+qstr_Żegnam_nie_zapomina|Żegnam, nie zapominajcie gdzie można znaleźć mnie. 
+qstr_Bywajcie_i_nie_zapom|Bywajcie i nie zapomnijcie gdzie szukać mnie.
+qstr_Bywajcie_i_miejcie_w|Bywajcie i miejcie w pamięci mój skromny kram.
+qstr_I_co?_Rozmawialiści|I co? Rozmawialiście już z mym synem? Udało się? 
+qstr_I_co?_Przekonaliści|I co? Przekonaliście mego syna? 
+qstr_Kogo_żem_ja_posła�|Kogo, żem ja posłał, miast pomóc i przekonać, tylko poparł w durnocie. A idźcie do czorta!
+qstr_Co?!_Poparliście_to|Co?! Poparliście to szaleństwo?! Mór na was i mogiła dla syna mego. Do licha, po co żem was posłał?!
+qstr_Hę?_Z_kim_to_mam_pr|Hę? Z kim to mam przyjemność?
+qstr_Hę?_Z_czym_przychod|Hę? Z czym przychodzicie?
+qstr_Skąd_ja_to_wiedzia�|Skąd ja to wiedziałem? Ileż to razy mam powtarzać, że idę bić się za wolność Rzeczpospolitej i planów nie zmienię?
+qstr_Nie_nowina_mi_waszmo|Nie nowina mi, waszmość jest kolejnym przysłanym przez mego Ojca. Ciotkom się nie udało, wujom się nie udało i wam się nie uda mnie przekonać, mus mi ruszyć i bić się za Ojczyznę.
+qstr_Perswazja_nieudana.|Perswazja nieudana.
+qstr_Perswazja_częściow|Perswazja częściowo udana.
+qstr_Perswazja_udana.|Perswazja udana.
+qstr_Hę?_|Hę? 
+qstr_Czego_tam?_|Czego tam? 
+qstr_O_co_chodzi?|O co chodzi?
+qstr_W_wyniku_prowokacji_|W wyniku prowokacji uzyskałeś 1/3 punkty.
+qstr_W_wyniku_prowokacji_u|W wyniku prowokacji uzyskałeś 2/3 punkty.
+qstr_W_wyniku_prowokacji_uz|W wyniku prowokacji uzyskałeś 3/3 punkty.
+qstr_Hę?_Czego_tam?|Hę? Czego tam?
+qstr_Jeszcze_tu_jesteś?_|Jeszcze tu jesteś? Nic nie dostaniesz, żegnam. 
+qstr_Ile_razy_można_powt|Ile razy można powtarzać, że nic nie dostaniesz? Do niezobaczenia.
+qstr_Znaj_moje_dobre_serc|Znaj moje dobre serce i oddal się pókim dobry. 
+qstr_Eh_spartoliłeś_spr|Eh, spartoliłeś sprawę {playername}, lepiej odejdź...
+qstr_Zejdź_mi_z_oczu_bo_|Zejdź mi z oczu bo nie zdzierżę.
+qstr_Nie_właź_mi_w_drog|Nie właź mi w drogę, bo nie ręczę za siebie. 
+qstr_Jeszcze_tu_jesteś?!|Jeszcze tu jesteś?!
+qstr_Dług?_Ja_nic_nie_wi|Dług? Ja nic nie wiem o żadnym długu...
+qstr_Pierwsze_słyszę...|Pierwsze słyszę... co za dług?
+qstr_Zbieranie_długu_zak|Zbieranie długu zakończyło się niepowodzeniem.
+qstr_Odebrano_dług_{reg0|Odebrano dług {reg0}/3
+qstr_Zbieranie_długu_zako|Zbieranie długu zakończyło się częściowym powodzeniem.
+qstr_Zbieranie_długu_zako�|Zbieranie długu zakończyło się całkowitym powodzeniem.
+qstr_Dług?!_Co_za_dług_|Dług?! Co za dług, ja nic nie wiem
+qstr_Już_z_początku_wyg|Już z początku wyglądałeś mi na nieudacznika, teraz to potwierdzasz. Zejdź mi z oczu!
+qstr_Mogłem_przewidzieć|Mogłem przewidzieć, że to się tak skończy... Zejdź mi z oczu!
+qstr_oszust_i_fałszerz_o|oszust i fałszerz, od wielu ludzi wyłudził pieniądze... także ode mnie
+qstr_zdrajca_złożył_fa|zdrajca, złożył fałszywe zeznania w sądzie, na mojego brata
+qstr_ERROR_ERROR_ERRRORRR|ERROR ERROR ERRRORRRRRRRR NO TARGET FOUND!
+qstr_Niecnota|Niecnota
+qstr_Zgnilec|Zgnilec
+qstr_ERROR_ERROR_ERRRORRRR|ERROR ERROR ERRRORRRRRRRR!
+qstr_znowu_nie_komornik.|znowu nie komornik.
+qstr_znowu_nie_sąsiedzi_|znowu nie sąsiedzi, nie potłukłam celowo tych garnków.
+qstr_tylko_nie_burmistrz_|tylko nie burmistrz, skąd ma człowiek brać na te podatki.
+qstr_Znakomicie_oto_dowó|Znakomicie, oto dowód wdzięczności, do zobaczenia ponownie.
+qstr_Świetnie_macie_tu_w|Świetnie, macie tu w dowód wdzięczności, żegnam.
+qstr_Dziękuję_a_oto_skr|Dziękuję, a oto skromny grosz w dowód wdzięczności.
+qstr_Od_razu_widać_było|Od razu widać było, że nie się nienadajesz. Żegnam.
+qstr_Tchórz_obleciał_co|Tchórz obleciał, co? A tak stroszyłeś piórka napoczątku, hehe.
+qstr_Nie_dziwota_weź_cho|Nie dziwota, weź chociaż grosz za chęci.
+qstr_Bywa_i_tak_kto_ma_te|Bywa i tak, kto ma ten trzyma, a kto nie ma i tak nie wytrzyma, do widzenia.
+qstr_Masz_czegoś_chciał|Masz czegoś chciał, żegnam.
+qstr_Głupi_kto_w_cudze_s|Głupi, kto w cudze sprawy nosa wtyka, ale przyznać ci trzeba, że szablą umiesz obracać.
+qstr_Starczy_mi_na_dziś_|Starczy mi na dziś bicia się o baby, żegnam.
+qstr_Nie_zawracaj_mi_gło|Nie zawracaj mi głowy, zajęty jestem.
+qstr_Idź_gdzie_indziej_k|Idź gdzie indziej kopie kruszyć o cudze słowy.
+qstr_Nie_mam_ci_nic_do_po|Nie mam ci nic do powiedzenia, do nie zobaczenia. 
+qstr_Zejdź_mi_z_drogi_tc|Zejdź mi z drogi tchórzu.
+qstr_Nie_mam_nic_dla_cieb|Nie mam nic dla ciebie, poza kopem w rzyć.
+qstr_Gardzę_takimi_jak_w|Gardzę, takimi jak wy.
+qstr_Witaj|Witaj
+qstr_z_czym_przychodzisz|z czym przychodzisz
+qstr_w_czym_rzecz|w czym rzecz
+qstr_Czego_chcesz?|Czego chcesz?
+qstr_Jak_śmiesz_mnie_zat|Jak śmiesz mnie zatrzymywać?
+qstr_Z_czym_przychodzisz?|Z czym przychodzisz? 
+qstr_Udało_ci_się_pomy�|Udało ci się pomyślnie spieniężyć pojmanych bandytów!
+qstr_Uzyskana_kwota:_{reg|Uzyskana kwota: {reg0}
+qstr_Witam_dobrego_pana|Witam, dobrego pana
+qstr_Kłaniam_się_wielmo|Kłaniam się wielmożnemu panu
+qstr_grajkiem|grajkiem
+qstr_lirnikiem|lirnikiem
+qstr_pielgrzymem|pielgrzymem
+qstr_Ha_dobrze!_To_jest_w|Ha, dobrze! To jest wasza wygrana.
+qstr_Niech_was_diabli_dob|Niech was diabli, dobrze!
+qstr_Pudło_cóż_za_szko|Pudło, cóż za szkoda
+qstr_Aj_niestety_nie_uda�|Aj, niestety nie udało się.
+qstr_Oj_tym_razem_nie_pos|Oj, tym razem nie poszczęściło się. 
+qstr_Było_blisko_lecz_ni|Było blisko, lecz nie tym razem.
+qstr_Nie_tym_razem_a_szko|Nie tym razem, a szkoda! 
+qstr_Pudło_widać_niedob|Pudło, widać niedobry to dzień na zgadywanie. 
+qstr_Pewien|Pewien
+qstr_Jeden|Jeden
+qstr_kasztelan|kasztelan
+qstr_murarz|murarz
+qstr_wojewoda|wojewoda
+qstr_organista|organista
+qstr_pruskich|pruskich
+qstr_rosyjskich|rosyjskich
+qstr_austriackich|austriackich
+qstr_Kłaniam_się|Kłaniam się
+qstr_Pokornie_witam|Pokornie witam
+qstr_Dobry_dzień|Dobry dzień
+qstr_w_czym_mogę_służy�|w czym mogę służyć
+qstr_czego_wam_trzeba|czego wam trzeba
+qstr_w_czym_mógłbym_pom|w czym mógłbym pomóc
+qstr_Miłego_dnia|Miłego dnia
+qstr_Do_zobaczenia|Do zobaczenia
+qstr_Do_widzenia|Do widzenia
+qstr_Ciężkie_to_czasy_n|Ciężkie to czasy nastały
+qstr_Trudne_to_czasy_nast|Trudne to czasy nastały
+qstr_Niełatwy_to_czas_na|Niełatwy to czas nastał
+qstr_a_córkę_moją_za_m|a córkę moją za mąż wydać planuję, ale grosza na posag nie mam.
+qstr_na_żywność_trzeba|na żywność trzeba nam pieniędzy, a tu kiesa pusta.
+qstr_dla_żony_potrzebuje|dla żony potrzebuje, na płótno co by koszule poszyła dzieciakom, ale nie mam nic.
+qstr_a_mam_dług_u_tutejs|a mam dług u tutejszego lichwiarza i spłacić muszę, bo dach nad głową mi zabiorą.
+qstr_pracuje_a_rodziny_wy|pracuje a rodziny wyżywić nie mogę i tak cały czas, a oni głodni często chodzą.
+qstr_narzędzie_mi_się_w|narzędzie mi się w warsztacie zepsuły i nie mam jak pracować i wyżywić rodziny.
+qstr_Bóg_Wam_zapłać_do|Bóg Wam zapłać, dobry panie.
+qstr_Szczerze_dziękuje_d|Szczerze dziękuje dobremu panu.
+qstr_Niech_Bóg_Wam_w_dzi|Niech Bóg Wam w dziatkach wynagrodzi, szczodry panie.
+qstr_Witam_{s68}|Witam, {s68}
+qstr_Piękny_dziś_mamy_dz|Piękny dziś mamy dzień, {s68}
+qstr_Dzień_dobry|Dzień dobry
+qstr_co_was_do_mnie_sprow|co was do mnie sprowadza
+qstr_słucham_co_macie_mi|słucham, co macie mi do powiedzenia
+qstr_w_czym_mogę_pomóc|w czym mogę pomóc
+qstr_czego_potrzebujecie|czego potrzebujecie
+qstr_na_szlachtę_co_chę|na szlachtę co chędoży za darmo, a zamtuz niema zarobku
+qstr_na_ulewę_dach_mi_pr|na ulewę, dach mi przecieka i skoro tu władza rządzi niech naprawia
+qstr_na_psy_sąsiada_co_n|na psy sąsiada co nocą szczekają i spać nie dają
+qstr__na_zamtuz_tutejszy_| na zamtuz tutejszy, głośno tam całą noc dokazują, a ceny mają za wysokie
+qstr_na_sąsiada_mego_co_|na sąsiada mego, co cięgiem gówno i inne nieczystości przez okno wyrzuca, może zrobią z nim porządek
+qstr_na_ulice_co_z_każdy|na ulice, co z każdym tygodniem bardziej grząskie, nam bruk potrzebny
+qstr_na_sąsiadkę_co_mę|na sąsiadkę co mężczyzn miotłą bije gdy ich w pobliżu bordelu zoczy
+qstr_na_kupców_partaczy_|na kupców partaczy, co lepsze towary bez zezwolenia sprzedają
+qstr_na_szlachtę_co_wszy|na szlachtę co wszystko bierze darmo, a za protesta łeb usiecze
+qstr_na_pogodę_a_raczej_|na pogodę, a raczej rynny drewniane mi przesiąkają, chcę dopłat, żeby nowe zrobić
+qstr_na_karczmarza_co_tru|na karczmarza, co trunki wodą rozcieńcza, niech go Bóg pokarze
+qstr_na_tych_pijaków_prz|na tych pijaków przeklętych co burdy wszczynają i na krechę biorą
+qstr_naprzeciwko_mego_dom|naprzeciwko mego domu zamieszkało niebezpieczne indywiduum, widno złodziejka, a i mężczyzn bałamuci
+qstr_mój_sąsiad_ukradł|mój sąsiad ukradł mi mieszek ze skrzyni wczoraj i jeszcze Twierdzi kłamliwie, że to syn mój na wódkę wziął
+qstr_w_karczmie_stanął_|w karczmie stanął bogacz-dandys, jak nic sodomita
+qstr_bandyta_wczoraj_obse|bandyta wczoraj obserwował moje domostwo, do córki zagadywał lubieżnie
+qstr_rajca_defraudacyji_n|rajca defraudacyji niecnej się dopuszcza, zamiast drogi naprawiać;
+qstr_A_tak_jest_coś_co_m|A, tak, jest coś co możesz dla mnie zrobi, słuchaj uważnie.
+qstr_Mam_coś_odpowiednie|Mam coś odpowiedniego dla ciebie, słuchaj, tylko uważnie, bo drugi raz powtarzać nie będę.
+qstr_Zmartwienie_mam_niem|Zmartwienie mam niemałe drogi panie, słuchajcie jeśli łaska, a może coś poradzicie
+qstr_Biedę_mam_panie_sł|Biedę mam panie, słuchajcie jeśli łaska
+qstr_Syn_mój_młodzik_je|Syn mój, młodzik jeszcze, wkrótce dwadzieścia wiosen mieć będzie
+qstr_Mój_syn_ledwie_dwad|Mój syn, ledwie dwadzieścia wiosen na wiosnę mu będzie
+qstr_Syn_mój_jesienią_d|Syn mój, jesienią dwadzieścia pięć wiosen mieć będzie
+qstr_do_wolentarskiej_kom|do wolentarskiej kompanii zamiaruje się udać
+qstr_na_wolentarza_do_woj|na wolentarza do wojska zamiaruje iść
+qstr_chce_na_wolentarza_d|chce na wolentarza do piechoty się udać
+qstr_toż_go_ustrzelą_ni|toż go ustrzelą niechybnie przy pierwszej potyczce
+qstr_toż_go_usieką_niec|toż go usieką niechybnie zrazu przy pierwszej potyczce
+qstr_toż_tylko_jeden_nam|toż tylko jeden nam się ostał
+qstr_toż_przecie_tylko_o|toż przecie tylko on nam się ostał
+qstr_Sowicie_waćpana_wyn|Sowicie waćpana wynagrodzę, grosza szczędzić nie będę, tylko nakłońcie smarkacza by w domu...
+qstr_Nakłońcie_młokosa|Nakłońcie młokosa aby w domu ostał, a grosza nie będę szczędził w podzięce...
+qstr_Wybijcie_mu_z_głowy|Wybijcie mu z głowy te idee, a grosza szczędził nie będę w podzięce...
+qstr_A_niech_was_diabli_a|A niech was diabli, a matka tu zemrze ze zgryzoty... Pomyślcie o niedoli mej małżonki...
+qstr_A_my_zemrzem_tu_ze_z|A my zemrzem tu ze zgryzoty, co? Godzi się to starych rodziców w domu ostawiać?
+qstr_Serca_nie_macie_tyle|Serca nie macie, tyle wam powiem, tfu.
+qstr_Idź_w_swą_stronę_|Idź w swą stronę człeku bez serca, jeszcze życie cię nauczy, gdy sam ojcem będziesz.
+qstr_Dobrze_spieszno_mi|Dobrze spieszno mi
+qstr_Świetnie|Świetnie
+qstr_Już_dość_zmitrę�|Już dość zmitrężyłem czasu
+qstr_Pienińskiego|Pienińskiego
+qstr_Sicińskiego|Sicińskiego
+qstr_Sierskiego|Sierskiego
+qstr_Konińskiego|Konińskiego
+qstr_Lwowskim|Lwowskim
+qstr_Warszawskim|Warszawskim
+qstr_Krakowskim|Krakowskim
+qstr_zacna_gdańska_wódk|zacna gdańska wódka
+qstr_przednie_zachodnie_t|przednie zachodnie trunki
+qstr_Prus|Prus
+qstr_Rosji|Rosji
+qstr_Austrii|Austrii
+qstr_Sieciński|Sieciński
+qstr_Zbych|Zbych
+qstr_Przybyszewski|Przybyszewski
+qstr_Słucki|Słucki
+qstr_Chrzanowa|Chrzanowa
+qstr_Abram_chyba|Abram, chyba
+qstr_Jozef_czy_jak_go_tam|Jozef, czy jak go tam zwą
+qstr_mniejsza_z_tym|mniejsza z tym
+qstr_szybkie|szybkie
+qstr_sprawne|sprawne
+qstr_prędkie|prędkie
+qstr_Jestem_zajęty_nie_p|Jestem zajęty, nie przeszkadzajcie.
+qstr_Nie_wolno_mi_rozmawi|Nie wolno mi rozmawiać na służbie, bywajcie.
+qstr_Służba_nie_drużba|Służba nie drużba, trzeba stać i pilnować. Nie wolno mi teraz rozmawiać.
+qstr_Witam_witam.|Witam, witam.
+qstr_Czołem._|Czołem. 
+qstr_Czołem_waszmości_d|Czołem waszmości, dobrze widzieć w zdrowiu.
+qstr_Eh_żadnych_rozkazó|Eh, żadnych rozkazów, już tydzień na rzyci siedzimy, a wroga nima.
+qstr_Podobno_córka_zaopa|Podobno córka zaopatrzeniowca daje na zapleczu, rozejrzyjcie się dobrze, może i wam się co trafi.
+qstr_Nie_mam_teraz_czasu_|Nie mam teraz czasu, bywajcie.
+qstr_Co_tu_gadać?_O_czym|Co tu gadać? O czym? A, dajcie spokój panie.
+qstr_Podobno_jutro_dotrze|Podobno jutro dotrzeć mają posiłki z zagranicy, co wspomogą naszą sprawę, też tak słyszeliście, prawda?
+qstr_Dostawa_broni_ma_doj|Dostawa broni ma dojść wkrótce, przednie kozienickie bandolety przywiozą i prochu zapas, oj, widać, że wojenka jeszcze trochę ma potrwać.
+qstr_Witam_witam._Czego_w|Witam, witam. Czego wam trzeba? U mnie wszystkiego dostatek, wybierzecie coś?
+qstr_Dzieńdobry_w_czym_m|Dzieńdobry, w czym mogę służyć?
+qstr_Kłaniam_się_mogę_|Kłaniam się, mogę jakoś pomóc?
+qstr_Dziękuję_memu_wyba|Dziękuję memu wybawcy, byłabym jednak niezmiernie szczęśliwa, gdyby wyjawił mi on swoje imię....
+qstr_Dziękuję_waszmośc|Dziękuję waszmości z całego serca, mogę znać imię mego wybawcy?
+qstr_to_dla_mnie_zaszczyt|to dla mnie zaszczyt
+qstr_to_honor_móc_ratowa|to honor móc ratować damę z opresji
+qstr_Dziękuję_jeszcze_r|Dziękuję jeszcze raz, bywaj zdrów.
+qstr_Miej_na_siebie_bacze|Miej na siebie baczenie, dzielny kawalerze! Nigdy nie zapomnę co dla mnie zrobiłeś.
+qstr_Ano_znajdzie_się_wy|Ano, znajdzie się, wyborny trunek, miód z pasieki mego wuja z Inflant.
+qstr_Cienkusz_przecie_lep|Cienkusz, przecie lepszy rydz, niż nic, nie {playername}?
+qstr_Wódki_gdańskiej_tr|Wódki gdańskiej, trochę mi ostało się, siadaj, starczy dla nas obu.
+qstr_Piwo_tylko_mam_ale_z|Piwo tylko mam, ale zacne, przypadnie ci z pewnością do gustu.
+qstr_Zacny_to_trójniak_z|Zacny to trójniak, zaopatrzeniowiec po kryjomy przewiózł mi przez granicę. Podobno z samego Poznania przyjechał.
+qstr_z_jaką_sprawą_przy|z jaką sprawą przychodzisz
+qstr_w_czym_ci_mogę_pom�|w czym ci mogę pomóc
+qstr_Strażnicy_ruszają_|Strażnicy ruszają na pomoc oficerowi
+qstr_Przeprowadź_zasadzk|Przeprowadź zasadzkę na konwój przewożący broń.
+qstr_ważnych_dla_nas_wi�|ważnych dla nas więźniów
+qstr_uzbrojenie_i_amunicj|uzbrojenie i amunicję
+qstr_{playername}?_Dobrze|{playername}? Dobrze żeś cały i zdrów, poturbowali cię podobno nieco. Zapomnijmy jednak o tym, brat mój, wszystko mi dokładnie wyłożył i wiem żeście dzielnie stawali. 
+qstr_{playername}?_Dobrze_|{playername}? Dobrze żeś cały i zdrów, słyszałem jak obrotnie poradziliście! Rad jestem mogąc ponownie Ci winszować biegłości i odwagi. 
+qstr_http://1794.com.pl/1794/get|http://1794.com.pl/1794/get.php?player={s0}&type={reg0}&message=Przeszedl%20do%20etapu%202!
+qstr_{s1}_has_declared_wa|{s1} has declared war against {s2}.
+qstr_Wiele_o_tobie_mówi�|Wiele o tobie mówiła, dobrego rzecz jasna... ale na jej względy, musisz jeszcze zasłużyć. 
+qstr_Wiedz_że_na_moją_c|Wiedz, że na moją córkę trzeba zasłużyć, jesteś na dobrej drodze, wiele ci zawdzieczam, ale niezbliżaj się zanadto póki co.
+qstr_Cali_jesteście?_W_z|Cali jesteście? W zdrowiu! Chwała Bogu! Nie powiodło nam się pobić nicponi, nic to jednak, pochwyciliśmy jednego z nich, kulawy był i prędko zbiec nie mógł wraz z tamtymi, hehe. Wszystek nam wyznał i w rzeczy samej, jak żeśmy przypuszczali, byli to delatorzy jadący od Wiednia.
+qstr_Cali_jesteście?_W_zd|Cali jesteście? W zdrowiu! Chwała Bogu! Przednio się sprawiliśmy z nimi, jeden jeszcze dycha, nie mocno był pocięty, wszystko nam opowiedział. W rzeczy samej, byli to delatorzy jadący od Wiednia.
+qstr_Jan_Alojzy_Jabłonow|Jan Alojzy Jabłonowski
+qstr_Oddaj_mi_go_ma_cenne|Oddaj mi go, ma cenne informacje mogące wielce mi pomóc, będę twym dłużnikiem.
+qstr_Tym_bardziej_jeśli_|Tym bardziej jeśli zabiłeś go.
+qstr__{s1}_{reg2}x{s2}| {s1} {reg2}x{s2},
+qstr_Witajcie|Witajcie
+qstr_Słucham?_Nie_miałe|Słucham? Nie miałem przyjemności z panem...
+qstr_Nie_było_mi_dane_us|Nie było mi dane usłyszeć o waszmości... syn kupca jak mniemam?
+qstr_Długo_przebywałem_|Długo przebywałem we Włoszech ostatnimi czasy, w winnicach mego kuzyna, nie było więc mi dane słyszeć nic o waszmości.
+qstr_{playername}?_Nic_mi|{playername}? Nic mi to nie mówi po roku całym spędzonym w Szkocji.
+qstr_Słyszeć_może_i_s�|Słyszeć może i słyszałem, lecz nie przypomnieć sobie nie mogę przy jakiej okazji...
+qstr_{playername}?Hmm..._|{playername}?Hmm... byliście może w Paryżu? Znałem pewną damę o podobnym nazwisku...
+qstr_Wybaczcie_lecz_nie_b|Wybaczcie, lecz nie było dane mi słyszeć... chociaż, znałem kapitana statku angielskiego,  właśnie tego, który koloniści zatopili w Bostonie, bodajże w 1773... ten kapitan miał właśnie oficera o podobnym nazwisku... może to przypadek jednak, bo z twarzy zupełnie jesteście niepodobni.
+qstr_Długo_przebywałem_w|Długo przebywałem we Francji ostatnimi czasy, w winnicach mego kuzyna, nie było więc mi dane słyszeć nic o waszmości.
+qstr_{playername}?W_Krako|{playername}?W Krakowie na świętego Floriana stróże miejskie szukały zbiega o takim nazwisku...
+qstr_{playername}?_Ponad_|{playername}? Ponad trzy lata podróżowałem po Ameryce, wybaczcie, lecz nie znam was ze słyszenia.
+qstr_{playername}?A_tak_c|{playername}?A tak, coś tam o was mówili w karczmie... strzelacie podobno, tak?
+qstr_Zajmujecie_się_rusz|Zajmujecie się rusznikarstwem czy strzelacie... nie pamiętam, słyszeć o was słyszałem.
+qstr_{playername}?W_Lubli|{playername}?W Lublinie powiadali, żeście jest kurwiarz i łajdak... Nie pamiętam imienia, lecz jeśli nie o tobie, to jednym z krewnych, lub innym szlachcicu podobnego nazwiska.
+qstr_{playername}?_Był_p|{playername}? Był pewien słynny zbój o takim nazwisku... pewno wasz dziad? Może ojciec?
+qstr_{playername}?Słysza|{playername}?Słyszałem i miło mi powitać znakomitego strzelca.
+qstr_{playername}?_Podobn|{playername}? Podobno jesteście zapalonym pojedynkowiczem... miło mi poznać.
+qstr_{playername}?_Wiele_|{playername}? Wiele o was słyszałem, rad jestem z naszego spotkania.
+qstr_Hmm_wyście_postrzel|Hmm, wyście postrzelili podobno kuzyna mego, tak? Wielce mnie tym ująłeś. Wyobraź sobie, że za moim plecami uwodził moje kochanki i cudze żony zarazem, jak śmiał!
+qstr_Nie_jedno_obiło_mi_|Nie jedno obiło mi się o uszy, podobno nieźle strzelacie.
+qstr_Wiele_mówili_wśró|Wiele mówili wśród prostego ludu o przewagach waszmości... winszuję.
+qstr_Pierwszy_strzelec_w_|Pierwszy strzelec w Rzeczpospolitej, winszuję renomy i sławy... zważ jednak, że krucha to rzecz...
+qstr_Ah_mówią_że_przed|Ah, mówią, że przedłużeniem waszmości ręki jest spust i  podobno niema lepszego strzelca w całej Rzeczpospolitej... podobno.
+qstr_{playername}?_Zaszcz|{playername}? Zaszczyt to wielki dla mnie, witam najsprawniejszego strzelca w Rzeczpospolitej!
+qstr_To_co_obaczymy_kto_l|To co, obaczymy kto lepsze ma oko?
+qstr_Radbym_się_z_waści|Radbym się z waścią zmierzyć na pistolety, zobaczymy kto sprawniejszy?
+qstr_{playername}?_Nie_ko|{playername}? Nie kojarzę... możeś kuzyn mego sąsiada? Albo wiem, bratanek jego żony? Eh, tam, niepodobnyś.
+qstr_{playername}?_Pierws|{playername}? Pierwsze słyszę... możeś kuzyn mego sąsiada? Eh, tam, niepodobnyś. A może ojciec mojego brata? E, za młodyś. Ale z gęby wyglądasz zupełnie jak brat mego brata.
+qstr_{playername}?_Nie_by|{playername}? Nie było mi dane słyszeć o was... a może to wy jesteście tym co połowę najlepszych kurtyzan pozarażał francą?
+qstr_Witaj_nie_przypomina|Witaj, nie przypominam sobie... ale z gęby to jak mój bratanek. Mów mi WUJU!
+qstr_Czołem_nie_pamięta|Czołem, nie pamiętam waści za nic... chyba, że to piliście baryłkę w trzy kwadranse? Nie? Niech diabli porwą tego opoja!
+qstr_Hmm...{playername}?_|Hmm...{playername}? Coś tam o was słyszałem... czyżbyśmy razem zajazd na Pienińskich robili?
+qstr_{playername}?_Coś_t|{playername}? Coś tam o was słyszałem... czyżbyśmy razem zajazd na Cienińskich robili?
+qstr_Hmm...{playername}?_T|Hmm...{playername}? Tak słyszałem o was kiedyś... chyba roku pańskiego 1773, bodajże na jarmarku we Włodawie, to były czasy...
+qstr_Hmm...{playername}?N|Hmm...{playername}?Nie pamiętam...  Ha, już wiem, piłeś ze mną trzy niedziele pod Lwowem, ha, to były czasy...
+qstr_Hmm...{playername}?_Ta|Hmm...{playername}? Tak słyszałem o was kiedyś... chyba w anno domini 1783, na jarmarku we Wróblach, pod Opocznem.
+qstr_{playername}?_Nieobc|{playername}? Nieobce mi twoje imię. Byłeś może na odpuście w Tczewie? Jeszcze za króla Sasa...
+qstr_Hmm...{playername}?_C|Hmm...{playername}? Czymś tam się wykazałeś... tylko nie pamiętam czym...  zaraz se przypomnę.
+qstr_Czołem_...__słysze|Czołem ...  słyszeć o waści słyszałem, ale to tyle, bo wspólnie chyba nie piliśmy... 
+qstr_Czołem_słyszeć_to|Czołem, słyszeć, to słyszałem, ale pić nie mieliśmy jeszcze okazji, co? Chyba, że wtedy na weselisku u Jana... stryja mojego...
+qstr_Witam_nie_znam_waśc|Witam, nie znam waści... ale z oczu widzę, że szabla to część waszej ręki.
+qstr_Dzień_dobry_nie_pam|Dzień dobry, nie pamiętam waści za nic... chyba, że to wy zjedliście to prosie w Wygodzie... kwadrans bodajże..? Niech was diabli!
+qstr_Czołem_nie_raz_i_ni|Czołem, nie raz i nie dwa słyszałem o waszmości, ale chętnie obaczę jak w rzeczywistości robisz szablą...
+qstr_Witam_rzadko_mam_tak|Witam, rzadko mam tak znamienitych gości... rad jestem tym bardziej, że utarłeś kichawę memu sąsiadowi! 
+qstr_Czołem_dobrze_was_wi|Czołem, dobrze was wiedzieć w zdrowiu... rad jestem tym bardziej, że utarłeś kichawę memu sąsiadowi!
+qstr_{playername}?_Niezmi|{playername}? Niezmiernie się cieszę, że wreszcie się spotykamy... ha, zacny człek, pociąłeś parę niedziel temu mego zajadłego wroga! Do dzisiaj wstać nie może!
+qstr_Witam_słyszałem__o|Witam, słyszałem,  o waszmości nie jednokrotnie...
+qstr_Czołem_rad_jestem_z|Czołem, rad jestem z naszego spotkania, wiele o waszmości słyszałem...
+qstr_{playername}?_Chylę|{playername}? Chylę czoła, przed najsłynniejszym szermierzem w Rzeczpospolitej...
+qstr_{playername}?_Czapki|{playername}? Czapki z głów, toż przecie pierwszą szablę w Rzeczpospolitej mam przed sobą...
+qstr_To_co_obaczymy_kto_w|To co, obaczymy kto wprawniej szablą robi?
+qstr_Radbym_się_z_waści�|Radbym się z waścią zmierzyć na szable, zobaczylibyśmy kto wprawniej włada orężem...
+qstr_Pojedynek_został_pr|Pojedynek został przegrany!
+qstr_Dziś_okazałeś_sie|Dziś okazałeś sie lepszy, chyle czoła, tu jest należna ci suma {reg2} talarów.
+qstr_Byłeś_lepszy_oto_s|Byłeś lepszy, oto suma na jaką się umówiliśmy. 
+qstr_Dzisiaj_zwycięstwo_|Dzisiaj zwycięstwo jest po twojej stronie, oto twa wygrana.
+qstr_Pojedynek_został_wy|Pojedynek został wygrany!
+qstr_Troops_have_been_rem|Troops have been removed.
+qstr_Udaj_się_do_kryjów|Udaj się do kryjówki bandytów.
+qstr_Dostarczono_broń_do|Dostarczono broń do jednego z oddziałów!
+qstr_Mamy_was!_A_łotry_p|Mamy was! A, łotry, poddajcie się, a nikomu nic nie zrobimy.
+qstr_No_wóz_albo_przewó|No, wóz albo przewóz, w dyby do nas albo na tamten świat, co wolicie?
+qstr_Stawajcie_jak_przyst|Stawajcie jak przystało, albo poddajcie się. Nikt się nie dowie, że nie daliście rady pokonać nas...
+qstr_Czego_tam_chcecie?|Czego tam chcecie?
+qstr_Zejdźcie_nam_z_drog|Zejdźcie nam z drogi, a nikomu nie stanie się krzywda.
+qstr_Jeśli_nie_wiecie_je|Jeśli nie wiecie jesteśmy na służbie... radzę uważać kogo zatrzymujecie.
+qstr_Poddajemy_się_nie_a|Poddajemy się, nie atakujcie!
+qstr_Szkoda_ludzi_liczymy|Szkoda ludzi, liczymy na dobre traktowanie w niewoli.
+qstr_Cóż_liczymy_na_hon|Cóż, liczymy na honorowe traktowanie.
+qstr_Będziemy_walczyć_d|Będziemy walczyć do końca!
+qstr_Nie_dostaniecie_nas_|Nie dostaniecie nas żywcem, do ataku! 
+qstr_Po_moim_trupie_bąd�|Po moim trupie, bądźcie gotowi na walkę do końca!
+qstr_Czołem_panie_{s68}|Czołem panie {s68}
+qstr_Dzień_dobry_panie_{|Dzień dobry, panie {s68}
+qstr_w_czym_możemy_pomó|w czym możemy pomóc? 
+qstr_czego_trzeba?_|czego trzeba? 
+qstr_jak_możemy_pomóc?|jak możemy pomóc?
+qstr_gadajcie_prędko_w_c|gadajcie prędko, w czym rzecz?
+qstr_czego_tam_trzeba?|czego tam trzeba?
+qstr_No_mamy_was_wreszcie|No, mamy was wreszcie, tym razem nie umkniecie. 
+qstr_Wpadł_ptaszek_w_kla|Wpadł ptaszek w klateczkę... Dalej kamraci, na nich!
+qstr_Hola_mości_panie_gd|Hola, mości panie, gdzie tak spieszno? Po dobroci staniecie i zdrowych ostawimy was całych, jak nie... wolałbym nie być w waszej skórze.
+qstr_Oj_coś_waszmości_w|Oj, coś waszmości wlecze się za kolasą, czy to aby nie za ciężki mieszek, hę?
+qstr_Occoo_chhodzi_dobry_|Occoo chhodzi dobry panie? My niewinne ludzie są.
+qstr_Czego_tam?_Jakim_pra|Czego tam? Jakim prawem mnie zatrzymujecie?
+qstr_A_łajdaki_jedne_co_|A łajdaki, jedne, co po traktach ludzi zatrzymujecie, hę?
+qstr_Pętelką_służyć_|Pętelką służyć jaśnie panu? Czy raczycie zabrać rzyć z traktu?
+qstr_Spieszno_nam_zejdźc|Spieszno nam, zejdźcie dobrzy ludzie z drogi po dobroci.
+qstr_O_co_chodzi_dobry_pa|O, co chodzi dobry panie? 
+qstr_Gadaj_nim_urżnę_ci|Gadaj nim urżnę ci język tuż nad jajami, z czym przychodzisz. 
+qstr_Oszołom_albo_przyg�|Oszołom albo przygłup nie wiem co gorsze, zabieraj stąd rzyć jeśli żywot wciąż ci miły.
+qstr_Wpadł_ptaszek_w_klat|Wpadł ptaszek w klateczkę..hehe.. zobaczymy co tam macie ze sobą.
+qstr_It_s_your_money_or_y|It's your money or your life, {mate/girlie}. No sudden moves or we'll run you through.
+qstr_Lucky_for_you_you_ca|Lucky for you, you caught me in a good mood. Give us all your coin and I might just let you live.
+qstr_This_a_robbery_eh?_I|This a robbery, eh? I givin' you one chance to hand over everythin' you got, or me and my mates'll kill you. Understand?
+qstr_we_have_made_very_li|we have made very little progress so far
+qstr_we_have_suceeded_in_|we have suceeded in gaining some ground, but we still have a long way to go
+qstr_we_have_become_a_sig|we have become a significant force, and we have an even chance of victory
+qstr_we_are_winning_the_w|we are winning the war, but our enemies are still holding on.
+qstr_we_are_on_the_verge_|we are on the verge of victory. The remaining enemies pose no threat, but we still need to hunt them down.
+qstr_{playername}_when_we|{playername}, when we started our long walk, few people had the courage to support me. And fewer still would be willing to put their lives at risk for my cause. But you didn't hesitate for a moment in throwing yourself at my enemies. We have gone through a lot together, and there were times I came close to losing all hope. But with God's help, we prevailed. It is now time for me to leave your company and take what's rightfully mine. From now on, I will carry out the great responsibility of ruling {s3}. There still lie many challanges ahead and I count on your help in overcoming those. And of course, you will always remain as my foremost vassal.
+qstr__We_will_of_course_n| We will of course need to wait until the realm is no longer on campaign.
+qstr_I_am_{s4}_the_ruler_|I am {s4}, the ruler of {s6}
+qstr_I_am_{s4}_a_vassal_o|I am {s4}, a vassal of {s6}
+qstr_{s9}{reg5?_and_the_l|{s9}{reg5? and the lord of {s8}.:.
+qstr_{s13}_asked_you_to_g|{s13} asked you to gather {reg3} heads of cattle and deliver them back to him.
+qstr_{s9}_asked_you_to_sc|{s9} asked you to scout {s13}, {s14} and {s15}, then report back.
+qstr_you|you
+qstr_You_are_challenging_|You are challenging me to a duel? How droll! As you wish, {playername}, it will be good sport to bash your head in.
+qstr_{s16}_and_{s17}|{s16} and {s17}
+qstr_Very_well_I_will_acc|Very well, I will accept you back into my ranks, if you're ready to swear your solemn oath once more.
+qstr_A_pardon_will_only_b|A pardon will only be possible if you are willing to cede {s17} to me. Do you agree my terms?
+qstr_No._There_is_no_chan|No. There is no chance of peace between us, I am not interested.
+qstr_{s11}_and_{s12}|{s11} and {s12}
+qstr_We_are_not_at_war_wi|We are not at war with anyone.
+qstr_We_are_at_war_with_{|We are at war with {s12}.
+qstr_go_on_the_offensive_|go on the offensive now.
+qstr_act_to_defend_our_la|act to defend our lands.
+qstr_take_more_time_to_ga|take more time to gather the army.
+qstr_You_promised_to_help|You promised to help {s13} claim the throne of {s14}.
+qstr_What_do_you_say_to_e|What do you say to entering the service of {s9} as a mercenary captain? I have no doubt that you would be up to the task.
+qstr_{s9}_asked_you_to_ta|{s9} asked you to take a message to {s13}. {s13} was believed to be at {s4} when you were given this quest.
+qstr_{s9}_asked_you_to_tak|{s9} asked you to take a message to {s13} of {s15}. {s13} was believed to be at {s4} when you were given this quest.
+qstr_{s11}_asked_you_to_e|{s11} asked you to escort his {s17} {s13} to {s14}.
+qstr_{s13}_asked_you_to_d|{s13} asked you to deal with the bandits who are occupying the village of {s15} and then report back to him.
+qstr_{s9}_asked_you_to_ra|{s9} asked you to raise {reg1} {s14} and bring them to him.
+qstr_{s9}_asked_you_to_co|{s9} asked you to collect taxes from {s3}. He offered to leave you one-fifth of all the money you collect there.
+qstr_{s9}_asked_you_to_hu|{s9} asked you to hunt down a fugitive named {s4}. He is currently believed to be at {s3}.
+qstr_{s9}_asked_you_to_as|{s9} asked you to assassinate a local merchant at {s3}.
+qstr_{s9}_has_asked_you_t|{s9} has asked you to meet with a spy in {s13}.
+qstr_{s11}_asked_you_to_f|{s11} asked you to follow the spy that will leave {s12}. Be careful not to let the spy see you on the way, or he may get suspicious and turn back. Once the spy meets with his accomplice, you are to capture them and bring them back to {s11}.
+qstr_{s11}_asked_you_to_c|{s11} asked you to capture a lord from {s13}, any lord, and then drag your victim back to {s11} for safekeeping.
+qstr_{s9}_asked_you_to_le|{s9} asked you to lend your companion {s3} to him for a week.
+qstr_{s9}_asked_you_to_col|{s9} asked you to collect the debt of {reg4} denars {s3} owes to him. {s3} was at {s4} when you were given this quest.
+qstr_{s11}_gave_you_a_fak|{s11} gave you a fake letter to fool {s13} into banishing his vassal {s16}. You are to go near {s14}, give the letter to one of your {s15} and send him into the town as a messenger, believing his orders to be genuine.
+qstr_{s9}_has_requested_y|{s9} has requested you to bring him {reg1} {s3} as prisoners.
+qstr_Lend_your_experience|Lend your experienced surgeon {s3} to {s1}.
+qstr_Then_take_it_with_my|Then take it, with my eternal thanks. You are a noble {man/woman}. I will never forget that you helped me in my time of need.
+qstr_Forgive_me_{playerna|Forgive me, {playername}, but I must insist you accept it. The money means little to me, and I owe you so much. Here, take it, and let us speak no more of this.
+qstr_{playername}_what_a_|{playername}, what a dear {man/woman} you are, but I will not allow you to refuse this. I owe you far more than I can say, and I am sure you can put this money to far better use than I.
+qstr_{s11}_asked_you_to_r|{s11} asked you to rescue her {s17}, {s13}, from {s14} by switching clothes and taking his place in prison.
+qstr_{s11}_asked_you_to_re|{s11} asked you to rescue her {s17}, {s13}, from {s14}.
+qstr_{s11}_asked_you_to_d|{s11} asked you to deliver a message to {s13}, who is imprisoned at {s14}.
+qstr_You_agreed_to_challe|You agreed to challenge {s13} to defend {s11}'s honour.
+qstr_{s5}__Persuasion_str|{s5} (Persuasion strength: {reg5})
+qstr_Persuasion_Attempt|Persuasion Attempt
+qstr_Najpierw_skończ_bie|Najpierw skończ bieżący rozkaz!
+qstr_Czego_chcecie?_My..e|Czego chcecie? My..er... przeprowadzamy manewry na tyłach, aby oskrzydlić wroga.. 
+qstr_A_psubraty_czego_zat|A psubraty, czego zatrzymujecie porządnych ludzi?
+qstr_Hołota_i_dzicz_na_t|Hołota i dzicz na tych traktach się zalęgła, a wy jak się patrzy stanowicie jej plugawy element, tfu, gardzę wami.^ Czy to wystarczy abyście zwlekli się z traktu? Spieszno nam.
+qstr_Czego?_Zajęci_jeste|Czego? Zajęci jesteśmy... Rozkaz eskortowania wozów z zaopatrzeniem dostaliśmy... pozwólcie, że odejdziemy.
+qstr_No_pany_złote_guzy_|No, pany, złote guzy, żupany... Heh, nie róbcie problemów, a nikomu nic nie grozi. My przecie dobre chłopy, hę?
+qstr_Ha_dopadliśmy_kogo�|Ha, dopadliśmy kogoś wreszcie, jak się patrzy zdobycz, dalej brać ich!
+qstr_No_no_czyżby_acan_z|No, no, czyżby acan zaległy żołd chciał nam wypłacić? 
+qstr_Heh_właśnie_mieli�|Heh, właśnie mieliśmy iść kogoś ograbić, a tu wy się napatoczyliście, ależ ten los płata figle, czyż nie?
+qstr_W_czymś_usłużyć?|W czymś usłużyć?
+qstr_W_czym_mogę_pomóc?|W czym mogę pomóc?
+qstr_Co_waszmość_sobie_|Co waszmość sobie życzy?
+qstr_Oczywiście_oczywiś|Oczywiście, oczywiście, za dzień grosz, ni więcej, no złocisz...khe, 5 złociszy za nockę, miłego postoju.
+qstr_W_pokoju_będą_wsze|W pokoju będą wszelkie wygody, 5 złociszy za nockę, stanie wam na pewno grosza, taniej nie znajdziecie nigdzie, zaręczam.
+qstr_A_villager_from_{s7}|A villager from {s7} begged you to save their village from the bandits that took refuge there.
+qstr_You_chose_well_{sir/|You chose well, {sir/madam}. My lads know how to keep their word and earn their pay.
+qstr_Well_done_{sir/madam|Well done, {sir/madam}. Keep the money and wine coming our way, and there's no foe in Calradia you need fear.
+qstr_We_are_at_your_servi|We are at your service, {sir/madam}. Point us in the direction of those who need hurting, and we'll do the rest.
+qstr_The_Guildmaster_of_{|The Guildmaster of {s13} has asked you to deal with looters in the surrounding countryside.
+qstr_{s9}_of_{s3}_asked_y|{s9} of {s3} asked you to deliver {reg5} units of {s6} to the tavern in {s4} in 7 days.
+qstr_Escort_the_merchant_|Escort the merchant caravan to the town of {s8}.
+qstr_Merchant_{s9}_of_{s4|Merchant {s9} of {s4} asked you to hunt down the troublesome bandits in the vicinity of the town.
+qstr_Guildmaster_of_{s4}_|Guildmaster of {s4} gave you {reg12} denars to pay the ransom of a girl kidnapped by bandits. You are to meet the bandits near {s3} and pay them the ransom fee. After that you are to bring the girl back to {s4}.
+qstr_Guildmaster_of_{s4}_p|Guildmaster of {s4} promised you {reg12} denars if you can make sure that {s12} and {s13} no longer pose a threat to a peace settlement between {s15} and {s14}. In order to do that, you must either convince them or make sure they fall captive and remain so until a peace agreement is made.
+qstr_The_Guildmaster_of_{s|The Guildmaster of {s14} has asked you to deal with a group of bandits terrorising the streets of {s14}. They only come out at night, and only attack lone travellers on the streets.
+qstr_Guildmaster_of_{s10}|Guildmaster of {s10} asked you to move a cattle herd to {s13}. You will earn {reg8} denars in return.
+qstr_He_is_not_commanding|He is not commanding any men at the moment.
+qstr_He_currently_command|He currently commands {reg0} men{reg1?, of which around {reg1} are wounded:}.
+qstr_The_elder_of_the_vil|The elder of the village of {s3} asked you to bring them {reg5} packs of grain.
+qstr_The_elder_of_the_vill|The elder of the village of {s13} asked you to train {reg5} peasants to fight against local bandits.
+qstr_The_elder_of_the_villa|The elder of the village of {s3} asked you to bring them {reg5} heads of cattle.
+qstr_{s16}_and_{s15}|{s16} and {s15}
+qstr_I_can_smell_a_fat_pu|I can smell a fat purse a mile away. Methinks yours could do with some lightening, eh?
+qstr_Why_it_be_another_tr|Why, it be another traveller, chance met upon the road! I should warn you, country here's a mite dangerous for a good {fellow/woman} like you. But for a small donation my boys and I'll make sure you get rightways to your destination, eh?
+qstr_Well_well_look_at_th|Well well, look at this! You'd best start coughing up some silver, friend, or me and my boys'll have to break you.
+qstr_There_s_a_toll_for_p|There's a toll for passin' through this land, payable to us, so if you don't mind we'll just be collectin' our due from your purse...
+qstr_Another_fool_come_to|Another fool come to throw {him/her}self on my weapon, eh? Fine, let's fight!
+qstr_We_re_not_afraid_of_|We're not afraid of you, {sirrah/wench}. Time to bust some heads!
+qstr_That_was_a_mistake._|That was a mistake. Now I'm going to have to make your death long and painful.
+qstr_Brave_words._Let_s_s|Brave words. Let's see you back them up with deeds, cur!
+qstr_A_{s5}?_Well..._Yes_|A {s5}? Well... Yes, I suppose it is. What a strange thing to ask.
+qstr_Eh?_No_it_most_certa|Eh? No, it most certainly is not a {s5}. I'd start questioning my eyesight if I were you.
+qstr_This_is_the_{reg4?to|This is the {reg4?town:village} of {s5}, {sir/madam}.
+qstr_{s6}_Our_{reg4?town:|{s6} Our {reg4?town:village} and the surrounding lands belong to you of course, my {lord/lady}.
+qstr_{s6}_Our_{reg4?town:v|{s6} Our {reg4?town:village} and the surrounding lands belong to {s7} of {s8}.
+qstr_{s3}_and_{s5}|{s3} and {s5}
+qstr_{reg20?We_mostly_pro|{reg20?We mostly produce {s5} here:We don't produce much here these days}. If you would like to learn more, you can speak with our {reg4?guildmaster:village elder}. He is nearby, right over there.
+qstr_jak_mogę_wam_pomóc|jak mogę wam pomóc 
+qstr_w_czym_pomóc_waszmo|w czym pomóc waszmości
+qstr_Ano_bywajcie_w_zdrow|Ano, bywajcie w zdrowiu. 
+qstr_porwana|porwana
+qstr_uprowadzona|uprowadzona
+qstr_Potocka|Potocka
+qstr_Sienińska|Sienińska
+qstr_Strzyżyńska|Strzyżyńska
+qstr_Burmistrzowa|Burmistrzowa
+qstr_Przybyłowska|Przybyłowska
+qstr_kolasą_do_kościoł|kolasą do kościoła w niedzielę jechała
+qstr_karetą_w_sobotę_w_|karetą w sobotę w niewiadomym celu jechała
+qstr_do_parku_na_przejaż|do parku na przejażdzkę jechała
+qstr_Popytaj_wśród_ludz|Popytaj wśród ludzi, ja nic teraz nie mam.
+qstr_Ano_ja_nic_nie_mam_d|Ano, ja nic nie mam dla pana, ale popytaj wśród ludzi.
+qstr_Stara_dewota_i_zrzę|Stara dewota i zrzęda, ale rodzina zebrała pieniądze na okup, to szkoda im by nie pomóc, szczególnie, że i nagroda dostanie się śmiałkowi.
+qstr_Całkiem_ładniutkaz|Całkiem ładniutka,zresztą sami zobaczycie, a i nagroda jest niemała, okrągłe {reg31}.
+qstr_Niczego_sobie_i_kobi|Niczego sobie i kobitka i wynagrodzenie za jej odnalezienie, co wy na to?
+qstr_Czemu_nie_podejmuję|Czemu nie, podejmuję się.
+qstr_Z_chęcią_spróbuj�|Z chęcią spróbuję swoich sił.
+qstr_Niech_będzie_zajmę|Niech będzie, zajmę się tym.
+qstr_Odbij_porwaną_kobie|Odbij porwaną kobietę z rąk bandytów. Powinni w pobliżu karczmy czekać na okup.
+qstr_To_nie_jest_dobre_zl|To nie jest dobre zlecenie dla mnie.
+qstr_Nie_mieszam_się_w_t|Nie mieszam się w takiej sprawy.
+qstr_E_to_zdecydowanie_ni|E, to zdecydowanie nie dla mnie.
+qstr_Próba_uwodzenia_nie|Próba uwodzenia nieudana.
+qstr_Wstąpi_waszmość_d|Wstąpi waszmość do mnie na herbatę? 
+qstr_Napije_się_waszmoś|Napije się waszmość ze mną herbaty? Mieszkam tu, nieopodal.
+qstr_Próba_uwodzenia_uda|Próba uwodzenia udana.
+qstr_Chociaż_nie_zapomni|Chociaż nie, zapomniałam, że dziś kuzyn z bratem w mieście bawi i zajdą wieczorem.
+qstr_A_mąż_mój_z_wypra|A, mąż mój z wyprawy handlowej dziś wraca z pewnością będę zajęta...
+qstr_Brak_wymaganej_sumy_|Brak wymaganej sumy pieniędzy(3000).
+qstr_Brak_wymaganej_renom|Brak wymaganej renomy(350).
+qstr_Może_zechcielibyśc|Może zechcielibyście wypić kawę? Mieszkam niedaleko stąd. 
+qstr_Może_zechciałby_wa|Może zechciałby waszmość wypić wraz ze mną kawę? Mieszkam niedaleko stąd.
+qstr_Przepraszam_jednak_c|Przepraszam jednak, coś przypomniało mi się. 
+qstr_Oh_przepraszam_najmo|Oh, przepraszam najmocniej, przypomniało mi się, że już jestem umówiona.
+qstr_Brak_wymaganej_sumy_p|Brak wymaganej sumy pieniędzy(10000).
+qstr_Brak_wymaganej_renomy|Brak wymaganej renomy(650).
+qstr_Brak_wymaganej_liczb|Brak wymaganej liczby punktów honoru(10).
+qstr_Zapraszam_na_kawę_n|Zapraszam na kawę, nie odmówicie chyba damie towarzystwa?
+qstr_Pozwólcie_do_mnie_n|Pozwólcie do mnie na kawę, nie chcę sama spędzać dziś popołudnia...
+qstr_Brak_wymaganego_stop|Brak wymaganego stopnia oficerskiego(Kapitan/Rotmistrz).

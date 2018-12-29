@@ -1,0 +1,84 @@
+skl_seduction| 
+skl_seduction_desc|  
+skl_leadership|Przywództwo
+skl_leadership_desc|Każdy kolejny poziom tej umiejętności podwyższa morale o 12 punktów, a koszty utrzymania armii obniżają się o 5%% (umiejętność przywódcy).
+skl_prisoner_management|Zarządzanie więźniami
+skl_prisoner_management_desc|Każdy punkt tej umiejętności zwiększa maksymalną ilość więźniów o %d. (Umiejętność przywódcy)
+skl_reserved_1|Reserved Skill 1
+skl_reserved_1_desc|This is a reserved skill.
+skl_reserved_2|Reserved Skill 2
+skl_reserved_2_desc|This is a reserved skill.
+skl_reserved_3|Reserved Skill 3
+skl_reserved_3_desc|This is a reserved skill.
+skl_reserved_4|Reserved Skill 4
+skl_reserved_4_desc|This is a reserved skill.
+skl_persuasion|Perswazja
+skl_persuasion_desc|Ta umiejętność pomaga przekonywać innych ludzi aby zaakceptowali twój punkt widzenia. (Osobista umiejętność)
+skl_engineer| 
+skl_engineer_desc| 
+skl_first_aid|Leczenie
+skl_first_aid_desc|Bohater odzyskuje 5%% zdrowia, na każdy poziom umiejętności w trakcie trwania bitwy. (Drużynowa umiejętność)
+skl_surgery|Chirurgia
+skl_surgery_desc|Each point to this skill gives a 4%% chance that a mortally struck party member will be wounded rather than killed. (Drużynowa umiejętność)
+skl_wound_treatment|Opatrywanie ran
+skl_wound_treatment_desc|Szybkość leczenia zwiększa się o 20%% na każdy poziom umiejętności. (Drużynowa umiejętność)
+skl_inventory_management|Zarządzanie ekwipunkiem
+skl_inventory_management_desc|Pojemność inwentarza zwiększa się o 6 miejsc, na każdy poziom umiejętności. (Umiejętność przywódcy)
+skl_spotting|Spostrzegawczość
+skl_spotting_desc|Zasięg widzialności zwiększa się o 10%% na każdy poziom umiejętności. (Drużynowa umiejętność)
+skl_pathfinding|Tropienie
+skl_pathfinding_desc|Szybkość porszuania się na mapie świata zwiększa się o 3%% na każdy poziom umiejętności. (Drużynowa umiejętność)
+skl_tactics|Taktyka
+skl_tactics_desc|Każde dwa poziomy tej umiejętności zwiększają początkową bitewną przewagę o 1. (Drużynowa umiejętność)
+skl_tracking|Tropienie
+skl_tracking_desc|Tropienie dostarcza więcej informacji. (Drużynowa umiejętność)
+skl_trainer|Szkolenie
+skl_trainer_desc|Każdego dnia, bohater z tą umiejętnością dodaje doświadczenie innym członkom oddziału, których poziom jest niższy. Doświadczenie zdobywane: {0,4,10,16,23,30,38,46,55,65,80}. (Osobista umiejętność)
+skl_reserved_5|Reserved Skill 5
+skl_reserved_5_desc|This is a reserved skill.
+skl_reserved_6|Reserved Skill 6
+skl_reserved_6_desc|This is a reserved skill.
+skl_reserved_7|Reserved Skill 7
+skl_reserved_7_desc|This is a reserved skill.
+skl_reserved_8|Reserved Skill 8
+skl_reserved_8_desc|This is a reserved skill.
+skl_looting|Plądrowanie
+skl_looting_desc|Ta umiejętność zwiększa ilość zdobywanego łupu o 10%% na każdy poziom umiejętności. (Drużynowa umiejętność)
+skl_horse_archery|Strzelectwo konne
+skl_horse_archery_desc|Redukuje obrażenia i kary celności dla strzelców konnych. (Osobista umiejętność)
+skl_riding|Jazda konna
+skl_riding_desc|Umiejętność umożliwia jazdę na lepszych koniach, zwiększa szybkość i zwrotność. (Osobista umiejętność)
+skl_athletics|Atletyka
+skl_athletics_desc|Każdy punkt poprawia umiejętność biegania.(Osobista umiejętność)
+skl_shield| 
+skl_shield_desc| 
+skl_weapon_master|Mistrzostwo broni
+skl_weapon_master_desc|Umiejętność umożliwia szybszą naukę posługiwania się bronią i zwiększa limity umiejętności. Limity: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. (Osobista umiejętność)
+skl_reserved_9|Reserved Skill 9
+skl_reserved_9_desc|This is a reserved skill.
+skl_reserved_10|Reserved Skill 10
+skl_reserved_10_desc|This is a reserved skill.
+skl_reserved_11|Reserved Skill 11
+skl_reserved_11_desc|This is a reserved skill.
+skl_reserved_12|Reserved Skill 12
+skl_reserved_12_desc|This is a reserved skill.
+skl_reserved_13|Reserved Skill 13
+skl_reserved_13_desc|This is a reserved skill.
+skl_power_draw| 
+skl_power_draw_desc| 
+skl_power_throw|Mocna głowa
+skl_power_throw_desc| 
+skl_power_strike|Potężne uderzenie
+skl_power_strike_desc|Każdy punkt tej umiejętności zwiększa siłę uderzenia o 8%%. (Osobista umiejętność)
+skl_ironflesh|Wytrzymałość
+skl_ironflesh_desc|Każdy punkt zwiększa wytrzymałość o +2. (Osobista umiejętność)
+skl_reserved_14|Reserved Skill 14
+skl_reserved_14_desc|This is a reserved skill.
+skl_reserved_15|Reserved Skill 15
+skl_reserved_15_desc|This is a reserved skill.
+skl_reserved_16|Reserved Skill 16
+skl_reserved_16_desc|This is a reserved skill.
+skl_reserved_17|Reserved Skill 17
+skl_reserved_17_desc|This is a reserved skill.
+skl_reserved_18|Reserved Skill 18
+skl_reserved_18_desc|This is a reserved skill.

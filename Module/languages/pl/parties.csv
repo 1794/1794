@@ -1,0 +1,318 @@
+p_zendar|Zendar
+p_town_1|Warszawa
+p_town_2|Lublin
+p_town_3|Kraków
+p_town_4|Wilno
+p_town_5|Ryga
+p_town_6|Gdańsk
+p_town_7|Poznań
+p_town_8|Wrocław
+p_town_9|Królewiec
+p_town_10|Lwów
+p_town_11|Smoleńsk
+p_town_12|Toruń
+p_town_13|Słuck
+p_town_14|Brno
+p_town_15|Wiedeń
+p_town_16|Budapeszt
+p_town_17|Koszyce
+p_town_18|Żytomierz
+p_town_19|Petersburg
+p_town_20|Żylina
+p_town_21|Debreczyn
+p_town_22|Rewal
+p_town_23|Oradea
+p_castle_1|Brześć
+p_castle_2|Windawa
+p_castle_3|Przemyśl
+p_castle_4|Goldynga
+p_castle_5|Opole
+p_castle_6|Konin
+p_castle_7|Płock
+p_castle_8|Grudziądz
+p_castle_9|Kobryń
+p_castle_10|Rzeszów
+p_castle_11|Bydgoszcz
+p_castle_12|Kalisz
+p_castle_13|Koszalin
+p_castle_14|Ołomuniec
+p_castle_15|Częstochowa
+p_castle_16|Olkusz
+p_castle_17|Zamość
+p_castle_18|Poniewież
+p_castle_19|Radom
+p_castle_20|Memelburg
+p_castle_21|Głogów
+p_castle_22|Sandomierz
+p_castle_23|Preny
+p_castle_24|Żnin
+p_castle_25|Kielce
+p_castle_26|Nowy Sącz
+p_castle_27|Piła
+p_castle_28|Słupsk
+p_castle_29|Nowogródek
+p_castle_30|Białystok
+p_castle_31|Holstin
+p_castle_32|Halicz
+p_castle_33|Równe
+p_castle_34|Opoczno
+p_castle_35|Żywiec
+p_castle_36|Bielawa
+p_castle_37|Nitra
+p_castle_38|Dyneburg
+p_castle_39|Święciany
+p_castle_40|Insterburg
+p_castle_41|unused
+p_castle_42|Taurogi
+p_castle_43|Mukaczewo
+p_castle_44|Baranowicze
+p_castle_45|Mohylew
+p_castle_46|Pińsk
+p_castle_47|Poprad
+p_castle_48|Melk
+p_castle_49|Kamieniec Podolski
+p_castle_50|Linz
+p_castle_51|Witebsk
+p_castle_52|Gyor
+p_castle_53|Bratyslawa
+p_castle_54|Psków
+p_castle_55|Ostróg
+p_castle_56|Rawa Mazowiecka
+p_castle_57|Tulczyn
+p_castle_58|Ostrołęka
+p_castle_59|Limbazi
+p_castle_60|Połock
+p_castle_61|Wielkie Łuki
+p_castle_62|Narwa
+p_castle_63|Juriew
+p_castle_64|Winnica
+p_castle_65|Nowogród Wielki
+p_castle_66|Homel
+p_castle_67|Borysów
+p_castle_68|Nadwórna
+p_castle_69|Uzhhorod
+p_castle_70|Miszkolc
+p_castle_71|Chełm
+p_castle_72|Arad
+p_castle_73|Szeged
+p_castle_74|unused
+p_castle_75|Mozyrz
+p_village_1|Warka
+p_village_2|Łowicz
+p_village_3|Nieporęt
+p_village_4|Kałuszyn
+p_village_5|Nasielsk
+p_village_6|Łomża
+p_village_7|Drohiczyn
+p_village_8|Hajnówka
+p_village_9|Kraśnik
+p_village_10|Parczew
+p_village_11|Bełżyce
+p_village_12|Chełm
+p_village_13|Kowel
+p_village_14|Jedrzejów
+p_village_15|Bochnia
+p_village_16|Polaniec
+p_village_17|Miechów
+p_village_18|Druskieniki
+p_village_19|Uciana
+p_village_20|Niemenczyn
+p_village_21|Kowno
+p_village_22|Szawle
+p_village_23|Kircholm
+p_village_24|Jelgava
+p_village_25|Elbląg
+p_village_26|Gdynia
+p_village_27|Wladyslawowo
+p_village_28|Tczew
+p_village_29|Gniezno
+p_village_30|Oborniki
+p_village_31|Grodzisk
+p_village_32|Legnica
+p_village_33|Olesnica
+p_village_34|Walbrzych
+p_village_35|Szaki
+p_village_36|village36
+p_village_37|Sambor
+p_village_38|Stryj
+p_village_39|Niecieszyn
+p_village_40|Belz
+p_village_41|Turka
+p_village_42|Babrujsk
+p_village_43|Maladzjechna
+p_village_44|Lubicz
+p_village_45|Brzesc
+p_village_46|Primorsk
+p_village_47|Frombork
+p_village_48|Gwardiejsk
+p_village_49|Hodonin
+p_village_50|Iglawa
+p_village_51|Sopron
+p_village_52|Hainfeld
+p_village_53|Hollabrunn
+p_village_54|Wagram
+p_village_55|Solnok
+p_village_56|Miszkolc
+p_village_57|Vesprim
+p_village_58|wies wegry patrol
+p_village_59|Jedrzejow
+p_village_60|Suchedniow
+p_village_61|Ostruda
+p_village_62|Mragowo
+p_village_63|Chelmno
+p_village_64|Zakopane
+p_village_65|Lubowla
+p_village_66|Brzeclaw
+p_village_67|Hodonin
+p_village_68|Polaniec
+p_village_69|Opatow
+p_village_70|Mir
+p_village_71|Sienno
+p_village_72|Braslaw
+p_village_73|Brzezany
+p_salt_mine|Salt Mine
+p_wegry_camp|Obóz Powstańców Węgierskich
+p_rosja_camp|Obóz Powstańców Rosyjskich
+p_action_litwa|Korona
+p_action_korona|Litwa
+p_action_prusy_1|Poznań
+p_action_prusy_2|Toruń
+p_action_rosja_1|Słuck
+p_action_rosja_2|Żytomierz
+p_action_wegry_1|Lwów
+p_action_wegry_2|Lwów
+p_action_end|fdsfdsfd
+p_four_ways_inn|Four Ways Inn
+p_karczma_a|Pod Jelenim Porożem
+p_karczma_b|Pod Piórem Kogucim
+p_karczma_c|Ostatni grosz
+p_karczma_d|Karczma Rzym
+p_karczma_e|Pod Kuflem Świętego Anulfa
+p_karczma_f|Stara Karczma
+p_karczma_g|Pod Kozim Kłem
+p_karczma_h|Karczma Hulanka
+p_karczma_i|Pod Wiedniem
+p_karczma_j|Pod Kielichem
+p_karczma_k|Wymysłów
+p_karczma_l|Piekiełko
+p_karczma_m|Przekora
+p_karczma_n|Zawada
+p_karczma_o|Pod Złamana Kopią
+p_karczma_p|Łapiguz
+p_karczma_r|Nazłość
+p_karczma_t|Utrata
+p_karczma_u|Sodoma
+p_karczma_w|Ucieszka
+p_karczma_x|Gospoda Czekaj
+p_karczma_y|Trzy Żubry
+p_karczma_yy|Mitręga
+p_karczma_yyy|Gospoda Bezdenna
+p_karczma_aa|Gospoda Trzy Słowa
+p_karczma_ab|Karczma Na Przełęczy
+p_karczma_ac|Austeria Kamieniecka
+p_karczma_ad|Pod Czarnym Barankiem
+p_karczma_ae|Gospoda Czerwony Rum
+p_karczma_af|Pod Królową Gęsią Nóżką
+p_karczma_ag|Pod Duńską Koroną
+p_karczma_ah|Gospoda Czarcie Kopyto
+p_battlefields|battlefields
+p_training_ground|Training Ground
+p_training_ground_1|Training Field
+p_training_ground_2|Training Field
+p_training_ground_3|Training Field
+p_training_ground_4|Training Field
+p_training_ground_5|Training Field
+p_polish_guards_spawn_point|polish guards sp
+p_russian_guards_spawn_point|russian guards sp
+p_austrian_guards_spawn_point|austrian guards sp
+p_prussian_guards_spawn_point|prussian gruards sp
+p_kosynierzy_lubelscy_spawn_point|kosynierzy lubelscy sp
+p_kosynierzy_krakowscy_spawn_point|kosynierzy krakowscy sp
+p_kosynierzy_spawn_point|kosynierzy sp
+p_kosynierzy_a_spawn_point|kosynierzy a sp
+p_powstancy_kosciuszkowscy_spawn_point|powstancy kosciuszkowscy sp
+p_wisnicka_straz_zamkowa_spawn_point|wisnicka straz zamkowa sp
+p_russian_cossacks_spawn_point|russian cossacks sp
+p_kosciuszkowcy|kosciuszkowcy sp
+p_cossack_bandit_spawn_point|the steppes
+p_taiga_bandit_spawn_point|the tundra
+p_forest_bandit_spawn_point|the forests
+p_opryszkowie_spawn_point|the robbers
+p_sea_raider_spawn_point_1|the coast
+p_sea_raider_spawn_point_2|the coast
+p_desert_bandit_spawn_point|the deserts
+p_1podroz_1|Training Field
+p_1podroz_2|Training Field
+p_1podroz_3|Training Field
+p_1podroz_4|Training Field
+p_1podroz_5|Training Field
+p_1podroz_6|Training Field
+p_1podroz_7|Training Field
+p_1podroz_8|Training Field
+p_1podroz_9|Training Field
+p_1podroz_10|Training Field
+p_dowodca4|Wiejska parafia
+p_looters_spawn_b|Pod Piórem Kogucim
+p_looters_spawn_c|Ostatni grosz
+p_looters_spawn_d|Karczma Rzym
+p_looters_spawn_e|Pod Kuflem Świętego Anulfa
+p_looters_spawn_f|Stara Karczma
+p_looters_spawn_g|Pod Kozim Kłem
+p_looters_spawn_h|Karczma Hulanka
+p_looters_spawn_i|Pod Wiedniem
+p_looters_spawn_j|Pod Kielichem
+p_looters_spawn_k|Wymysłów
+p_looters_spawn_l|Piekiełko
+p_looters_spawn_m|Przekora
+p_looters_spawn_n|Zawada
+p_looters_spawn_o|Pod Złamaną Kopią
+p_looters_spawn_p|Łapiguz
+p_looters_spawn_r|Nazłość
+p_looters_spawn_t|Utrata
+p_looters_spawn_u|Sodoma
+p_looters_spawn_w|Ucieszka
+p_looters_spawn_x|Gospoda Czekaj
+p_looters_spawn_y|Trzy Żubry
+p_zbojnicy_spawn_b|Pod Piorem Kogucim
+p_zbojnicy_spawn_c|Ostatni grosz
+p_zbojnicy_spawn_d|Karczma Rzym
+p_zbojnicy_spawn_e|Pod Kuflem Swietego Anulfa
+p_zbojnicy_spawn_f|Stara Karczma
+p_zbojnicy_spawn_g|Pod Kozim Klem
+p_zbojnicy_spawn_h|Karczma Hulanka
+p_zbojnicy_spawn_i|Pod Wiedniem
+p_zbojnicy_spawn_j|Pod Kielichem
+p_zbojnicy_spawn_k|Wymyslow
+p_zbojnicy_spawn_l|Piekielko
+p_zbojnicy_spawn_m|Przekora
+p_zbojnicy_spawn_n|Zawada
+p_zbojnicy_spawn_o|Pod Zlamana Kopia
+p_zbojnicy_spawn_p|Lapiguz
+p_zbojnicy_spawn_r|Nazlosc
+p_zbojnicy_spawn_t|Utrata
+p_zbojnicy_spawn_u|Sodoma
+p_zbojnicy_spawn_w|Ucieszka
+p_zbojnicy_spawn_x|Gospoda Czekaj
+p_zbojnicy_spawn_y|Trzy Zubry
+p_przemytnicy_spawn_b|Pod Piorem Kogucim
+p_przemytnicy_spawn_c|Ostatni grosz
+p_przemytnicy_spawn_d|Karczma Rzym
+p_przemytnicy_spawn_e|Pod Kuflem Swietego Anulfa
+p_przemytnicy_spawn_f|Stara Karczma
+p_qinfiltracja|Kryjówka
+p_ataman_1|Stanica Kozacka
+p_ataman_2|Stanica Kozacka
+p_ataman_3|Stanica Kozacka
+p_ataman_4|Stanica Kozacka
+p_ataman_5|Stanica Węgierska
+p_ataman_6|Stanica Węgierska
+p_ataman_7|Stanica Węgierska
+p_wojsko_1|Obóz Wojsk
+p_wojsko_2|Obóz Wojsk
+p_wojsko_3|Obóz Wojsk
+p_wojsko_4|Obóz Wojsk
+p_terrain_mountains|Hideout
+p_terrain_plain|Hideout
+p_terrain_steppe|Hideout
+p_terrain_end|Hideout
+p_qkryjowkamaruderow|Kryjówka
