@@ -1,7 +1,7 @@
-qstr_rozmowa|rozmowa
-qstr_rozmowa_2|rozmowa 2
-qstr_strumyk|strumyk
-qstr_pilowanie|pilowanie
+﻿qstr_rozmowa|conversation
+qstr_rozmowa_2|conversation 2
+qstr_strumyk|brook
+qstr_pilowanie|sawing
 qstr_Next_Page|Next Page
 qstr_Game_Rules:^|Game Rules:^
 qstr_0|0
@@ -231,7 +231,7 @@ qstr_Manifest:_{reg0}|Manifest: {reg0}
 qstr_Zwycięstwo!|Victory!
 qstr_Porażka!|Defeat!
 qstr_Kontynuuj...|Continue...
-qstr_Ilość_punktów_do_|Ilość punktów do współczynnika: {reg1}
+qstr_Ilość_punktów_do_|Number of points to factor: {reg1}
 qstr_Wysokość_nagrody_p|Bounty: {reg1}
 qstr_Uzyskana_renoma:_{re|Renown gained: {reg1}
 qstr_Pozycja:_{reg10}_^Z?|Position: {reg10} ^Gold: {reg12}
@@ -422,8 +422,8 @@ qstr_windPower|windPower
 qstr_windGrassPower|windGrassPower
 qstr_waterWavesAmount|waterWavesAmount
 qstr_czynnik_{reg10}_type|czynnik {reg10} type: {reg0} str {reg1} fog {reg2} wind {reg3} grass {reg4} waves {reg5} skybox {reg6}
-qstr_DEBUG_INFO:_{s0}_prz|DEBUG INFO: {s0} przywrocony
-qstr_DEBUG_INFO:_{s0}_dod|DEBUG INFO: {s0} dodany jako bonus
+qstr_DEBUG_INFO:_{s0}_prz|DEBUG INFO: {s0} revert
+qstr_DEBUG_INFO:_{s0}_dod|DEBUG INFO: {s0} added as bonus
 qstr_Patrol_został_zlikw|Patrol eliminated.
 qstr_Rzeczpospolita_Obojg|Commonwealth of Both Nations
 qstr_http://1794.com.pl/1794|http://1794.com.pl/1794/get.php?player={s0}&type={reg0}&message=Przeszedl%20do%20etapu%204!
@@ -520,7 +520,7 @@ qstr_Królestwa|Kingdoms
 qstr_Monarchii|Monarchy
 qstr_Paskudna|Disgusting
 qstr_Parszywa|Awful
-qstr_piwo_zacne_w_tej_mie|mają they have good beer in this town, cheers good people!
+qstr_piwo_zacne_w_tej_mie|they have good beer in this town, cheers good people!
 qstr_miód_przedni__w_oko|they have excellent mead here
 qstr_napić_się_można_w|you can have a drink in good company
 qstr_Do_czorta|Goddammit
@@ -582,71 +582,71 @@ qstr_Wspaniałe|Marvellous
 qstr_dłużej_w_tym_mieś|longer in this cit
 qstr_jeszcze_kilka_dni|just a couple od days
 qstr_wszystko_co_dobre_sw|all's well that end's well, time to go.
-qstr_Diabli_nadali|Diabli nadali
-qstr_mogłoby_popadać|mogłoby popadać
-qstr_coś_dawno_nie_pada?|coś dawno nie padało
-qstr_Nie_ma_nic_do_robien|Nie ma nic do robienia
-qstr_Nic_ciekawego_niema|Nic ciekawego niema
-qstr_zaplutej|zaplutej
-qstr_parszywej|parszywej
-qstr_trunki|trunki
-qstr_miody|miody
-qstr_wina|wina
-qstr_Witam_{s69}.|Witam, {s69}.
-qstr_Dzień_dobry.|Dzień dobry.
-qstr_Piękny_dziś_mamy_d|Piękny dziś mamy dzień, {s69}.
-qstr_na_dzisiejszy_bal|na dzisiejszy bal
-qstr_na_dzisiejszą_kolac|na dzisiejszą kolację
-qstr_tylko_w_Paryżu_pię|tylko w Paryżu piękne można kupić
-qstr_piękna|piękna
-qstr_cudowna|cudowna
-qstr_znakomita|znakomita
-qstr_piknik|piknik
-qstr_przejażdżkę_kolas|przejażdżkę kolasą za miasto
-qstr_spacer|spacer
-qstr_Dobry_dzień.|Dobry dzień.
-qstr_Kłaniam_się_nisko.|Kłaniam się nisko.
-qstr_Witam.|Witam.
-qstr_Dobry.|Dobry.
-qstr_Do_licha|Do licha
-qstr_Doskonała_pogoda|Doskonała pogoda
-qstr_Świetna_pogoda|Świetna pogoda
-qstr_Znakomita_pogoda|Znakomita pogoda
-qstr_piwo|piwo
-qstr_ryby|ryby
-qstr_grzyby|grzyby
-qstr_wizytę_w_szynku|wizytę w szynku
-qstr_w_tym_kraju|w tym kraju
-qstr_w_tym_województwie|w tym województwie
-qstr_tutaj|tutaj
-qstr_Niech_to_licho|Niech to licho
-qstr_zrobiłbym_wszystko|zrobiłbym wszystko
-qstr_oddałbym_życie|oddałbym życie
+qstr_Diabli_nadali|Look what the cat dragged in!
+qstr_mogłoby_popadać|rain wouldn't hurt
+qstr_coś_dawno_nie_pada?|been a long time without rain
+qstr_Nie_ma_nic_do_robien|Nothing to do here
+qstr_Nic_ciekawego_niema|Nothing intresting right now
+qstr_zaplutej|gloomy
+qstr_parszywej|dirty
+qstr_trunki|alcohol
+qstr_miody|mead
+qstr_wina|wine
+qstr_Witam_{s69}.|Cheerio, {s69}!
+qstr_Dzień_dobry.|Morning.
+qstr_Piękny_dziś_mamy_d|It's wonderful day, {s69}.
+qstr_na_dzisiejszy_bal|for todays treat
+qstr_na_dzisiejszą_kolac|for todays supper
+qstr_tylko_w_Paryżu_pię|only in Paris you can buy beautiful one
+qstr_piękna|beautiful
+qstr_cudowna|wonderful
+qstr_znakomita|excellent
+qstr_piknik|picnic
+qstr_przejażdżkę_kolas|excursion far from city
+qstr_spacer|saunter
+qstr_Dobry_dzień.|Morning.
+qstr_Kłaniam_się_nisko.|I low bow.
+qstr_Witam.|Welcome.
+qstr_Dobry.|Morning.
+qstr_Do_licha|Rabbit it!
+qstr_Doskonała_pogoda|Beautiful weather
+qstr_Świetna_pogoda|Good weather
+qstr_Znakomita_pogoda|Wonderful weather
+qstr_piwo|beer
+qstr_ryby|fishes
+qstr_grzyby|mushrooms
+qstr_wizytę_w_szynku|visit in taproom
+qstr_w_tym_kraju|in this country
+qstr_w_tym_województwie|in this province
+qstr_tutaj|here
+qstr_Niech_to_licho|Damn
+qstr_zrobiłbym_wszystko|I would do everything
+qstr_oddałbym_życie|I would give my life
 qstr_zwodowałem_wczoraj_|zwodowałem wczoraj szkutę ze zbożem pod Sandomierzem
 qstr_coraz_więcej_płót|coraz więcej płótna się  sprzedaje
-qstr_otworzyłem_nowy_skl|otworzyłem nowy sklep we Lwowie
+qstr_otworzyłem_nowy_skl|I have new store in Lviv
 qstr_dobre_plony_były_w_|dobre plony były w roku ubiegłym
-qstr_Chłopi_mi_uciekają|Chłopi mi uciekają z folwarku
-qstr_długi_mam_u_tutejsz|długi mam u tutejszego lichwiarza
-qstr_duszno|duszno
-qstr_straszna_duchota|straszna duchota
-qstr_parno|parno
-qstr_Piękny_dzionek|Piękny dzionek
-qstr_Wspaniała_pogoda|Wspaniała pogoda
-qstr_Tak_gorąco|Tak gorąco
-qstr_No_dalej|No dalej
-qstr_Dalej|Dalej
-qstr_nicponie|nicponie
-qstr_łajdaki|łajdaki
-qstr_święta|święta
-qstr_parady|parady
-qstr_hołota|hołota
-qstr_plebs|plebs
-qstr_gałgany|gałgany
-qstr_tchórze|tchórze
-qstr_We_Francji|We Francji
-qstr_We_Włoszech|We Włoszech
-qstr_W_Anglii|W Anglii
+qstr_Chłopi_mi_uciekają|Peasants run from my grange
+qstr_długi_mam_u_tutejsz|I own money to loan shark
+qstr_duszno|stuffy
+qstr_straszna_duchota|stuffy weather
+qstr_parno|sultrily
+qstr_Piękny_dzionek|Excellent day
+qstr_Wspaniała_pogoda|Wonderful weather
+qstr_Tak_gorąco|So hot
+qstr_No_dalej|Come on
+qstr_Dalej|Further
+qstr_nicponie|scalawag
+qstr_łajdaki|scoundrel
+qstr_święta|holidays
+qstr_parady|parade
+qstr_hołota|rabble
+qstr_plebs|commonalty
+qstr_gałgany|rags
+qstr_tchórze|coward
+qstr_We_Francji|In France
+qstr_We_Włoszech|In Italy
+qstr_W_Anglii|In England
 qstr_ERROR:_[waveStart]_r|ERROR: [waveStart] region == -1
 qstr_INFO:_[waveStart]_{s|INFO: [waveStart] {s0} started wave towards {s1}
 qstr_INFO:_[waveUpdate][{|INFO: [waveUpdate][{reg1}] wave will last for {reg0} hours
@@ -655,24 +655,24 @@ qstr_{reg0}_size:_{reg1}|{reg0} size: {reg1}
 qstr_{s0}_considered_capt|{s0} considered captured...
 qstr_{reg0}_is_next_targe|{reg0} is next target
 qstr_{s1}_to_attack_{s0}|{s1} to attack {s0}
-qstr_Imperium_Rosyjskiego|Imperium Rosyjskiego
-qstr_Królestwa_Prus|Królestwa Prus
-qstr_Monarchii_Habsburgó|Monarchii Habsburgów
+qstr_Imperium_Rosyjskiego|Russian Empire
+qstr_Królestwa_Prus|Kingdom of Prussia
+qstr_Monarchii_Habsburgó|Habsburg Monarchy
 qstr_[etap4Update]:_{reg0|[etap4Update]: {reg0} time: {reg1}
 qstr_Stop_sounds...|Stop sounds...
-qstr_Masz_na_sobie_mundur|Masz na sobie mundur. Nie uda ci się tak złapać zdrajców
-qstr_Miasto_nie_jest_w_r?|Miasto nie jest w rękach Kościuszkowców. Nie uda ci się tak złapać zdrajców
+qstr_Masz_na_sobie_mundur|You are uniformed, change clothes to blend in and find traitors.
+qstr_Miasto_nie_jest_w_r?|City is sized by other fraction. You won't be able to find traitors.
 qstr_Starting_execution..|Starting execution...
-qstr_okno|okno
-qstr_pies|pies
-qstr_dzwony|dzwony
-qstr_mucha|mucha
-qstr_Egzekucje_odbywają_|Egzekucje odbywają się na przedmieściach miast. Możesz spotkać je wykonując zadania.?Zaczekaj na miejscu na dalszy przebieg zdarzeń.
-qstr_Postaci_które_musis|Postaci, które musisz odszukać zawsze przebywają w scenie. Nad ich głowami znajduje się znacznik, ułatwiający poszukiwania
-qstr_Aby_ukończyć_zadan|Aby ukończyć zadanie odnajdź w lokacji zleceniodawcę. Nad  głową postaci zawsze znajduje się znacznik.
-qstr_Brawler_to_postać_|Brawler to postać znajdująca się w każdym z miast, zarówno w centrum, jak i na przedmieściach. W dowolny czasie możesz stoczyć pojedynek, aby zdobyć pieniądze i renomę.
+qstr_okno|window
+qstr_pies|dog
+qstr_dzwony|bells
+qstr_mucha|fly
+qstr_Egzekucje_odbywają_|Executions takes place in the suburbs of a cities. You can came across it during quests. Wait and see what will happen.
+qstr_Postaci_które_musis|Figures you are looking for, you should find in current location. They are marked with special sign.
+qstr_Aby_ukończyć_zadan|To complete quest, find orginator in the location. Character is marked.
+qstr_Brawler_to_postać_|Brawler is character you can find in every city, both, in city center and suburbs. In any time you can fight a duel to gain money and renown.
 qstr_DEBUG:_{reg45}_enemi|DEBUG: {reg45} enemies are following player
-qstr_Nie_możesz_wyjśc_w|Nie możesz wyjśc w trakcie egzekucji.
+qstr_Nie_możesz_wyjśc_w|You can't leave during execution.
 qstr_You_got_keys_of_dung|You got keys of dungeon.
 qstr_WTF_PLAYER_IS_NOT_AC|WTF, PLAYER IS NOT ACTIVE?
 qstr_leaders_{s0}_{s1}|leaders {s0}, {s1}
@@ -703,7 +703,7 @@ qstr_Głos_z_wewnątrz:^H|Voice from the inside:^Hey wait! Over here! Don’t le
 qstr_Glos_z_wewnatrz:^Hej|Voice from the inside:^Hey wait! Over here! Don’t leave...
 qstr_Coś_mi_się_widzi_?|Looks to me that your trip ends here…
 qstr_Stan:_{reg0}|State: {reg0}
-qstr_Werbownik_to_postać|Werbownik to postać u której możesz kupować i uzupełniać regimenty. Postać znajduje się w obozie, a także w miastach frakcji do której należysz.
+qstr_Werbownik_to_postać|Canvasser enable you to form and refill regiments. You can find Canvasser in camp or cities controled by your fraction.
 qstr_You_came_into_the_wo|You came into the world a {reg3?daughter:son} of declining nobility, owning only the house in which they lived. However, despite your family's hardships, they afforded you a good education and trained you from childhood for the rigors of aristocracy and life at court.
 qstr_You_were_born_the_{r|You were born the {reg3?daughter:son} of travelling merchants, always moving from place to place in search of a profit. Although your parents were wealthier than most and educated you as well as they could, you found little opportunity to make friends on the road, living mostly for the moments when you could sell something to somebody.
 qstr_As_a_child_your_fami|As a child, your family scrabbled out a meagre living from your father's wages as a guardsman to the local lord. It was not an easy existence, and you were too poor to get much of an education. You learned mainly how to defend yourself on the streets, with or without a weapon in hand.
@@ -980,8 +980,8 @@ qstr_czego_wam_trzeba?|czego wam trzeba?
 qstr_Żegnam_nie_zapomina|Żegnam, nie zapominajcie gdzie można znaleźć mnie.
 qstr_Bywajcie_i_nie_zapom|Bywajcie i nie zapomnijcie gdzie szukać mnie.
 qstr_Bywajcie_i_miejcie_w|Bywajcie i miejcie w pamięci mój skromny kram.
-qstr_I_co?_Rozmawialiści|I co? Rozmawialiście już z mym synem? Udało się?
-qstr_I_co?_Przekonaliści|I co? Przekonaliście mego syna?
+qstr_I_co?_Rozmawialiści|So? Have you spoken to my son?
+qstr_I_co?_Przekonaliści|So? Have you persuaded my son?
 qstr_Kogo_żem_ja_posła?|Kogo, żem ja posłał, miast pomóc i przekonać, tylko poparł w durnocie. A idźcie do czorta!
 qstr_Co?!_Poparliście_to|Co?! Poparliście to szaleństwo?! Mór na was i mogiła dla syna mego. Do licha, po co żem was posłał?!
 qstr_Hę?_Z_kim_to_mam_pr|Hę? Z kim to mam przyjemność?
@@ -1046,10 +1046,10 @@ qstr_Idź_gdzie_indziej_k|Idź gdzie indziej kopie kruszyć o cudze słowy.
 qstr_Nie_mam_ci_nic_do_po|Nie mam ci nic do powiedzenia, do nie zobaczenia.
 qstr_Zejdź_mi_z_drogi_tc|Zejdź mi z drogi tchórzu.
 qstr_Nie_mam_nic_dla_cieb|Nie mam nic dla ciebie, poza kopem w rzyć.
-qstr_Gardzę_takimi_jak_w|Gardzę, takimi jak wy.
+qstr_Gardzę_takimi_jak_w|I despise people like you.
 qstr_Austrią_i_Prusami|Austrią i Prusami
-qstr_Rosją_i_Prusami|Rosją i Prusami
-qstr_Witaj|Witaj
+qstr_Rosją_i_Prusami|Russia and Prussia
+qstr_Witaj|Welcome
 qstr_z_czym_przychodzisz|z czym przychodzisz
 qstr_w_czym_rzecz|w czym rzecz
 qstr_Czego_chcesz?|Czego chcesz?
@@ -1157,8 +1157,8 @@ qstr_Warszawskim|Warszawskim
 qstr_Krakowskim|Krakowskim
 qstr_zacna_gdańska_wódk|zacna gdańska wódka
 qstr_przednie_zachodnie_t|przednie zachodnie trunki
-qstr_Prus|Prus
-qstr_Rosji|Rosji
+qstr_Prus|Prussia
+qstr_Rosji|Russia
 qstr_Austrii|Austrii
 qstr_Sieciński|Sieciński
 qstr_Zbych|Zbych
