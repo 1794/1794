@@ -1,4 +1,4 @@
-str_no_string|NO STRING!
+﻿str_no_string|NO STRING!
 str_empty_string|
 str_yes|Yes.
 str_no|No.
@@ -2818,15 +2818,15 @@ str_remaining_time_s0reg0_s1reg1|Remaining Time: {s0}{reg0}:{s1}{reg1}
 str_you_are_a_lord_lady_of_s8_s9|You are a {lord/lady} of {s8}.^{s9}
 str_you_are_king_queen_of_s8_s9|You are {king/queen} of {s8}.^{s9}
 str_for_s4| for {s4}
-str_hn_1_data|24 marca 1794 rok:
+str_hn_1_data|24 March 1794:
 str_hn_1_naglowek|Historical Notes
 str_hn_1_tekst1|Beginning of the Kosciuszko Insurrection
 str_hn_1_tekst2|krotki opis zdarzenia
-str_hn_2_data|4 kwietnia 1794 rok:
+str_hn_2_data|4 April 1794:
 str_hn_2_naglowek|Historical Notes
 str_hn_2_tekst1|tekst1
 str_hn_2_tekst2|tekst2
-str_hn_3_data|17-18 kwietnia 1794 rok:
+str_hn_3_data|17-18 April 1794:
 str_hn_3_naglowek|Historical Notes
 str_hn_3_tekst1|tekst1
 str_hn_3_tekst2|tekst2
@@ -2904,7 +2904,7 @@ str_execution_prisoner_1|Hail Mary, full of grace, the Lord is with thee...
 str_execution_prisoner_2|Be damned!^ Bastards!
 str_execution_prisoner_3|For our and your freedom!^ We shall die...
 str_wyrok_1_1|In the name of our graciously {s20}.
-str_wyrok_1_2|These here, enemies of the {s20}, ^ are sentenced to death by firing squad
+str_wyrok_1_2|These here, enemies of the {s20}, ^ are sentenced to death by firing squad.
 str_wyrok_1_3|The sentence is lawful and^ is to be executed without delay.
 str_wyrok_1_4|May it be a lesson, that anyone^ who would raise his head against the crown, shall lose it!
 str_endgame_1|1 region
@@ -2935,7 +2935,7 @@ str_dostarczbron2|The conspirators in the city of {s20} need weapons, to continu
 str_prusy|Set out to the city of {s20} and rouse the locals. Doing that will allow you to cause riots nearby {s20}, in a time of your choosing.
 str_dostarczbron|Newly-forming troops in Hungary don't have enough weaponry. Deliver weapons to the revolutionaries to allow more troops to take part in the insurrection.^Tip: Troops have been marked on the map.
 str_dezercja|Serve justice to three troops of deserters. You have 5 days to execute the order.
-str_przyczolek|Wspomoż kozakow w zdobywaniu zamku.
+str_przyczolek|Support cossacks in takeover of a castle. 
 str_manifesty|Proclaim manifestoes in two indicated taverns, in order to spread the revolutionary ideals.^Tip: The taverns are marked on the map.
 str_uniwersal|Go to the taverns, proclaim Kosciuszko's universal, broadening the rights and privledges of peasants.^Tip: The taverns are marked on the map.
 str_kidnapped_girl|Go towards Warsaw, rendezvous Mister Iksinski and his company.
@@ -2961,7 +2961,7 @@ str_qemisariusz_1|For the head of a traitor or a rabble-rouser 50 roubles in gol
 str_infiltracja|Learn where the bandits' hidout is located and destroy the band. Try asking around in the tavern {s20}.
 str_kurland|Doniesienie listu do jednej z karczm na Kurlandii. Skutkuje spawnem jednego oficera i jego atakiem na jeden losowy zamek z trzeciej puli. Celem gracza jest dostarczenie informacji, pomoc w zdobyciu zamku. Następnie powrot do Rzeczpospolitej. Zadanie jest nawiazaniem do powstania Kurlandzkiego.
 str_zamek2|Lead the troops and capture an important for the success of the revolution castle of {s0}.
-str_zamek3|Gather the officers and capture the city of {s0}, kluczowy osrodek rewolucji.
+str_zamek3|Gather the officers and capture the city of {s0}, key center for the success of revolution.
 str_looters_name1_begin|Jasko
 str_looters_name1_2|Zbyszko
 str_looters_name1_3|Walenty
@@ -3032,24 +3032,24 @@ str_looters_name_format2|{s0} {s1}
 str_name_end|error
 str_rewolucja_wegry_lose|Despite preparations, the Hungarian Uprising has not begun!
 str_rewolucja_wegry_win|The Hungarian Uprising has begun!
-str_5_porucznik_opis|W sklad plutonu wchodzi 30 żolnierzy. Jednostka przeznaczona do walki w formacjach.^ Skuteczna szczegolnie przy salwach, w ostrzale nieregularnym sprawdza się gorzej.^ Doswiadczeni fizylierzy radza sobie dobrze w walce wręcz.
-str_5_kapitan_a_opis|W sklad kompanii wchodzi 60 żolnierzy. Jednostka przeznaczona do walki w formacjach.^ Skuteczna szczegolnie przy salwach, w ostrzale nieregularnym sprawdza się gorzej.^ Doswiadczeni fizylierzy radza sobie dobrze w walce wręcz.
-str_5_kapitan_b_opis|W sklad plutonu wchodzi 30 żolnierzy. Lekka piechota charakteryzuje się duża skutecznoscia w walce dystansowej, z powodzeniem korzysta z tyraliery czy podwojnej linii.^ Gorzej radzi sobie w walce wręcz.
-str_5_rotmistrz_opis|W sklad szwadronu wchodzi 50 kawalerzystow. Lekka kawaleria, doskonala do przeprowadzania szybkich atakow i w celach zwiadowczych.
-str_5_major_a_opis|W sklad batalionu wchodzi 120 żolnierzy. Jednostka przeznaczona do walki w formacjach.^ Skuteczna szczegolnie przy salwach, w ostrzale nieregularnym sprawdza się gorzej.^ Doswiadczeni fizylierzy radza sobie dobrze w walce wręcz.
-str_5_major_b_opis|W sklad kompanii wchodzi 60 żolnierzy. Lekka piechota charakteryzuje się duża skutecznoscia w walce dystansowej, z powodzeniem korzysta z tyraliery czy podwojnej linii. Gorzej radzi sobie w walce wręcz.
-str_5_major_c_opis|W sklad plutonu wchodzi 30 żolnierzy.
-str_5_major_d_opis|W sklad pulku wchodzi 100 kawalerzystow. Lekka kawaleria, doskonala do przeprowadzania szybkich atakow i w celach zwiadowczych.
-str_5_major_e_opis|W sklad szwadronu wchodzi 50 kawalerzystow. Kawaleria sprawdzajaca się zarowno przeciwko jeździe jak i piechocie.
-str_5_pulkownik_a_opis|W sklad regimentu wchodzi 300 żolnierzy. Jednostka przeznaczona do walki w formacjach.^ Skuteczna szczegolnie przy salwach, w ostrzale nieregularnym sprawdza się gorzej.^ Doswiadczeni fizylierzy radza sobie dobrze w walce wręcz.
-str_5_pulkownik_b_opis|W sklad batalionu wchodzi 120 żolnierzy. Lekka piechota charakteryzuje się duża skutecznoscia w walce dystansowej, z powodzeniem korzysta z tyraliery czy podwojnej linii. Gorzej radzi sobie w walce wręcz.
-str_5_pulkownik_c_opis|W sklad kompanii wchodzi 60 żolnierzy.
-str_5_pulkownik_d_opis|W sklad brygady wchodzi 200 kawalerzystow. Lekka kawaleria, doskonala do przeprowadzania szybkich atakow i w celach zwiadowczych.
-str_5_pulkownik_e_opis|W sklad pulku wchodzi 100 kawalerzystow. Kawaleria sprawdzajaca się zarowno przeciwko jeździe jak i piechocie.
-str_5_general_a_opis|W sklad batalionu wchodzi 120 żolnierzy.
-str_5_general_b_opis|W sklad regimentu wchodzi 300 żolnierzy. Lekka piechota charakteryzuje się duża skutecznoscia w walce dystansowej, z powodzeniem korzysta z tyraliery czy podwojnej linii. Gorzej radzi sobie w walce wręcz.
-str_5_general_c_opis|W sklad batalionu wchodzi 120 żolnierzy.
-str_5_brygadier_opis|W sklad brygady wchodzi 200 kawalerzystow.
+str_5_porucznik_opis|Platoon is made up of 30 soldiers. Such unit is designated to fight in formation.^ Especially effective in volley firing but not as effective in irregular fire. Experienced fusiliers are good in melee.
+str_5_kapitan_a_opis|Company is made up of 60 soldiers. Such unit is designated to fight in formation.^ Especially effective in volley firing but not as effective in irregular fire. Experienced fusiliers are good in melee.
+str_5_kapitan_b_opis|Platoon is made up of 30 soldiers. Light Infantry, unit which excels at long distance firing, it successfully uses the skirmish and double line formation.^ It is less effective in melee combat.
+str_5_rotmistrz_opis|Squadron is made up of 50 cavalrymen. Light Cavalry, unit which excels at rapid attacks and reconnaissance tasks.
+str_5_major_a_opis|Battalion is made up of 120 soldiers. Such unit is designated to fight in formation.^ Especially effective in volley firing but not as effective in irregular fire. Experienced fusiliers are good in melee.
+str_5_major_b_opis|Company is made up of 60 soldiers. Light Infantry, unit which excels at long distance firing, it successfully uses the skirmish and double line formation.^ It is less effective in melee combat.
+str_5_major_c_opis|Platoon is made up of 30 soldiers.
+str_5_major_d_opis|Regiment is made up of 100 cavalrymen. Light Cavalry, unit which excels at rapid attacks and reconnaissance tasks.
+str_5_major_e_opis|Squadron is made up of 50 cavalrymen. Cavalry unit which excels in fighting both cavalry and infantry.
+str_5_pulkownik_a_opis|Regiment is made up of 300 soldiers. Such unit is designated to fight in formation.^ Especially effective in volley firing but not as effective in irregular fire. Experienced fusiliers are good in melee.
+str_5_pulkownik_b_opis|Battalion is made up of 120 soldiers. Light Infantry, unit which excels at long distance firing, it succesfully uses the skirmish and double line formation.^ It is less effective in melee combat.
+str_5_pulkownik_c_opis|Company is made up of 60 soldiers.
+str_5_pulkownik_d_opis|Brigade is made up of 200 cavalrymen. Light Cavalry, unit which excels at rapid attacks and reconnaissance tasks.
+str_5_pulkownik_e_opis|Squadron is made up of 100 cavalrymen. Cavalry unit which excels in fighting both cavalry and infantry.
+str_5_general_a_opis|Battalion is made up of 120 soldiers.
+str_5_general_b_opis|Regiment is made up of 300 soldiers. Light Infantry, unit which excels at long distance firing, it succesfully uses the skirmish and double line formation.^ It is less effective in melee combat.
+str_5_general_c_opis|Battalion is made up of 120 soldiers.
+str_5_brygadier_opis|Brigade is made up of 200 cavalrymen.
 str_karczmarz_text_1|Greetings to you most noble sir and welcome^ to this humble place.
 str_karczmarz_text_2|G'day, ^ pleasure to be your host.
 str_karczmarz_text_3|Greetings, ^ I hope you will stay in here a while longer.
@@ -3279,17 +3279,17 @@ str_greeting_5_2|Eh, {s20} nie ma pracy^ dla czlowieka z moim wyksztalceniem.
 str_greeting_5_3|{s20}, ale jak pada to^ przynajmniej odpoczac idzie.
 str_greeting_5_4|Eh, za lyk zimnego piwa, ^ {s20}
 str_greeting_end|error
-str_greeting_trader_1|Eh, dla kogo jak kuję ta bron, ^ a ojciec mowil, żeby narzędzia chlopom robic.
-str_greeting_trader_2|Kupujcie szlachetni panowie, ^ przednia stal i trwalosc tylko u mnie!
-str_greeting_trader_3|Przychodźcie i ogladajcie, ^ najlepsza bron w calym wojewodztwie!
-str_greeting_trader_4|Najlepsza bron palna w calym kraju, ^ to tylko u mnie!
+str_greeting_trader_1|Eh, for who am I forging these blades anyway,^ my father told me, make tools for the peasants.^ That's what I should have done.
+str_greeting_trader_2|Go ahead and buy good sirs,^ superior steel and finest durability, only available in my store!
+str_greeting_trader_3|Come and see,^ the most finest sabres around!
+str_greeting_trader_4|Buy the finest muskets and ^ pistols, only available in my store!
 str_greeting_trader_5|Przychodźcie drodzy panowie, ^ ogladajcie, wybierajcie!
 str_greeting_trader_6|swieże owoce, ^ warzywa i inne delicje, ogladajcie, kupujcie!
 str_greeting_trader_7|swieże ryby, ^ wczoraj zlapane, tylko u mnie!
 str_greeting_trader_8|Najlepsze produkty, ^ tylko u mnie!
-str_greeting_trader_88|Pierwszorzędne plotna, delie, kontusze, ^ mam wszystko co trzeba!
-str_greeting_trader_9|Najlepsze tkaniny w calym wojewodztwie, ^ a nawet kraju!
-str_greeting_trader_10|Sukna, plotna, skory, przychodźcie, ^ ogladajcie, wybierajcie!
+str_greeting_trader_88|Excellent cloth, delias, robe, I have everything that you need!
+str_greeting_trader_9|The finest fabrics in the entire province, and even in the Country!
+str_greeting_trader_10|Cloth, linen, skins, come, see and choose!
 str_greeting_trader_end|87
 str_r1_1|Dzien dobry, ^ jak zdrowie malżonki, w domu przebywa?
 str_r1_2|Witam, tak, nie narzeka.^ Milo mi, że waszmosc pytasz.
@@ -3310,9 +3310,9 @@ str_r6_2|Ano tak, przyjdzie mi ^niedlugo zmienic zawod.
 str_r6_3|Nie dobrze, ^macie już cos upatrzone?
 str_r6_4|Myslę, że najlepiej w ^handel zbożem zainwestowac.
 str_r6_5|To dobry kierunek, pomyslnosci.
-str_r6_6|Dziękuję.
+str_r6_6|Thank you.
 str_topic1_1|Witaj
-str_topic1_2|A idz w cholere...
+str_topic1_2|Go to the hell!
 str_topic1_3|Zegnam
 str_greeting_guard1|Miejcie się na bacznosci, ^ w okolicy bywa niebezpiecznie.
 str_greeting_guard2|Nie halasujcie tak, ^ jeszcze wroga sprowadzicie.
@@ -3395,25 +3395,25 @@ str_name_insurekcja|Insurrection
 str_name_zamek1|Zamek I
 str_name_zamek2|Zamek II
 str_name_zamek3|Zamek III
-str_name_kurland|List
+str_name_kurland|Letter
 str_name_przesluchanie|Przesluchanie
-str_name_infiltracja|Za garsc zlota
+str_name_infiltracja|For fistful of gold
 str_name_gzdrada|In tyrannos
-str_name_glist|Szpiedzy targowicy
-str_name_wojna|War of independence
-str_name_oboz_ros|Oboz
+str_name_glist|Spies of Targowica
+str_name_wojna|War of Independence
+str_name_oboz_ros|Camp
 str_name_przygotowania|Preparations
 str_name_oboz_weg|Hungarian Conspirators
-str_name_gaszek|Gaszek
-str_name_zdrada|Zdrada
-str_name_ramiesprawiedliwosci|Ramię Sprawiedliwosci
-str_name_obelga|Obelga
-str_name_dlugi|Dlug
-str_name_list|List
+str_name_gaszek|Suitor
+str_name_zdrada|Betrayal
+str_name_ramiesprawiedliwosci|Hand of Justice
+str_name_obelga|Insult
+str_name_dlugi|Debt
+str_name_list|Letter
 str_name_syn|Bella matribus detestata
 str_name_donos|Donos
 str_name_patrole|Hostile Patrol
-str_name_dostarczbron2|Dostarcz Bron
+str_name_dostarczbron2|Deliver weaponry
 str_name_1000zdrajca|Poena Talionis
 str_name_zlotomaruderow|Gold of marauders
 str_name_dostarczbron|Dostarcz Bron
@@ -3422,20 +3422,20 @@ str_name_emisariusz|Emissary
 str_name_prusy|Sztuka Perswazji
 str_name_egzekucja|Execution
 str_name_kontruderzenie|Kontruderzenie
-str_name_szpieg|Szpieg
+str_name_szpieg|Spy
 str_name_manifesty|Manifesty
 str_name_rozpoznanieogniem|W potrzasku
 str_name_zasadzka|Zasadzka
-str_name_przyczolek|Kijow
-str_name_przewrot|Przewrot
+str_name_przyczolek|Kiev
+str_name_przewrot|Upheaval
 str_name_collect_men|Collect Five Men
-str_name_porwanakobieta|Porwanie
+str_name_porwanakobieta|Snatch
 str_name_mayorend|(null)
-str_name_regiment|Slużba wzywa
+str_name_regiment|Duty calls
 str_name_nadszedlczas|Nadszedl czas
-str_name_uciekinier|Choraży swistacki
+str_name_uciekinier|Ensign Świstacki
 str_name_3zdrajcy|Poplecznicy Targowicy
-str_name_uniwersal|Uniwersal
+str_name_uniwersal|Proclamation
 str_name_kosciuszkoend|(null)
 str_name_learn_where_merchant_brother_is|Learn Where the Hostages are Held.
 str_name_save_relative_of_merchant|Attack the Bandit Lair

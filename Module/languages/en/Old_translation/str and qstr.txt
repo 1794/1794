@@ -1,0 +1,96 @@
+                                                                     
+                                                                     
+                                                                     
+                                             
+qstr_Cali_jestescie?_W_z|Still in one piece? Thank god! We failed to beat the scum, however we have managed to capture one of the scoundrels, he was limping on his leg due to the wounds he sustained, he therefore could not run away with the rest, hehe. He told us everything, and we we expected, he and his fellows were delators heading to Vienna.
+qstr_Cali_jestescie?_W_zd|Still in one piece? Thank god! That was some splendid work right there, one of them still breathes, he suistained only minor injuries, he has told us everything we wanted know. And as we previously expected, they were delators heading to Vienna.
+
+qstr_Fortyfikacja_{s1}_zn|Fortification {s1} has been taken over by the enemy! Lead and take back that strategic point, so we can successfully continue our war effort.
+
+qstr_I_co?_Rozmawialisci|And? Have you spoken with son? Were you successful? 
+qstr_I_co?_Przekonalisci|And? Have you convinced my son? 
+qstr_Kogo_zem_ja_posla?Who did I send, instead of supporting and aiding us, you supported those imbeciles. Ah go to hell!
+qstr_Co?!_Poparliscie_to|What?! You backed those fools?! Prison walls for you and grave for my son. Ah be damned, why did I ever send you there?!
+qstr_He?_Z_kim_to_mam_pr|Huh? With whom do I have the pleasure speaking with?
+qstr_He?_Z_czym_przychod|Huh? Why have you come?
+qstr_Skad_ja_to_wiedzia?I knew it! How many times have I said that I'm going to fight for the freedom of the Commonwealth and I will not change my plans!
+qstr_Nie_nowina_mi_waszmo|Nothing new to me, you sir are just another fellow sent by my father. Aunties have failed, just as did my uncles failed to convince me, I have to go and fight for Homeland.
+qstr_Perswazja_nieudana|Persuasion unsuccessful.
+qstr_Perswazja_nieudana.|Persuasion unsuccessful.
+qstr_Perswazja_czesciow|Persuasion partially successful.
+qstr_Perswazja_udana.|Persuasion successful.
+str_trader_1_1|Eh, for who am I forging these blades anyway,^ and my father told me, make tools for the peasants.^ That's what I should have done.
+str_trader_1_2|Go ahead and buy good sirs,^ superior steel and finest durability, only available in my store!
+str_trader_1_3|Come and see,^ the most finest sabres around!
+str_trader_1_4|Choose and purchase,^ the finest rapiers in the entire Commonwealth!
+str_trader_1_5|Spare not a single penny,^ only here, the most solid rapiers and sabres!
+str_trader_1_6|See and choose,^ the finest broadswords and sabres!
+str_trader_2_1|Buy the finest muskets and ^ pistols, only available in my store!
+str_trader_2_2|Come good sir,^ don't spare a penny on the finest weapons!
+str_trader_2_3|Flints, double barrels and hammers!^ You can purchase them in my shop.
+str_trader_2_4|The most accurate pistols, suited to every hand!^ Choose and buy!
+str_trader_2_5|The most superior pistols, suited for every hand!^ Only available in my store!
+str_trader_3_1|Excellent cloth, delias, robe, I have everything that you need!
+str_trader_3_2|The finest fabrics in the entire province, and even in the Country!
+str_trader_3_3|Cloth, linen, skins, come, see and choose!
+str_trader_4_1|The finest stallions!^The most beautiful mares!^Only in my Stable!
+str_trader_4_2|Are you in the need of purchasing new horse Sir?^ Come, there's plenty to choose from.
+str_trader_4_3|Do you need new and fresh horse sir?
+
+str_4ofensywalist|{s68} {playername}, due to the current situation on the front, it is vial that we launch a counter offensive. Strike and defeat the incoming enemy unit, so It no longer will be a threat to our efforts of the front. ^ Supreme Commander of the National Armed Forces Tadeusz Kosciuszko
+str_4przejmijlist|{s68} {playername}, in order for us to securely conduct any further military operations, we have to take the {s1} fortress, which currently is being held by the enemy. It is a fortress of strategic importance, taking this fortress could prove to be groundbreaking for the fate of further fighting on the front.^ Supreme Commander of the National Armed Forces Tadeusz Kosciuszko
+
+str_prusy|Travel to the city of {s20} and rebel the local population against the governor. In doing so you gain the chance of causing riots near {s20}, in chosen time. You have 5 days to complete this mission. 
+str_dezercja|Bring Justice and punish a unit of deserters, You have 5 days to complete this mission.
+str_ramiesprawiedliwosci|Bring justice and punish slanderer. He should be somewhere nearby!
+str_syn|Convince a son of one of the prominent burgers, to join our forces.
+str_spisek|In the camp of the revolutionaries someone is plotting to take over the command. quell the rebellion in its core before it has the chance to spread and lead to an all out rebellion against the current commander.^Hint: Mission to be completed within current location.
+str_rozpoznanieogniem|Save an emissary working in {s20}. You have 7 days to complete this mission.
+str_kontruderzenie|Attack and destroy an enemy unit, commanded by an officer from opposing faction, take one prisoner.
+str_insurekcja|Wait for the Revolution to start in the lands of the Commonwealth and then aid Kosciuszko forces in the fight against the Targowica Confederation.Travel_to_commander_of_uprising_-_Tadeusz_Kosciuszko.
+str_szpieg|Capture and eliminate enemy spy, which will try to hand over to the enemy vital information, which can result in the collapse of the revolution. To catch him, start your search near the camp and wait until he appears.
+
+str_awans_text|Dear {s68} {playername}, with pleasure I inform, with your latest ^merits, you have proved, that you deserve a promotion. ^To take under command new regiment, ^Report promptly to the recruiter.^                            J.J. Niemcewicz
+str_awans_text2|Report to the recruiter, to take under command new regiment.
+
+qstr_Jeszcze_tu_jestes?_|You are still here? You will not get anything, good bye. 
+qstr_Ile_razy_mozna_powt|How many times do I have to repeat myself that you will not get anything? Farewell.
+qstr_Znaj_moje_dobre_serc|Know my good will, and disappear before I loose my patience. 
+qstr_Eh_spartoliles_spr|Eh, you screw up that matter {playername}, better go now...
+qstr_Zejdz_mi_z_oczu_bo_|Get out of my sight, before I loose my patience.
+qstr_Nie_wlaz_mi_w_drog|Do cross my path every again, if wish to remain in one piece. 
+qstr_Jeszcze_tu_jestes?!|You're Still Here?!
+
+
+qstr_Znakomicie_oto_dowó|Splendid, here is a sign of my gratitude, I hope to see you again gentlemen.
+qstr_Swietnie_macie_tu_w|Very well, here is a sign of my gratitude, farewell.
+qstr_Dziekuje_a_oto_skr|I thank you, here is some money as a sign of my gratitude.
+qstr_Od_razu_widac_bylo|From the start I knew you are not up to the task. Good bye.
+qstr_Tchórz_oblecial_co|You are not so cocky now, are you? And you seemed so eager, hehe.
+qstr_Nie_dziwota_wez_cho|Not surprising, at least take this money for your effort.
+qstr_Bywa_i_tak_kto_ma_te|Sometimes it is this way, those who have keep hold of it, those who don't will not endure, Good bye.
+qstr_Masz_czegos_chcial|Here's what you wanted, good bye.
+qstr_Glupi_kto_w_cudze_s|Stupid, that's what happens to those who poke their head into someone else matters, but I must say you surely know how to handle the saber.
+qstr_Starczy_mi_na_dzis_|I've had enough of fighting over women today, farewell.
+qstr_Nie_zawracaj_mi_glo|Don't bother me, I'm busy right now.
+qstr_Idz_gdzie_indziej_k|Go somewhere else break you lance over someone else words.
+qstr_Nie_mam_ci_nic_do_po|I have nothing to say to you, let us not see each other ever again. 
+qstr_Zejdz_mi_z_drogi_tc|Get out of my way you coward.
+qstr_Nie_mam_nic_dla_cieb|I have nothing to say to you, expect a kick to the back side.
+qstr_Gardze_takimi_jak_w|I despise people like you.
+
+qstr_Ciezkie_to_czasy_n|Difficult times are upon us
+qstr_Trudne_to_czasy_nast|Hard times have come
+qstr_Nielatwy_to_czas_na|Uneasy times have reached us
+qstr_a_córke_moja_za_m|I plan to get my daughter married, but I don't even have enough for a sculpture.
+qstr_na_zywnosc_trzeba|we need money for food, but pockets are empty.
+qstr_dla_zony_potrzebuje|I need it for my wife, for cloth which she is going to turn into clothes for our children, but we don't have enough.
+qstr_a_mam_dlug_u_tutejs|I am in debt to one loan shark and i have to pay him back, else they'll take my home.
+qstr_pracuje_a_rodziny_wy|I'm working but can't feed my family, and they often go hungry to bed.
+qstr_narzedzie_mi_sie_w|the tools in my workshop have broken, and I simply can't work without them, that's why I can't feed my family.
+qstr_Bóg_Wam_zaplac_do|God bless you sir!
+qstr_Szczerze_dziekuje_d|I sincerely thank you sir.
+qstr_Niech_Bóg_Wam_w_dzi|May god bless you with many children, thank you sir.
+qstr_Istotnie_wyjatkowy_|Indeed exceptional, for a while we didn't see such good times as now, and harvest from our field is indeed exceptional.
+qstr_Dziekuje_jest_pan_|Thank you sir, you are indeed polite.
+qstr_Nie_trzeba_ale_dzie|Its not needed, but thank you for the proposition.

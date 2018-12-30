@@ -1,0 +1,95 @@
+                                           
+Dialog dla warcho?a- bro? bia?a: {s20}, jestem {playername}.
+Greetings ; Hail
+Powitanie w zale?no?ci od pozycji w rankingu:
+Poni?ej 50 pozycji : {s20}
+{playername}? Not Familiar with it... maybe a brother of my neighbour? Or maybe a nephew of my neighbour, eh you don't even look familiar.
+{playername}? Never heard of you... Are you a cousin of my neighbour by any chance? Eh you don't even look like him, or maybe a Father of my brother? Eh, too young. But you look a like a brother of my brother.
+{playername}? I wasn't fortunate enough to hear of you... or maybe you are the one that have infected half of our best courtesans with syphilis?
+Greetings, I do not recognise you ... But you look just like my nephew! Call me Uncle!
+Hail, I cannot remember you my lord... maybe, that you have drunk a barrel full in three quarters of an hour? No? Ah may the heavens curse that drunk!
+50-30 pozycja : {s20}.
+Hmm...{playername}? Yes I have heard something of you... Have we raided Cieni?skich villa together by any chance? 
+Hmm...{playername}? Yes I have heard of you before... Maybe in anno domini 1773, at the Wroclaw fair.
+Hmm...{playername}?I cannot remember...  Ha, I know, You have drunk with me for three days outside Lwow, ha those were the days..
+Hmm...{playername}? Yes I have heard of you before... maybe in anno domini 1783, at the fair in Wróblach, outside Opoczno.
+(playername}? I do not recall your name. We're you maybe at the Indulgence in Toczewo? Under the reign of the Sas King... 
+Hmm...{playername}? Yes indeed you have proven your worth... But I cannot recall what you have done to do us... give me a moment I will surely remind myself.
+Greetings, I cannot recall you're name... but from face you look just like my nephew. Call me Uncle!
+30-20 pozycja : 
+Hail ...I have heard of your lordship indeed, but that;s it, because we have not drunk together... 
+Hail, Yes I have heard of you, but we didn't had the chance to drink, did we? Maybe, that one time at Jan's weeding, my uncle... 
+Greetings, I have not heard of your lordship... But from eyes I can see the saber is a part of you arm.
+Good day, I cannot recall your name sir... maybe it was you that have eaten an entire pig in tavern... in under half an hour? God damn you!
+20-10 pozycja: {s20}
+Hail, I have heard about you many times my lord, I shall see how you really handle the sabre in...
+Greetings, It is rare for me to have such guests.. I am even more glad, that you were the one that beaten up my neighbour!
+Hail, I'm am glad to see you in good health... I am even more glad, that you were the one that beaten up my neighbour!
+{playername}? I am glad to finally make your acquaintance... Ha, noble indeed you are, you have left my foe that bastard unable to stand up from his own bed!
+10-2 pozycja: {s20}
+Greetings, I have heard of you many times your grace...
+Greetings I am glad to finally  make your acquaintance, I have heard many things about you...
+1 pozycja:
+{playername}? I bow down before the mightiest fencer in the entire Commonwealth...
+{playername}? Hats off, by I have the finest saber in the Commonwealth standing before me...
+
+Warcho? proponuje pojedynek:  ___1___
+So, we shall see whom is the better fencer.
+I wish to try myself with your grace to see whom wields the tools of war better...
+
+Gracz: Why not, with pleasure.
+             Not not, I have to be on my way now.
+
+
+
+Po pojedynku:
+Poddany:  Ha, I thought that against honorable nobleman I had the chance to fight, but now I see you are not worthy to fight with me.
+Wygrany:
+Today you have proved better than me, I bow down before you, here is what you deserved amount of {reg2} talars. ; You were better, here is the price that we have agreed upon. ; Today Victory is on your side, here is your price.
+Przegrany:
+I will have enough to pay for my booze for the entire week, dueling with you {playername} is a true pleasure.
+
+                                             
+Dialog dla warcho?a- bro? palna
+Zaczyna gracz:  {s20}, I am {playername}.
+Greetings ; Welcome
+Poni?ej 50 pozycji : {s20}
+Pardon? I do not think I have had the chance to meet you sir…
+I have not heard of you sir… son of some merchant I presume?
+I have spent a long time in Italy lately, unfortunately while in my cousins vineyard I wasn't fortunate enough to hear of you.
+{playername}? Unfortunately that name doesn't say anything to me, after spending the entire year in Scotland.
+50-30 pozycja : {s20}
+To hear... I have had the chance, but I cannot remember where exactly I have heard of you…
+{playername}?Hmm… Have you ever visited Paris by any chance? I have met a certain lady with similar surname there…
+Forgive me, but I wasn't fortunate enough to hear of you… But, I have known a captain of an English ship, the one that the rebels sunk in Boston, in 1775 I believe it was… that captain had an officer with a similar surname… It might be sheer coincidence, because you don't even look like him.
+I have lived in France for the past few years, during my stay in my cousins vineyard, I wasn't fortunate enough to hear of you.
+{playername}?In Krakow, on the Saint Florian day the city guards were searching for a fugitive who had the very exact name…
+{playername}? For the last three years I have spent traveling through the America, forgive me but I did not have the chance to hear of you.
+30-20 pozycja : 
+{playername}?Ah yes, someone was speaking of you in the tavern… you're a sharpshooter, yes?
+You're either a gun smith or a sharpshooter… I cannot remember, But i have heard of you.
+{playername}?In Lublin they say, that you're a bastard and a scoundrel… I cannot remember the name, but if it wasn't you, then either about one of your relatives or other noble of with similar surname.
+{playername}? There was a certain villain of the very same surname… I suppose your grandfather? Maybe father?
+20-10 pozycja: {s20}
+{playername}?I have heard of you indeed, its a pleasure to me such a fine sharpshooter.
+{playername}? Supposedly, you are a fierce duelist… its a pleasure to meet you.
+{playername}? I have heard of you many things, I am glad to finally make your acquaintance.
+10-2 pozycja: {s20}
+Hmm, you were the one that shot my cousin, yes? You have greatly pleased me with that, you see he was seducing my lovers and wife's of other men, how did he dare!
+I have heard of you sir, fine duelist with a steady hand…  let us hope that hand will never shiver when needed the most.
+Many great things I have heard of you, you're a fine shot they say.
+The say among the common folk about your deeds… I congratulate you sir.
+
+1 pozycja:
+The finest shooter in all of Commonwealth, I wish to congratulate you the renown and fame… but we wary these things come to pass… 
+Ah, they say that the trigger is part of you arm and that supposedly there isn't a better shooter in all of Commonwealth… supposedly.
+{playername}? Its a great honor to finally meet the finest shooter in the entire Commonwealth!
+Po tym jak warcho? wypowie powitanie, proponuje pojedynek:  ___1___?
+So, should we see who has better eyes?
+I wish to challenge you sir to a pistol duel, should we see whom will prove better?
+Gracz: With pleasure. -> prezentacja
+              Not now, I have to be on my way now.
+Po pojedynku:
+Przegrany: Let us hope, none of the Saints in the heavens was hurt by sirs bullet... Maybe next time you will have more luck. 
+Wygrana:  I congratulate, a fine shooter you are sir, here is you prize.
+Poddany: Its not honorable to throw down your weapon during a fight,farewell.

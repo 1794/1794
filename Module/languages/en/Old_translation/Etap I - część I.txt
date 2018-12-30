@@ -1,0 +1,57 @@
+Pax, pax! We shall come to an agreement, wont we? This is, after all just a neighborly dispute, nothing more…
+With blood I shall wash away your offense, which you have done upon me!  ->walka 
+Maybe, maybe not, speak now. -> I am not used to making business with scoundrels, but I shall make this occasion an exception.
+
+From start I knew, you are wise enough… I will pay, how much do you want? I have 500 zloties with myself, what do you say? I shall then walk away and be on my way, and you will walk away with 500 zloties in you pocket, do we have a deal?
+I don't deal with scoundrels. -> walka
+<+2 honor>
+I Believe we shall reach an agreement.-> Very well, being offended is one, and walking with empty pockets is another. Give me what you have. 
+<+500 zlociszy> ->
+And now give me the keys, but be quick about it... neighborly dispute, and by a prison carriage you have arrived, am I right? Anyway, we shall find soon enough whom you wished to kidnap.
+
+======================================
+
+And whom do we have here? Will you be a companion of these scoundrels?
+I am {playername}. Don't trouble yourself with those who lay face down in the dirt, inside the courtyard, and you sir, are free.
+Jablonowski: Thank God! I thank you sir, for freeing me from oppression, we begun to think that they will send us somewhere... I am Stanislaw Jablonowski, son of Antoni, castellan of Krakow. 
+Niemcewicz: Julian Ursyn Niemcewicz and from today onwards I am in your debt. Those bastards, knew exactly whom they were kidnapping, from their discussion I overheard them talking about their employers, they were employed by Targowica confederates. Not surprising, after all who else would dare to attack a Member of Parliament! 
+Potocki: I suppose, none of them are are still alive? I wished to ask them a few questions, maybe they could tell us something of value…
+
+
+Jezeli gracz zabil: As I said, the corpses are in the courtyard. ->A3
+Jezeli gracz nie zabil herszta: 
+The leader of the bandits is still breathing. Do what you wish with him. <-5 honor>->A1
+I have promised to let him free. A promise made, even to the enemy still has to be upheld.->A2
+
+A1: Splendid, as soon as we reach Krakow he will be interrogated, we will squeeze every detail from him. Now let us not waste precious time, let us travel to Krakow, before any patrol stumbles upon this tavern. You will travel with us {playername}, if those dogs were just simple outlaws, no one would care, but since they were employed by Targowica, you would be sent to prison for at least 10 years. In our company you will be safe… and certainly you will do our homeland a great service.
+A2: Very well, a word is a word, even if given to a traitor. As a noble I understand, especially that I owe my life to you. Now we wont waste any more time, we should travel to Krakow, before any patrol stumbles upon this tavern. You will travel with us {playername}, if those dogs were just simple outlaws, no one would care, but since they were employed by Targowica, you would be sent to prison for at least 10 years. In our company you will be safe… and certainly you will do our homeland a great service.
+A3: Ah well, at least we are still alive, I thank you sir. Now let us not waste precious time, let us travel to Krakow, before any patrol stumbles upon this tavern. You will travel with us {playername}, if those dogs were just simple outlaws, no one would care, but since they were employed by Targowica, you would be sent to prison for at least 10 years. In our company you will be safe… and certainly you will do our homeland a great service.
+Opcje:
+Certainly, let us be on our way. -> Podróz do Krakowa
+May I know the aim of your travels? -> B1
+
+B1: As I have mentioned, we were traveling to Vienna, to the court of Emperor Francis.  But, now is not a convenient time to speak about details.
+
+
+Dialog tuz po dotarciu do Krakowa:
+We have arrived {playername}, It must have been a while since you last visited Krakow? ->
+As I expected, take a walk through the streets, take care of any business you have to be taken care off, afterwards I would like to invite you to an apartment on the corner by the market, I will be awaiting your arrival.
+
+=============================
+
+Greetings, I am glad to see you in my humble home. I wish to thank you once again for saving me.
+Nolens volens, you have been dragged into a conflict, in which you can do a great service for our homeland. When we met in the tavern, I was returning from a deputy mission on behalf patriotic party. That is, people who are fighting to free the Commonwealth from the treacherous Targowica rule and agents appointed by foreign powers. The fall has been lasting for a long time now, we tried to free our lands from the hands of Tsarist Russia and as you might know, It ended in our defeat. This time, smarter and more experienced we plan an uprising in all parts of the Commonwealth. 
+Ask, I owe you an explanation and you should know about everything…
+Tell me more about the plans of conspirators. ->A1
+Tell me more about the reasons for current situation. ->A2
+Tell me about your mission and visit to Vienna. ->A3
+I already know everything. ->A4
+
+A1: I shall explain, since I took part in the creation of the plan. 
+As you might have expected it, we are planning on starting a widespread Uprising, throughout the Commonwealth. While I cannot reveal all the details, especially not at this moment, I will tell what you should know. To guarantee a victory for the upcoming revolution we are expected to aid the cause by any and all means necessary, our efforts would be in vain if it wasn't for few enlightened people in the Russian Empire and Hungary, which with our aid shall start the flames of the revolution in their lands. This will weaken the forces of our common enemy and as long as luck will be on our side, we and our allies shall regain Independence.
+The risk, is certainly great. You might think the plan is truly mad, in it lays the hope in regaining freedom of our country and our countrymen.
+A2: Well, {playername}, we are solely responsible for the fall, to many years of reforms, corruption among magnates, greed and vanity, that are the reasons for the fall. Ah and we were always just like salt in the eyes for the neighboring powers I must add. Everything begun with death of King Sobieski, after him, political feuds and disputes took root, instead of reforms. 
+With each year  the influence of Russian Empire grew settled in, this was the time of strife, incompetent rule of Sas dynasty, later the rule of King Stanislaw. In 1768 the matters reach the point, where the nobility created a confederacy against the King. As you might have guessed, four years of civil war have greatly weakened the country.
+Then in 1772, I remember as if it was yesterday, I was young back then… in the stated year of 1772, Tsaritsa with Kings of Prussia and Austria have signed the first pact of partitions, with acquiescence of the parliament. I later traveled abroad to study in Padua, thus I have not seen exactly what has happened, but when I returned, the situation was far worse than before I left for Padua. The Last attempt to change things around was the attempt to introduce the Constitution, but the early success of Targowica Confederacy ended and with it War with Russia.
+ I Fought alongside Kosciuszko at Dubienka, that was a battle! We fought off them pretty well! But our efforts were in vain. The King joined the Targowica, and parliament under the pressure of the army carried out the partition.
+And today, this is our last chance… but why am I telling you this, I am certain, you sir are fully aware of this. -> powrót do opcji

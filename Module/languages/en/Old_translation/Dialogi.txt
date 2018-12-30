@@ -1,0 +1,55 @@
+dlga_start:przquest|The first Cossack unit has reported in nearby the camp, under the command of Ataman Holowaty. Soon they shall carry an assault on Kiev. Gather your men and travel with them. Do not forget to report in the success of Siege.
+dlga_start:prnwds.1|{s20}, {s68} {playername}, {s21}?
+dlga_prnwds:przquest|Are there any orders?
+dlga_prnwds:ocena_postepu|How do you rate the current progress of fighting?
+dlga_prnwds:close_window|Nothing, Farewell.
+dlga_ocena_postepu:prnwds|I can only say that our current position is currently very difficult, we are close to being defeated.
+dlga_ocena_postepu:prnwds.1|Our situation is difficult, only a miracle could save us from defeat. We lack trained and experienced soldiers.
+dlga_ocena_postepu:prnwds.2|To be straight and honest, they are not satisfactory, there's still a long way ahead of us.
+dlga_ocena_postepu:prnwds.3|We are on good path, let us hope we can keep it up when we go into the offensive.
+dlga_ocena_postepu:prnwds.4|Much better with each passing day, we are on the offensive and the enemy is retreating.
+dlga_ocena_postepu:prnwds.5|I think, that soon the Tzars diplomats will knock on our doors, as you can expect we shall show them no mercy.
+dlga_ocena_postepu:prnwds.6|Check, and as an old soldier, I can say that soon also Mate will come to be.
+dlga_ocena_postepu:prnwds.7|We are close to being victorious, the enemy forces are in disarray.
+dlga_start:zadanie5urzednik|What do you want, bloody fool?! You have dressed up like a monkey in a circus, and you believe you do anything you wish!
+dlga_zadanie5urzednik:zadanie5urzednik1|I am {playername}, in the service of Chieftain.... I came to take your life away.
+dlga_zadanie5urzednik1:close_window|Guards! Betrayal! To me, whomever is still alive!
+dlga_przquest:close_window|{playername}, the scouts have reported to me, that nearby the village of {s0} there's a small enemy patrol. Find and slaughter them to the last man, so they can't report back the location of our camp to Tsarist forces.
+dlga_przquest:close_window.1|The first task at hand is to arm the peasants, you shall find the insurgents and hand over the weapons to them. When there will be more of us, we shall think about actions on a larger scale...
+dlga_przquest:close_window.2|A Cossack unit has reported In a nearby camp under the command of Atman, they shall soon attack one of the fortifications. We need to capture a foothold prior to further attacks. Gather as much men as you possibly can and travel with the them. Do not forget to report in after successful siege.
+dlga_qprzyczolek_2:qprzyczolek_3|That's very good, listen we have to capture the {s0} castle, this will enable us to concentrate larger forces and will give us control over significant portion of Podole region. 
+dlga_qprzyczolek_3:close_window|Keep close, and together we shall take the fortress from the enemy hands with the effort of our combined forces.
+dlga_przquest:qmanifesty01|A delicate mission which requires great deal of caution, I have written down a manifesto which has to be handed to the peasants. Their aid might prove vital and give us an advantage over the enemy.
+dlga_qmanifesty01:close_window|Beware, this place is still crawling with enemy patrols and emissaries are forcing the peasants to give out the revolutionaries...
+dlga_przquest:qprzewrot_give|{playername}, certain good man a while ago reported to me that there's an individual among our ranks that is trying to seize power and eventually replace me. Take care of this, ask around and if possible remove him from our ranks. Task certainly not worthy to be taken care of by an officer, but it has to be done, as our cause is in danger.
+dlga_qprzewrot_give:close_window|Ask around, find who it is and if possible take care of him, such is the faith that awaits all traitors.
+dlga_qprzewrot_1:qprzewrot_2|There's a rumor around the camp, that someone is trying to seize power, do you know anything about it?
+dlga_qprzewrot_2:qprzewrot_wybor|Ahh, maybe, maybe not. Everything is happening so fast, unlike in my village... a man cannot keep up with it, one is bribing, another one is drinking vodka with you, other ones are beating the drums to alarm... Who will ever remember each word that passes through this place?
+dlga_qprzewrot_wybor:qprzewrot_3|I shall pay for Information.
+dlga_qprzewrot_wybor:qprzewrot_4|Speak, before you yourself shall meet end on the noose.
+dlga_qprzewrot_4:qprzewrot_3_2|If you put it this way, I cannot refuse.
+dlga_qprzewrot_4:start|So this is how this new order is supposed to look like? It is just same as under the rule of Tzar and even worse, to hell with it.
+dlga_qprzewrot_3:qprzewrot_3_2|If you put it this way, I cannot refuse.
+dlga_qprzewrot_3_2:close_window|That officer, he claimed to be one of them, he was supposedly during the the Pugachev uprising one of the commanders, you shall not find him in the camp, but not far from here there's a small camp, you shall find him there.
+dlga_start:qprzewrot_5555|What do you want?
+dlga_qprzewrot_5555:qprzewrot_5|Halt! They say you're the traitor, which is trying to rebel against the commander...
+dlga_qprzewrot_5:qprzewrot_5_2|Good one, I am not rebelling anyone, they themselves don't want the Radiszczew to be the commander and turned to me for help... I am fulfilling their will.
+dlga_qprzewrot_5_2:qprzewrot_6|I think, that's enough. 
+dlga_qprzewrot_6:qprzewrot_end|I think, that's enough. From the order of commander in chief of Revolution Aleksander Radiszczew, I demand your surrender and that you appear before the court.
+dlga_qprzewrot_5_2:qprzewrot_7|You can leave. 
+dlga_qprzewrot_7:qprzewrot_end|Enough. You can go wherever you wish to. But do not return here ever again. 
+dlga_qprzewrot_end:close_window|Ha, good one. I shall not surrender that easily, I am entitled to command just as that usurper is! 
+dlga_przquest:qem1|You see {playername}, we have sent emissaries all over the country, to spread the ideals of revolution among simple folk. Though, recently I have found out, that one of our people working in {s20} and in nearby area, is under the enemy surveillance, which means that he can be captured at any time, especially when someone will try to contact him.
+dlga_qem1:qem2|We cannot allow this to happen, travel to {s20} and aid him in his escape. He lives in the suburbs, hmm... In a house of bodily pleasures, you see sir.... rules of conspiracy. You shall find it without any difficulties.
+dlga_qem2:close_window|Its certain that nearby area is watched by snitches, that's why you should work at night, in silence and if possible as confidentially as you can.
+dlga_przquest:close_window.3|I have another task for you, which requires a great deal of skill and cunning. {s20}, by the surname of {s21}, tsarist paper-pusher has turned out to be the worst kind of traitor. That wretch has pulled many into the conspiracy, and now he is planning on selling them out to the enemy, along with the plans of the Uprising. Infiltrate {s22} and get him, before he turns his plans into reality, else our doom is certain!
+dlga_przquest:close_window.4|With shame I have to say, that not all of our volunteers show such dedication to our patriotic cause, as you do {playername}. Not long ago, quite large group of marauders have left our marching column. Scoundrels for days now, have been raping and robbing, terrorizing local villages. Ultimately they have ambushed a commissar which was delivering pay to one of our Regiments. Find them, execute them and try to take the money back.
+dlga_event_triggered:zadanie6maruder|Mercy! Mercy! If you spare me, I shall tell you where we buried the money!
+dlga_zadanie6maruder:close_window|You can take it to hell with you. Execute him!
+dlga_zadanie6maruder:zadanie6maruder1|Show us the location, but be quick, so I don't change my mind.
+dlga_zadanie6maruder1:zadanie6maruder2|Here you have it, our entire loot, can we leave now?
+dlga_zadanie6maruder2:close_window|Indeed, it is all that you have stolen and robbed, but justice has to be served. Execute them! <-3 honor>
+dlga_zadanie6maruder2:close_window.1|You are free. <+2 honor>
+dlga_przquest:close_window.5|There's a word around the camp, that enemy has managed to infiltrate our ranks, the spy is preparing to escape and to inform of our location. Ambush him near the camp, capture and deliver justice to him... remember, only death is the rightful punishment for his crimes.
+dlga_przquest:close_window.6|A Caravan transporting {s20} has bogged down in a nearby gully, I have already sent people there, but I am afraid that will not suffice, find and aid them in fight. It is crucial to stop this convoy, before reinforcements arrive.
+dlga_event_triggered:close_window.7|Greetings {s68}, everything has been prepared, they shall be here in few hours, and now we shall wait until they fall into our trap..

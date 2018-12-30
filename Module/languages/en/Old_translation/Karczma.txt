@@ -1,0 +1,58 @@
+Standardowy dialog dla karczmarza
+
+Teksty nad glowa wyswietlajace sie zawsze gdy gracz jest w odpowiedniej odleglosci:
+I welcome you my lord in our humble settlement. ; Good day, its a pleasure to have you here sir. ; Welcome, I sincerely hope you shall stay in my house as a guest.
+Dialog:
+1: Can I be of service? ; Can I help you with anything? ; What do you wish my lord?
+___1___
+#Can I help you with anything?
+Today everyone drinks at my cost. -> B2
+I wish to stay here for a while.->A1
+I do not require anything, farewell.
+
+1: Of course, of course, for a day, one grosz, not more, not less… 5 zloties for a night stay, I wish you a good stay. ;  In the room you shall find all necessary comforts, 5 zloties a night, you surely have enough to stay with us, you will not find a cheaper place to stay, I assure you.
+
+A1- ___1___
+
+
+B2: Splendid! It will cost 500 zloties but that's surely nothing for my lord,  isn't that right?
+
+Indeed, share it with everyone. [Koniec]  -> [+1 renoma, -1000]<raz na 3 dni>
+I changed my mind. -> glówny dialog
+
+Wedrowny dziad
+
+1: Greetings good sir ; I bow before the ; 
+2: bard; lirnik ; pilgrim
+___1___, I am a wandering  ___2____… as some might say… I travel from here, to there, from one village to another village, living of the the help of good people, for a warm meal I sell latest gossip and mysteries, when it comes to the latter I wonder how your grace would handle…
+Ahh, let me try, I wont hurt me to try. -> losowa zagadka
+Eh, waste of time, leave me be. -> odp
+
+Odp:
+1: Certain ; One 
+2: castellan ; brick layer ; governor ; organist ; gravedigger
+Odp. ___1___ ___2___,  lived,  ate and drunk, died and rot. And you live, you eat and drink, you will die and eventualy rot. And that should be enough for you!
+
+Losowa zagadka:
+I doesn't have legs, but it still walks, it does not posses arms, but it still beats.
+- Well.
+-Clock.
+- Bell.
+
+Fence three years, cat three fences,^ peasant three horses, horse three cats. Best age is…
+
+- Cat 9 years, horse 27 years, peasant 81 years. 
+- Cat 10 years, cat 30 years, peasant 90 years.
+- Cat 9 lat, horse 27 lat, peasant 71 years.
+
+[Wiecej podesle za jakis czas, musze uzupelnic//VainV]
+
+Pozytywna odpowiedz:
+Ha, very good! Here's you rightful prize. ; Well Ill be damned, you've won! 
+{s20} <+20 zlociszy>->A2
+
+Negatywna  odpowiedz:   
+Sorry wrong answer unfortfunely. ; Unforunely wrong answer.
+{s20} <-20 zlociszy>
+
+A2 : Heads up, maybe next time you will be more successful my lord. [Koniec]

@@ -803,7 +803,7 @@ dlga_mieszczanstwosay:mieszczanstwoend|None, I must take my leave now, farewell.
 dlga_mieszczanstwoend:close_window|{s20}.
 dlga_mieszczanstwomquest:mq2|I have quite a problem sir, my friends told me, that my wife is getting herself a lover. I need someone to persuade him against it, you know what I mean? I pay well.
 dlga_mieszczanstwomquest:mq3|I am in no shortage of worries sir, my wife is cuckolding me with some rogue. I've learned, that he has a wife as well, a real harpy and quick to anger. You will deliver her this letter.and she will give him a rough time. He will learn not to reach for what is not his own. I won't have any trouble to find some coin in thanks.
-dlga_mieszczanstwomquest:mq4|Yes, there is something you can to, here's a letter, s complain {s20}. Deliver it to the mayor and return, and you'll get something for the errand.
+dlga_mieszczanstwomquest:mq4|Yes, there is something you can to, here's a letter. Deliver it to the mayor and return, and you'll get something for the errand.
 dlga_mieszczanstwomquest:mq5|I have a mission of utmost importance, as I'm certain, that {s20}, deliver this note to the watch, and I will reward you well.
 dlga_mieszczanstwomquest:szlachta5m_quest|You see, my dear {playername}... There happens to be a certain churl in this town, and he happened to turn ruining my reputation into his goal. I'm not gonna allow anyone to mess with me, a nobleman with a pedigree of several generations!
 dlga_mieszczanstwomquest:szlachta6m_quest|{s20}, 
@@ -854,7 +854,7 @@ dlga_mszw:rumorsystem|Any news going round the town?
 dlga_mszw:get_city_quest|Wouldn't you happen to need some help?
 dlga_mszw:mszendsay|Nothing, farewell
 dlga_mszendsay:close_window|Nothing, I must take my leave now, farewell.
-dlga_start:mszwi|Czołem panie bracie, z czym do mnie przychodzicie?
+dlga_start:mszwi|Hullo! What do you need?
 dlga_mszwi:qdlugi_odbierz|[Retrieve the debt], 
 dlga_mszwi:prowokuj|[Provoke], 
 dlga_mszwi:rumorsystem|Any news going round the town?
@@ -938,7 +938,7 @@ dlga_tukajwerbownikiem:close_window|Yes, show me, who do you have there.
 dlga_tukajwerbownikiem:close_window.1|Nothing, it's time for me to go, farewell.
 dlga_tukajwerbownikiem:pijemyztukajem|Gladly, show me what you've got.
 dlga_pijemyztukajem:close_window|{s20}, 
-dlga_start:prnwds|Mam dobre wieści {playername} zakończyliśmy negocjacje z kozakami, już wkrótce otrzymamy od nich wsparcie.
+dlga_start:prnwds|I have good news {playername}, negotiations with cossacks are done, soon they will support us.
 dlga_start:przquest|W pobliżu obozu stawił się pierwszy oddział kozacki pod wodzą Atamana Hołowatego. Wkrótce przeprowadzi atak na Kijów. Zbierz ilu możesz ludzi i rusz razem z nimi. Nie zapomnij, żeby zameldować mi o sukcesie oblężenia.
 dlga_start:prnwds.1|{s20}, {s68} {playername}, {s21}?
 dlga_prnwds:przquest|Any orders?
@@ -954,7 +954,7 @@ dlga_ocena_postepu:prnwds.6|Check, and as an old soldier, I can tell, soon to be
 dlga_ocena_postepu:prnwds.7|We're nearing victory, enemy's forces are in a rout.
 dlga_start:zadanie5urzednik|Czego chcesz ode mnie, pajacu palowany? Wystroił się taki jak małpa w cyrku i myśli, że mu wszystko wolno!
 dlga_zadanie5urzednik:zadanie5urzednik1|Jestem {playername}, w służbie Naczelnika .... Przychodzę odebrać Ci życie.
-dlga_zadanie5urzednik1:close_window|Straż! Zdrada! Do mnie, kto żyw!
+dlga_zadanie5urzednik1:close_window|Guards! Treason! Help!
 dlga_przquest:close_window|{playername}, scouts reported, that close to a village nearby a small troop of the enemy is patrolling. Find them and kill them all.aby naszego obozu nie wypatrzyli i carskiej ekspedycji nie sprowadzili.
 dlga_przquest:close_window.1|First thing we need to do is arm the peasants, you will go find the insurgents and give them the weaponry. Once there's more of us, it'll be easier to think of larger scale operations...
 dlga_przquest:close_window.2|W pobliżu obozu stawił się pierwszy oddział kozacki pod wodzą Atamana, wkrótce zaatakują jedną z fortyfikacji. Musimy zdobyć jakiś przyczółek przed dalszymi walkami. Zbierz ilu możesz ludzi i rusz razem z nimi. Nie zapomnij, żeby zameldować mi o sukcesie oblężenia.
@@ -992,7 +992,7 @@ dlga_zadanie6maruder1:zadanie6maruder2|Here's all of our loot, can we go?
 dlga_zadanie6maruder2:close_window|Loot, that's one thing, justice is another. Fire!
 dlga_zadanie6maruder2:close_window.1|You're free to go.
 dlga_przquest:close_window.5|There are rumors, that there is a spy sent by the enemy in the camp and he's preparing to escape and inform the enemy of our position. Hide near the camp, catch the traitor and exact justice... remember, only death is the proper punishment for betrayal.
-dlga_przquest:close_window.6|A convoy bearing {s20} got stuck in a neaby gorge, I've sent some men already, but I'm afraid it won't be enough, find them and help them. It is crucial, to keep the convoy, until reinforcements arrive.
+dlga_przquest:close_window.6|A convoy bearing {s20} got stuck in a nearby gorge, I've sent some men already, but I'm afraid it won't be enough, find them and help them. It is crucial, to keep the convoy, until reinforcements arrive.
 dlga_event_triggered:close_window.6|Hail {playername}, everything's been prepared, they should be here in a couple of hours, we just have to wait until they fall for our trap.
 dlga_start:pdoppo|{s10}, 
 dlga_pdoppo:rpdpn|I've granted you freedom only for now, anytime later they might remember you and haul you from court to court... a conflict with Branicki's clientele is no laughing matter, trust me. So you cannot stay here, and coming back to your fiefs would only endanger you and your families.
@@ -1128,7 +1128,7 @@ dlga_zadanie1chlop2gracz3:zadanie1chlop2gracz3say2|I'll take care, take a coin i
 dlga_zadanie1chlop1podziekowanie:close_window|Ah, charitable sir, God bless you!
 dlga_start:close_window.37|Leave.
 dlga_start:zadanie1gracza|Who are you and where do you come from? Aren't you a companion of these scoundrels?
-dlga_zadanie1gracza:zadanie1graczaa|I'm {playername}, a nobleman from the Crown. I'm returning to the Commonwealth from Hungary after a long absence. I was planning to stay a while in the tavern, then I heard the screams.jako człek honoru nie mogłem nie sprawdzić, kto i w jakiej sprawie ratunku wzywa.
+dlga_zadanie1gracza:zadanie1graczaa|I'm {playername}, a nobleman from the Crown. I'm returning to the Commonwealth from Hungary after a long absence. I was planning to stay a while in the tavern, then I heard the screams.
 dlga_zadanie1graczaa:zadanie1ojciecodpowiedz1|May you no longer worry about these people, they lay defeated. And you are free.
 dlga_zadanie1ojciecodpowiedz1:zadanie1dama1|Thank God! Thank you, sir, for saving us from our trouble, we've been already thinking we're going to get moved to God knows where... I'm Stanislaw Jablonowski, the son of Antoni, the Castellan of Krakow.
 dlga_zadanie2ojciecodpowiedz1:zadanie1sakiewka1|As I presume, none of them were left alive? I'd be glad to ask them a couple questions otherwise, maybe they know a bit more...
@@ -3860,7 +3860,7 @@ dlga_arena_master_melee_talk:close_window|Good. That's what I am going to do.
 dlga_arena_master_melee_talk:arena_master_melee_reject|Thanks. But I will give my bruises some time to heal.
 dlga_arena_master_melee_reject:arena_master_pre_talk|Good {man/girl}. That's clever of you.
 dlga_arena_master_melee_talk:arena_training_melee_explain_reward|Actually, can you tell me about the rewards again?
-dlga_kosciuszko_quest:close_window.3|Nie jesteś jeszcze gotowy, aby przyjąć następne rozkazy.
+dlga_kosciuszko_quest:close_window.3|You are not ready for new orders yet.
 dlga_start:galeas_talk|Hello {boy/girl}. If you have any prisoners, I will be happy to buy them from you.
 dlga_galeas_talk:galeas_sell_prisoners|Then you'd better bring your purse. I have got prisoners to sell.
 dlga_galeas_talk:close_window|Not this time. Good-bye.

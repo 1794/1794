@@ -1,0 +1,53 @@
+
+dlga_start:quest_start_1|What do you want, can't you see, the tavern is closed?
+dlga_quest_start_1:quest_start_11|Who do you think you are, to give orders to me?
+dlga_quest_start_11:close_window|If you refuse to leave by your own good will, we shall teach you some manners... besides you have heard enough already. 
+dlga_event_triggered:close_window.10|The Patrol was successful Sir. {s0} is guarded by {reg0} men. The size of the garrison is as follows:^ {s1}
+
+dlga_event_triggered:zadanie1koniecojciec|We have arrived {playername}, surely it has been a while since you last visited Krakow? 
+dlga_zadanie1koniecojciec:close_window|Just as I thought, take a walk and see the city, take care of any business you have, and later I'd like you to visit me in my Apartment on the corner of the street close to the market, I will be awaiting your arrival.
+
+dlga_prolog_5_1a:prolog_5_1|Our previous attempts to free our lands from the Tzarist rule, have so far only resulted in failures. This time however, we are experienced and plan an Uprising, a mass insurrection covering all the states.
+
+dlga_pdoppo:rpdpn|I have only manged to win your freedom for a short period, at any time they can arrest you again and drag you to a court... Conflict with Branicki clientele is not something to be treated lightly, trust me. That's why you cannot stay here, nor going back home and family would be a good idea. 
+dlga_rpdpn:qllw|Therefore today, in secrecy you shall leave the city and travel east, to Podole and further. There you will find the Insurgents camp and you will meet the commander of the Revolution against the rule of current Tsarina and the Empire. Surely, with our recommendation he will take you under his command without any hesitation.
+dlga_qllw:qlww|You will travel, as an emissary and at the same time as a commander of volunteer company... which, with that last one you might have some problems, since we are running low on volunteers. Try to find them in nearby taverns and surrounding areas, gather twenty men and then be on your way.
+dlga_qlww:zadanie_3_niemcewicz_kont|This area is crawling with outlaw mobs, ambushing and robbing innocent travelers, be at guard and watch your back, and you shall pass through without any incidents. Accept this gold as a form of pay, good mercenaries are always worth something.
+dlga_zadanie_3_niemcewicz_kont:close_window|Farewell {playername}, and thank you once again for everything. May the Lord be your guardian! 
+
+
+dlga_start:glistrozmowa1|Before you gentlemen go any further, may I know who you are and what are you looking for here?
+dlga_glistrozmowa1:glistrozmowa2|And you sir, who are you to ask such questions the guards or the military?
+dlga_glistrozmowa2:glistrozmowa3_1|You have accompanied us in our travel.
+dlga_glistrozmowa3_1:glistrozmowa4_2|I cannot recall the occasion and having drinking with you sir... Besides we are from here and we don't plan on going anywhere.
+dlga_glistrozmowa2:glistrozmowa3_2|Answer me now. [Grozba]
+dlga_glistrozmowa3_2:glistrozmowa3_22|Well look at this gentlemen, a mouthy one.
+dlga_glistrozmowa3_22:glistrozmowa4_2|Go and take a cold bath, maybe this will help you. I have the same right to be here just as you do, do you have anything against it? Some kind of rebellion, huh?
+dlga_glistrozmowa2:glistrozmowa4_1|If you refuse to do so, by you own will.
+dlga_glistrozmowa4_1:close_window|Very well, if you refuse to speak by your own good will.
+dlga_start:glistrozmowa4_2|Never mind, we shall be on our way now.
+dlga_glistrozmowa4_2:close_window|Be silent sir, if your life is dear to you... if you refuse to speak, we shall take you in halter and you will tell us everything you know! 
+
+
+dlga_start:introzad2tukaj|{playername}?! My God, Its a pleasure to welcome you here! Mister Jablonowski has told me how you rescued him from oppression. I would embrace you! Ha, but surely you are not aware of who I am? Ah, true, true I should introduce myself.
+dlga_introzad2tukaj:introzad2tukajsay1|Grzegorz Jablonowski, just as my late father, shine upon his soul dear Lord! That was an uncle of my cousin you saved there. Just between you and me, you surely know how to handle a saber, right? Ah, i'm not a simpleton when it comes to saber duels, maybe we could give it a go... well not here and not now, but later? Agreed?
+dlga_introzad2tukajsay1:introzad2tukaj1|I knew, I will find a brother in you, ever since I saw you, god be my witness! My biological brother was ripped to shreds by wolves while we were hunting partridges in Kaliskie, shine upon his soul dear Lord!
+dlga_introzad2tukaj:introzad2tukajsay2|That might be, and who is talking?
+dlga_introzad2tukajsay2:introzad2tukaj2|Possibly, but its not none of your business, tell us your name first.
+dlga_introzad2tukaj1:close_window|Eh, forgive me, I'm losing my mind here, they are waiting inside and are surely worried by now. Come on inside, I will wait here... I will keep a watch for any suspicious gentlemen, hehe. 
+
+dlga_start:introzad2tukaj|{playername}?! My God, Its a pleasure to welcome you here! Mister Jablonowski has told me how you rescued him from oppression. I would embrace you! Ha, but surely you are not aware of who I am? Ah, true, true I should introduce myself
+
+dlga_start:zada2t1|Listen very carefully sir. Supposedly Mister Jablonowski and Mister Niemcewicz have seen near the market a group of men which have dined alongside us in the tavern. You might not think of it as anything of importance but, Mister Jablonowski has recognized one of them as an ally of Targowica. We need to find them, it won't take long... they should be close.
+dlga_zada2t1:zada2t1g1|Really? Hmm... Who would have thought! Traitors are spreading like a disease, but we shall expel them from the country! Like the Grandad of my Grandad who expelled the Swedes, and you sir must know that this was in the year of our Lord 1659, this would make it a century and a half, but the memory about ancestor is still alive. Roch was his name, shine upon him lord...
+dlga_zada2t1g1:zada2t1g1say1|Noble and truly deserving the respect, memory of one's own ancestors. We should focus now on catching those scum, before they leave the city.
+dlga_zada2t1g1say1:close_window|Ah, yes! Let us be on our way.
+
+
+dlga_start:zad1ka|You have mistaken me with someone else, your grace, I'm poor man and never wished anyone any hardship, don't hurt me.
+dlga_zad1ka:zad1kasay1|You are free.
+dlga_zad1kasay1:zad1ka2|You are free.
+dlga_zad1ka:zad1kasay2|Everything has its price, even freedom.
+dlga_zad1kasay2:zad1ka3|Everything has its price, even freedom.
+dlga_zad1ka2:close_window|I thank you, most gracious sir, I will not forget this.
+dlga_zad1ka3:close_window|But, of course, of course... accept this as a sign of my gratitude.

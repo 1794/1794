@@ -1,0 +1,121 @@
+Designed by VainVpa?dziernika 2012
+#Do zrobienia Zbójnicy.
+Bandits
+
+Differences between 1794 and Native:
+- Bandits of different types fight along each other during battles.
+- Bandits fight against each other
+- Officers of the Regular army do not react when bandits are spotted
+- Each unit has a unique commander with his own unique name and nickname.  – Individually generated.
+- You are able to sell captured bandits to Army patrols for a prize.
+Robbers:
+The most common type of bandit, they roam and stalk the entire earth. It is commonly known, such bastards do not have country not do they have any honor, they are futhermore a foe to all travelers, patrols and other killers.  
+Places of occurrence: The entire map.
+Enemies: Other Bandits, deserters, travels.
+Equipment: All sorts, ranging from from leather clothes through zupans and other such clothes ending at even military uniforms. 
+
+Leaders: Name and nickname appear in the name of the unit and In dialog, they are created/chosen randomly from following elements: 
+1: Ja?ko ; Zbyszko ; Walenty ; Jan ; Onufry ; Grzegorz
+2: Bronowic ; Psi?borza ; Opatowa ; M?cis?owa ; Ka? ; Mas?owa ; Limanowej
+___1___ z ___2___
+1: Zbych ; Jan ; Bohdan ; Onufry ; Walenty; Maurycy; Franz
+2: Dwas?owa ; Trzcinka ; Kufel ; Kafka
+___1___ ___2___
+Dialogs
+When we are ambushed by the bandits:
+1: Well, well alas I have caught you, this time you shall not run away. ; The bird was cought in the cage...hehe... we’ll see what you have brought with yourself ; Haly my lord, what’s the hurry? At your own will you shall hand over your money and you shall be left alone by my men, if not... I would not want to in your skin.
+___1___
+Options:
+- We shall fight to the very end.-> We will not surrender, nor shall we beg for mercy! 
+- We surrender.
+
+When when attack them:
+1: Wha.., What is my lord? ; Speak before me and my mear tear you to pieces. ; Madman or an Idiot, now I do not know which is worse, either way be gone now if you wish to live.
+___1___
+Options:
+- Surrender or Die!
+# Chcia?em o godno?? spyta?.
+- Nothing, I will be on my way.
+Smugglers
+Goods smugglers whom for unknown reason they have chosen this ‘trade’, Unlike other bandits they travel between specific places on the map, at the same time they pose danger to travelers, their money purses seem to irresistible for these fellows. 
+Places of occurrence: They travel between taverns and few additional special places. *
+Enemies: Other Other bandits, deserters, travelers.
+Equipment: All sorts, ranging from from leather clothes through zupans and other such clothes ending at even military uniforms. 
+
+Leaders: Name and nickname appear in the name of the unit and In dialog, they are created/chosen randomly from following elements: 
+1: Chryzostom ; Bo?ydar ; Walenty
+2: Pi?tka ; Trzygrosze ; Z?oty Kur ; Grzybek
+___1___ ___2___
+*te kilka punktów po to aby uniemo?liwi? im nieustanne spotkania z podró?nymi
+
+Gdy zostaniemy dopadni?ci przez bandytów:
+1: The bird has been trapped in the cage...hehe... we’ll see what you have brought with yourself ; Haly my lord, what’s the hurry? At your own will you shall hand over your money and you shall be left alone by my men, if not... I would not want to in your skin at this point.; What is your grace tagging along in his bag, is it not a heavy moneybag, hmm? ; 
+___1___
+Opcje:
+- We shall fight to the very end.-> We will not surrender, nor shall we beg for mercy! 
+- We surrender.
+
+
+When player attacks them:
+What is it? By what right are you stopping us? ‘ Eh, you bastards, by what right do you stop us? ; Wh.. What is your grace? We... inn... Innocent people, what can we do for you my lord? ; Seems lord needs our help in securing a tight knot around his neck, or did he change his mind and will simply walk away? 
+Opcje:
+- Surrender or die!
+# I wish to ask for the destination of your travel. -> option of invesment 
+- Nothing, we shal be on our way now.
+
+Deserters
+Fugitives, all sorts of marauders, without honor, without values, in one one hand comant they are well capable, but as a group they lack proper leadership, Natural enemies of robbers, smugglers, patrols and travelers.
+Places of occurrence: The entire map.
+Enemies: Other Bandits, patrols, travelers.
+Equipment: Old and worn, but regular military uniforms, with certain exceptions inconsistent types weapons.
+
+Leaders: None
+Dialogs
+When we are attacked by the bandits:
+1: So sirs, ...heh, don’t even move, and no one shall be harmed, after all we’re good lads aren’t we?.. heh ; We finally caught someone, what are you looking at? Take them lads! ; Well, well it seems someone wishes to gives us our overdue pay? Heh, we were about to go and rob someone, but you came along, the fate likes play tricks, does it not? 
+___1___
+Opcje:
+- We shall fight to the very end.-> We will not surrender, nor shall we beg for mercy! 
+- We surrender.
+
+When we attack them:
+1: What do you want? We..errr... We are carrying out manoeuvres behind enemy lines, to outflank the enemy... ; Ehh bastards why do you stop decent and innocent people? ; Rabble and bastards have settled on these roads, and it seems to me that you are part of it. I despise people like yourself, is it enough for you to make way for me and my men? We’re in a hurry. ; What is it? We’re busy... We have received orders to escort these supply wagons... now let us leave. 
+
+___1___
+Opcje:
+- Surrender or die!
+-Well, we shall be on our way then.
+
+Mountain Bandits
+Type of bandits that only appears in Mountains. As it is commonly known, such people roam the mountains and ambush innoccent travelers and traders, and furthermore they fight with everyone whom trespass their territory.
+Miejsca wyst?powanie: Mountainous areas.
+Przeciwnicy: Other bandits, travelers, deserters.
+Ekwipunek: All sorts, zupans and other such clothing, even military clothes.
+
+Leaders: Name and nickname appear in the name of the unit and In dialog, they are created/chosen randomly from following elements: 
+1: Ja?ko ; Zbyszko ; Walenty ; Jan ; Onufry ; Grzegorz
+2: Bronowic ; Psi?borza ; Opatowa ; M?cis?owa ; Ka? ; Mas?owa ; Limanowej
+___1___ z ___2___
+1: Zbych ; Jan ; Bohdan ; Onufry ; Walenty
+2: Dwas?owa ; Trzcinka ; Kufel 
+___1___ ___2___
+Dialogs
+When we are attacked by them:
+1: Well, well at last we have caught you, this time you shall not run away. ; The bird was trapped in the cage...hehe... we’ll see what you have brought with yourself ; Hail my lord, what’s the hurry? At your own will you shall hand over your money and you shall be left alone by my men, if not... IN this case I sincerely wouldn't want to be you.
+___1___
+Opcje:
+- B?dziemy walczy? do ko?ca.-> Nie poddamy si?, ni tanio skóry nie sprzedamy.
+- Poddajemy si?.
+
+
+When we attack them:
+1: Wha... What is my lord? ; State your business else me and my men will have to tear you to little pieces ; Madman or an Idiot, now I do not know which is worse, either way be gone now if you wish to live. 
+___1___
+Options:
+- Surrender or Die!
+# I Chcia?em o godno?? spyta?.
+-Very well, I have to be on my way now.
+
+
+Opcje oznaczone „#” nie s? do wprowadzenia.
+

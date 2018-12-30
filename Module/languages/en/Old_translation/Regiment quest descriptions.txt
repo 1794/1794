@@ -1,0 +1,33 @@
+Tutorial:
+"A Duelist can be found in every city, both in the city center itself and also in the suburbs. You can duel him at any given point of the game to win Money and Renown."
+"Characters, which you have to find are always to be found in a specific scene. Over their heads you will see a marker, making it easier to find them."
+"To complete a mission, find the character that has given the mission to you. Such characters will have marks over their head."
+
+Regiment Description:
+  ("5_porucznik_opis","Platoon is made up of 30 soldiers. Such unit is designated to fight in formation.^ Especially effective in volley firing but not as effective in irregular fire. Experienced fusiliers are good in melee."),
+  ("5_kapitan_a_opis","Company is made up of 60 soldiers. Such unit is designated to fight in formation.^ Especially effective in volley firing but not as effective in irregular fire. Experienced fusiliers are good in melee."),
+  ("5_kapitan_b_opis","Platoon is made up of 30 soldiers. Light Infantry, unit which excels at long distance firing, it successfully uses the skirmish and double line formation.^ It is less effective in melee combat."),
+  ("5_rotmistrz_opis","Squadron is made up of 50 cavalrymen. Light Cavalry, unit which excels at rapid attacks and reconnaissance tasks. "),
+  ("5_major_a_opis","Battalion is made up of 120 soldiers. Such unit is designated to fight in formation.^ Especially effective in volley firing but not as effective in irregular fire. Experienced fusiliers are good in melee."),
+  ("5_major_b_opis","Company is made up of 60 soldiers.. Light Infantry, unit which excels at long distance firing, it successfully uses the skirmish and double line formation.^ It is less effective in melee combat."),
+  ("5_major_c_opis","Platoon is made up of 30 soldiers."),
+  ("5_major_d_opis","Regiment is made up of 100 cavalrymen. Light Cavalry, unit which excels at rapid attacks and reconnaissance tasks. "),
+  ("5_major_e_opis","Squadron is made up of 50 cavalrymen. Cavalry unit which excels in fighting both cavalry and infantry."),
+  ("5_pulkownik_a_opis","Regiment is made up of 300 soldiers. Such unit is designated to fight in formation.^ Especially effective in volley firing but not as effective in irregular fire. Experienced fusiliers are good in melee."), 
+  ("5_pulkownik_b_opis","Battalion is made up of 120 soldiers. Light Infantry, unit which excels at long distance firing, it succesfully uses the skirmish and double line formation.^ It is less effective in melee combat."),
+  ("5_pulkownik_c_opis","Company is made up of 60 soldiers. "),  
+  ("5_pulkownik_d_opis","Brigade is made up of 200 cavalrymen. Light Cavalry, unit which excels at rapid attacks and reconnaissance tasks. "),
+  ("5_pulkownik_e_opis","Squadron is made up of 100 cavalrymen. Cavalry unit which excels in fighting both cavalry and infantry."), 
+  ("5_general_a_opis","Battalion is made up of 120 soldiers. "),
+  ("5_general_b_opis","Regiment is made up of 300 soldiers. Light Infantry, unit which excels at long distance firing, it succesfully uses the skirmish and double line formation.^ It is less effective in melee combat."),
+  ("5_general_c_opis","Battalion is made up of 120 soldiers. "),
+  ("5_brygadier_opis","Brigade is made up of 200 cavalrymen."),
+
+  str_awans_text|Dear {s68} {playername}, with pleasure I inform, with your latest ^merits, you have proved, that you deserve a promotion. ^To take under command new regiment, ^Report promptly to the recruiter.^                            J.J. Niemcewicz
+str_awans_text2|Report to the recruiter, to take under command new regiment.
+
+Opisy zadan:
+
+"Capture at least three traitors working for the Targowica Confederacy. You should be able to find them in Cities, where they will try their best to leave the Commonwealth. You have 15 days to complete this mission."
+"In order for us to pull away part of the enemy forces, you are to start an uprising in Courland. For this you are to contact one of the local officers, you will find him in a tavern, known as ''Under Broken Lance''. You have 7 days to complete this mission."
+"Lead a unit and capture a castle which is of utmost importance if we are to win this war, the castle is known as {nazwa}. You are to take no longer than 10 days to capture the castle."

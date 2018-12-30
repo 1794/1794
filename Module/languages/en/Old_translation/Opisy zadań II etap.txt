@@ -1,0 +1,47 @@
+I STAGE
+Mission 2: Snitch.
+Description: Find the people whom are suspected to be spies for Targowica. They should be in a nearby Apartment House.
+
+Mission 3: Preparations.
+Description: Before you leave off to aid the insurgents, hire a company of at least 20 men strong.^
+The sooner you successfully complete this task, the more time you will have to complete missions further on in the game.
+
+Mission 4: Camp.
+Description: Find the insurgent camp. The rumor has it that the camp is located in a gully, in north-westerly direction from Lwow.
+
+II STAGE
+Mission 1: Destroy Patrols.
+Task giver: 
+Duration: 3 days
+Punishment: -1 pkt
+Gratification: +2 pkt
+Description: Enemy has been spotted moving his troops in a nearby village. Your goal is to destroy and eliminate the enemy patrols who are patrolling the surrounding countryside. This mission should be completed within 3 days.
+
+Mission 2:  Ambush.
+Duration: 3 days
+Punishment: -3 pkt 
+Gratification: +3 pkt
+Description: In the nearby gully, our forces are setting up an ambush on a weapons convoy. Take your men and strengthen our forces to increase our chances. This mission should be completed within 3 days.
+ 
+
+Mission 3: Deliver the weapons.
+Description: In the newly created Cossack units created in Podole there is a serious lack of weapons. Deliver the weapons to the Revolutionaries to increase the numbers of Insurgent forces. This mission should be completed within 3 days.^
+
+Mission 5: Manifestos.
+Description: Tell our manifestos in the two indicated Taverns to spread the ideals of revolution.^ You have to be quick though, as you only have 6 days to complete this task.
+Tip: The Taverns have been marked on the map.
+
+Mission 6: Upheaval
+Description: In the revolutionary camp it has been discovered that someone is trying to overthrow the leader. Kill the problem at its roots before it gets out of hand and the current leader is overthrown. 
+Tip: Quest to be finished in nearby location.
+
+Mission 7 : A thousand times a traitor.
+Description:  Eliminate the Tzar's official, which plans to quit our plot and to betray us by uncovering our plans to carry out the revolution. We suspect that you will be able to find him in Kijow. But be quick, you only have 5 days to finish this task.
+
+
+Mission 9: Marauders Gold
+Description:  Find and Destroy deserters camp, then ensure to take all the gold they have robbed from us. You have 5 days to finish this task.
+
+
+Mission 10 : Spy. 
+Description: Capture and kill the spy, which is trying to pass over precious and secret information, which can result in our failure. To catch him, hide in a nearby camp and await his arrival.

@@ -1,0 +1,19 @@
+                                                                     
+                                                                     
+                                                                     
+                                             
+dlga_prolog_5_2_3_0:Prolog_5_2_3_1|Since you know everything by now, before we discuss the future, there's something important to be taken care of prior to this. 
+I am suspecting, that those scoundrels which you dealt with it, were not the only ones following us.
+dlga_prolog_5_2_3_1:close_window|I saw three very suspicious men lurking around, they looked just like these men we saw in the tavern.
+I am not certain wherever they have already left, or whether they have hidden somewhere, but its important that we ensure they do not pose a threat to us. I hope, along with Mister Grzegorz, 
+which you have surely already meet, you will manage to successfully carry out this task.
+
+qstr_{playername}?_Dobrze|{playername}? Its good that you are alive and well, they have battered you a little. But let us not forget about this, my brother has told me of how you bravely faced them in a fight. 
+qstr_{playername}?_Dobrze_|{playername}? Its good that you are alive and well, I have heard of how you skillfully handled the situation! I am glad to be able to once again congratulate on your cunning and bravery. 
+dlga_tukaj_byeeeeee:close_window|Let us not dwell to much on this... I am glad to see you again. Oh and Mister Jablonowski would surely like to have a word with you. Its precisely my cousin whom we have to thank for such short stay in prison. Go and see him as quickly as you can, along with Mister Niemcewicz they have something of great importance to tell you... I meanwhile will be nearby, I have some business to be taken care of.
+
+str_rewolucja_upada|Honorable {s69}{playername}, due to our tragic situation, I have signed peace with {s1}, under this agreement our territories will be transferred under their rule, whereas their High command has given us the right to leave the Country, which I strongly suggest you do as soon as its possible.
+
+str_emisariusz|Either capture or eliminate the indicated emissary in tavern {s20}. Afterwards, hand him over to the Prison in Warsaw.
+str_qemisariusz_1|For the head of the traitor you without any doubt deserve an entire barrel of bear and 50 rubles in gold! Furthermore, soon you will be given an ownership of piece of land!
+str_infiltracja|Find out where the bandit camp is located, then you are to crush them. Try to find information that might help you locate them in the tavern {s20}.

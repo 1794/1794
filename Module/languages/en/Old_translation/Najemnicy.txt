@@ -1,0 +1,86 @@
+Najemnicy
+Oddzia? do naj?cia w karczmach, dzia?aj? na takiej samej zasadzie jak w nativ. Jednak gracz mo?e najmowa? ich tylko do czasu a? nie zostanie oficerem. S? to jednostki mobilne, sprawnie walcz?ce przeciwko nieregularnym oddzia?om. Przeciwko wojsku s?abo si? sprawdzaj?.
+
+Dialogi
+
+K?usownicy
+Cena jednostki: --
+Greetings my Lord, are you looking for men willing to work or maybe someone to protect you and you're goods?  Me and my companions, are looking for honest work, bunch of large chaps we could be quite useful for you m'lord, especially that roads these days roads are very unsafe for men like yourself, for a decent pay we're ready to join you in your travels.
+
+- How much do you want for your services?
+- And whom is a threat to me that I should employ you and your men?
+-  Be out of my way, at once.
+
+Well we shall need few coins for lead for the bullets, and enough denars left for women and booze before we leave, 450 it will be then, not less, such amount for you m'lord is surely nothing.
+M'lord shouldn't worry about that, either give us work or be out of our way, So what's it gonna be?
+
+- How much do you want?
+- I do not employ men like you, farewell. 
+
+- Eh, you're not cheap , but surely you will be useful to me, here the money. 
+Gdy ludzi mo?liwych do naj?cie jest wi?cej ni? miejsc w oddziale:
+- I can only afford to employ only <liczba> of you.
+
+-  400 zloties and not a penny less.
+- For this amount I could spend the rest of my life in a tavern getting drunk, farewell.
+
+Generous you are indeed my m'lord, after the breakfast we shall be fully prepared for our travels. 
+
+Eh, without the booze we will surely make in time, its a deal. 
+
+Lub – Whores and booze is a must, you cannot truly taste one without the other. 
+ As you wish m'lord, be at guard and ensure to watch your back.
+
+Go?ota
+Cena jednostki: --
+- Greetings sir, I am {player name}. Say... are you looking to join a experienced company by any chance?
+Greetings, the heavens themselfs have sent you, me and my comrades are searching for able men to join us in our travels, for decent pay of course. 
+ - Splendid may I know whom I have the pleasure of talking to, before we venture into the world?
+I am {imi?} of the {herb} coats of arms, along with my comrades we have come from the land know as {nazwa} and had to leave our homes due to {powód}. We do not ask for much, for 350 zloties we shall remain loyal to you unto our graves. 
+- Very well, welcome to my company.
+- Too expensive, I cannot employ you, farewell.
+We shall be ready to depart soon sir.
+As you wish, but remember roads and villages are infested with scoundrels and bandits these days.
+
+Gdy ludzi mo?liwych do naj?cie jest wi?cej ni? miejsc w oddziale:
+- Hm,  I can only employ <liczba>  of you.
+- Very well, out pay should be <ilo?? kasy zale?na od liczby> denars, not more not less.
+
+Przemytnicy
+Cena jednostki: --
+Greetings m'lord, are you looking for men to employ? Me and brothers of mine, are worthy companions looking for honest work that feeds and pays. 
+- Fortune has smilled upon me, how much do you want for your services?
+- I am not looking for trouble, I shall be on my way now, farewell.
+To cover all expenses, that is booze, women and equipment…(nowe okno) 800 zloties would surely suffice, we would be prepared to leave even today.
+- Very well, here's the money, i hope you and you're men are worth every single penny.
+- I will not have enough for other commodities, farewell.
+We shall convince our new leader about that.
+
+Gdy ludzi mo?liwych do naj?cie jest wi?cej ni? miejsc w oddziale:
+- I shall take <liczba> from you lot.
+- You wish to separate old companions? Ah if so you will have to pay extra 300 zloties, else be gone now.
+
+- I will teach you bastards how to properly address a nobleman
+- Very well here's your money.
+- I do not have enough, farewell.
+
+
+Go?ota II
+Cena jednostki: --
+Greetings sir, how could I be of help?
+- I am looking for men, for escort and defence, maybe you know someone who might be interested?
+- Its nothing, I have to be on my way now, farewell.
+-<renoma mniejsza ni? 100> I didn't had the chance to hear of you sir, but be sure that I shall let you know once I find someone, farewell.
+- Is good that you have made it, me and my comrades have seems many wars, seen plenty its hard to find more battle hardened men in these areas. For 1500 zloties we shall join your company sir, but remember that our Honour is more important to us than our own lives. 
+- I am glad to welcome you to my company, here is your money.
+-  cannot afford to employ you, farewell.
+- Soon we will be able to depart.
+
+Gdy ludzi mo?liwych do naj?cie jest wi?cej ni? miejsc w oddziale:
+- I can only employ <liczba> of you.
+
+-Very well, but you have to understand  we all have to make a living... 1500 zloties and not a penny less.
+>Welcome to our company.
+>To expensive unfortunately, farewell.
+
+

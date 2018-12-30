@@ -1,0 +1,343 @@
+Do poprawy/zmiany:
+- Zmiana zleceniodawcy w Zadaniu 4: List – szczegó?y ni?ej.
+- Dodanie w cz??ci zada? dialogów w trakcie trwania zadania – ZROBIONE do uzupe?nienia w grze!
+- Pro?ba o pieni?dze od biedaków  raz na 5 dni.
+- Gracz jednocze?nie nie mo?e mie? zleconego wi?cej ni? jednego questa !
+Do rozwa?enia: Rozbieganie si? przechodniów gdy nast?puje walka.
+Do rozwa?enia: Gracz mo?e wype?nia? zadania dopóki nie osi?gnie poziomu 250 pkt renomy.
+Miniquesty – dialogi i przebieg
+
+Zadanie 1: Obelga 
+Gracz ma za zadanie uciszy? cz?owieka szargaj?cego reputacj? jednego z mieszczan.
+Zleceniodawca: mieszczanin
+Gratyfikacja: 1000 z?otych - 400 +600
+Kara: Brak.
+Opis: Odbierz d?ug jednego z mieszczan, lub szlachcica.
+Dialog z mieszczaninem:
+You see goo sir, there a certain man, which decided to ruin my reputation, it is not in my my power to stop such actions... I kindly ask you to aid me, if not by helping me to at least help my family. I will reward you of course.
+Opcje gracza:
+I shall take care of it. I cannot stand slander… <-1 honor>
+It is not for me. There is no honor in carrying out such tasks, for a man that cannot protect his honor! <+1 honor>
+
+Splendid, here you have 400 zloties in advance. Rest you shall receive once that bastard will be silenced for ever. [Koniec]
+Dialog z oszczerc?:
+What do you want? ; What do you want from me?
+Supposedly you are telling blunt lies about certain citizen, is that right?
+And what is it to you if that the truth? Who are you to ask me such questions…; Maybe yes or maybe not, who are you, if I may ask?
+Gracz:
+[Przekup]-> Listen carefully, I will pay you in exchange for your silence... 
+Accept it and both of us shall be on our way, no one needs to be harmed today. 
+ [Zastrasz] ->  Listen very carefully, I shall not repeat myself. I am giving you a choice, you shall either keep silent, or they will find cold body floating in the river tomorrow. The choice is yours…
+
+<sprawdza si?? gracza, wymagana +10>
+
+
+Very well, give us 300 zloties and I shall be silent on that matter and we shall be on our way?
+
+Here is the money.
+I do not have enough unfortunately.< powrót do dialogu przekup lub zastrasz>
+
+
+Zastraszenie opcje:
+Haha, you certainly made me laugh. You are not enough of a man to scare me. 
+Wiadomo??: Attempt to intimidate failed.
+
+Hmm… have I said anything? Forgive me, you shall not hear me speaking of that ever again.
+Wiadomo??: Attempt to intimidate Successful. 
+Dialog w trakcie trwania zadania:
+And how did it go? ; Were you successful?
+Gracz: I am still working on it. -> Rozmówca: Good, I will be awaiting the results.
+Gracz:  Unfortunately, I will not be able to finish the task. -> Rozmówca: I am saddened to hear that, but in any case please return me my money.
+Odbiera automatycznie od gracza, je?eli mia? i odebra?o to dialog si? ko?czy i nast?puje pora?ka w zadaniu, honor si? wyrównuje <+1 honor>. Je?eli gracz niema:
+ Unfortunately I no longer have them.
+Is that so? I thought you were a man of honor… [Koniec]<-2 honor>
+Dialog ko?cz?cy zadanie:
+And? Did you mannage it? ; Were you successful?
+He shall not say a single word about you. 
+Splendid! Here is the rest of your pay, 1000 zloties in all. Put that money to good use.
+<+600 z?otych>
+Opcje gracza:
+Indeed I certainly shall accept . [Koniec]
+I help because I had to, I cannot accept the money. 
+
+Ah, what a noble man…  certainly your honor shall be praised by many! <+2 honor, +5 renoma> [Koniec]
+Zadanie 2: Gaszek
+Zleceniodawca: Mieszczanin
+Gratyfikacja: 250 z?ociszy
+
+?ona jednego z mieszczan zdradza go, zastrasz odpowiednio jej gaszka, a zleceniodawca nie posk?pi grosza w podzi?ce.
+I am worried good sir,  my friends have told me that my wife is cheating on me .  I need someone to speak to that man and try to persuade him to finish the affair, if you know what I mean? I will pay you handsomely for your efforts. -> MQ20
+MQ20: I accept the mission. -> Not a problem, I will take care of it. Where can I find him? -> MQ21
+MQ20: This is not a task for me. -> I do not get involved in such matters.
+MQ21: He's a bastard, drunkard and a noble man at the same time, you will surely find him somewhere in the city. I am counting on you.
+Rezygnacja, dost?pna stale od pocz?tku zadania: I will not undertake such task. ->It is not for me, i will not spend my time on such drunkards.
+Dialog z gaszkiem:
+I am coming to you in  a matter that concerns certain man, I have heard you are having affair with his wife. ->MQ22
+MQ22: That may be true, it may not be, this is my personal matter. -> MQ23
+MQ23: It is not how a noble should act, promise to stop meeting that man's wife.
+-> MQ24
+MQ23: I will be on my way now. -> You are right, I will be on my way.
+MQ23:Ha! Who are you to tell me what I can. We can take care of this matter like true men.-> MQ25
+MQ25: Very well I shall fight you.
+MQ25: It is not for me, I have had enough of interfering in someone else matters.-> MQ26
+MQ26: Ha,  certainly, I knew that you will fear me the first time I saw you.
+Po pojedynku:
+
+Wygrany: The luck seems to be shinning upon you, you have my word, I will not see that women again.
+Przegrany: You got what you deserved, you will no longer interfere in my personal matters.
+Poddany: I can see that for you that woman is worth nothing, not suprising action by a coward, if he sent such a scum to me, you are not even worth talking to me.
+
+
+Dialog ko?cz?cy zadanie, zaczyna gracz:
+Przegrany lub poddany: Unfortunely, I lost the duel, a fine duelist that man is, and now for the money, I was wounded during the duel.
+Wygrana: I have deafeated him in a fair duel, he has sworn that he shall stop seeing your wife.
+
+Losowa odpowied?, w przypadku przegranej:
+Money? For what? Have I told you to duel him? You shall not  receive even a single penny from me. [KONIEC]
+Here you deserve the quarter of the pay, and I shall take care of him later. [KONIEC]
+Eh, I knew taking you on was a bad idea, farewell. [KONIEC]
+
+
+Zadanie 3: Zdrada 
+Zleceniodawca: Mieszczanka
+Gratyfikacja: 50 z?ociszy
+Opis: ?ona jednego z mieszczan dopu?ci?a si? zdrady, dostarcz list ?onie jej kochanka, a zleceniodawca nie posk?pi grosza w podzi?ce.
+Greetings sir, I am greatly troubled, my wife is cheating on me with some bastard. I found out that he also has a wife, man-women I should stay. Get this letter to her, and she shall take care of him. He will have enough of seeing some other women while she is still alive. I shall pay you of course. 
+Very well I shall deliver the message. -> ?aden problem, za?atwi? to. Gdzie mog? j? znale???
+To nie dla mnie zadanie. -> Nie mieszam si? w ma??e?skie awantury.
+
+Poznasz ?acno, nieopodal rynku pewnikiem si? kr?ci.
+
+Witam, pewien zacny cz?ek, zleci? mi dostarczenie tego listu do r?k w?asnych. Zawiera rzecz, która mo?e pani? zaciekawi?. ?egnam.
+
+
+Dialog ko?cz?cy zadanie:
+I have delivered the letter to the asked person.
+
+Splendid, here is the proof of my gratitude, it was a pleasure to meet you. [Koniec]
+
+Zadanie 4: List
+Zleceniodawca: dowolny
+Gratyfikacja: 50
+Cz?stotliwo?? wyst?powania:
+
+Mieszkaniec miasta zleca nam dostarczenie listu ze skarg? do stra?y miasta.
+1: on the dogs of my neighbor are barking at night not allowing me to sleep at night ;  on the local brothel, gets loud at night and are also expensive at that to;  on my neighbor, which constantly throws his shit and other filth through the window, maybe they will sort him out ; about the streets, that by each week become more impassible, we need proper pavement ; on my female neighbor which beats with broom everyone who might be unfortunate enough to pass near the brothel;  on the bloody useless artisans, which sell everything at ridiculous low prices ; on the tavern owner, which dilutes the alcohols with water ; on the today's youth which brings down the city each day ; on the weather, rather the wooden gutters which are slowing degrading, I wish to be paid so I can make new ones ; on the local drunkards that are constantly fighting with each other and refuse to pay ; on the nobles, that take everything and refuse to pay, and if anyone stands up to them they risk their life ; on the cold and the leaking roof, if they rule then they should repair it. resufe to pay ; on the noobles, that take everything and refuse to pay, and if anyone stands up to them they risk their life ; on teh cold and the leaking roof, if they rule then they should repair it.
+
+Yes, there is something you can do, here is the letter, complaint ___1___. Get it to the mayor once you will return you shall receive your pay.
+ Here is a complaint from one of the citizens, which I was ordered to bring it to you.
+Another one?! I will have something to wipe my back side with. -> Tell the author I will take care of the matter.
+Complaint delivered.
+And what did he say? Will he take care of it?
+Yes, the promised he shall.
+___1___ , he is lying, surely he wont take an action.
+I'm Certain that he will do something.
+I doubt it, but even a droplet will bore through the rock, here... you deserve something for at least trying.
+1: Scoundrel ; Bastard ; Damned bastard
+
+Zadanie 5: Donos
+Zleceniodawca: Mieszczanka
+Gratyfikacja: 50 talarów
+Cz?stotliwo?? wyst?powania: 10 dni
+Dostajemy zadanie dostarczenia donosu do stra?y kr???cej po mie?cie. Zleceniodawca – mieszczki.
+1: Across the road, a dangerous invidual have setteled in, a thief and adding to it shes seduces local males  ; my neighbour stole my money bag from the chest yesterday, and he still says that it was my son who took it to get drunk ; bandit was watching my house yesterday, lasciviously spoke to my daughter to ;  in the tawern a rich-dandy stood there, sodomist I am sure ; councilour is living off defraudation instead of investing in the repair of the roads;
+I have a mission of great importance, as you see I have the following a letter ___1___,  which you should deliver to the town guard, I will reward you for it.
+Here is a message to one of the citizens, denunciation worth of the attention. 
+Dialog ko?cz?cy zadanie:
+Certinely, I shall take care of it as soon as I possibly can. 
+I have delivered the message, just as you wished.
+Here is your pay, as a sing of my gratitude, just try not to spend it all in one tavern.
+
+Zadanie 6: Rami? sprawiedliwo?ci.
+Gracz ma za zadanie wymierzy? sprawiedliwo?? w imieniu jednego ze szlachciców. 
+Gratyfikacja: 700 z?ociszy
+Cz?sto?? wyst?powania: 15 dni
+Opis: Wymierz sprawiedliwo?? oszczercy. Powinien znajdowa? si? w pobli?u!
+
+Well you see my dear {playername}... in that house there lives a certain bastard, which for his main goal he seeks to destroy my reputation. Myself of noble birth I cannot allow such actions continue! ->
+Take care of it, and I will greatly reward you.
+
+Opcje:
+You can count on me.  <-2 honor>
+A nooble should stand up for himself, rather than employ someone else. <+1 honor>
+
+Dialog z oszczerc?:
+
+I am coming to you today in the name of a certain noble, which his name you dared to insult.You have to pay for such actions.
+
+Just wait a moment good sir, let me speak the truth of how it really went on!
+
+I am not interested in conversation. [walka, honor -2]
+Speak, but be quick.
+
+You see, that man is a {s20}. I swear to God !	
+{s20} : crook and a falsifier, from many people he extorted money… including myself ; traitor, he placed false charges on my brother in the court.
+
+I believe you. -> Righteousness stands by you and I trust you. [+2 honor]
+You are lying. -> You don't convince me, you shall get what you deserve! [-2 honor]
+
+I will pay you 200 zloties if you leave me be.
+
+Give it here, and be gone before I change my mind.
+You think you can buy me? You are wrong.
+
+Dialogi w trakcie wykonywania zadania
+And what? Speak quickly! Did you silence him?
+
+I shall complete the soon.
+I resign from the mission, a noble cannot take on such missions. <+1 honor> 
+
+Well damn you sir, I knew its going to end like this! [Koniec] <Zadanie zosta?o przegrane.>
+
+Zako?czenie pomy?lne
+
+And what did you manage it?
+
+Yes that man will no longer bother you.
+
+Splendid, here is the pay I have promised, 700 zloties. May this money serve you well sir! [Koniec]
+
+Zako?czenie negatywne
+And what did you manage it?
+
+Unfortunately, I couldn't catch him. <unikni?cie walki>
+You were wrong.  -> You are not right and were lying all along, Now that I found out the truth I shall no longer help you.
+
+1: Eh,  from the time I first saw you, I knew you will be a complete failure, and get our of my sight! ; I should have expected that's how this will end… get out of my sight!
+
+___1___ [Koniec] 
+
+1: How dare you to acuse me of lying?! You shall pay for this! [Koniec] -> npc atakuje gracza
+
+Zadanie 7: D?ugi.
+Zadaniem gracza jest odebranie d?ugu od trzech losowych postaci w imieniu zleceniodawcy. Bezpo?rednio nie dostaje pieni?dzy. O sukcesie zadania decyduje doj?cie do odpowiednich linii dialogowych – zyskanie punktów. 0 pkt. za nieodebranie pieni?dzy, +1 za odebranie bez procentów, +2 za odebranie z procentami. Do wygrania zadania w ca?o?ci potrzeba 6 punktów, do cz??ciowej wygranej wystarcz? trzy.
+Zleceniodawca: Szlachcic/mieszczanka/mieszczanin
+Gratyfikacja:  300 z?ociszy.
+Cz?stotliwo?? wyst?powania: raz na 10 dni
+1: Ahh yes, there is something you can do for me, listen then carefully. ; I have a task suited for a man like you, listen then carefully because I shall not repeat myself.
+
+___1___->
+
+During the recent month i have saved a number of people, by borrowing them money,  unfortunately as I should have expected they proved to be lying scoundrels and the money which I borrowed them they state they shall not return it. Find them and take what is mine. Not a penny less! 
+
+Opcje gracza:
+You can count on me. <-1 honor>
+I will not be a loan shark lackey. <+3 honor>
+D?u?nikami jest losowych trzech npc, oprócz stra?y.
+
+Opcja dialogowa wspólna dla wszystkich: [Odbierz d?ug] ? I have came in the name of a certain man, some time ago he has aided you in difficult times with money. The day to pay it back has arrived. 
+
+Dialog z mieszczaninem
+<perswazja mniejsza ni? 3> Debt? I have never borrowed money from anyone... ; First time I hear of this... what debt?
+Bez szans na 2 punkty, je?li gracz wybierze dobry argument zyska jeden.
+[Refer to Honor]-> „Honor... you certainly lack it, how you dare to forget your debts?” ->H
+[Refer to credibility]->”Try to remind yourself and better do it quickly, as no one shall borrow you money in the future.” ->W
+[Refer to renown] ->”Try to remember and better do it quickly, what will the people say about you if you refuse to pay it back…”->R
+Nothing, I bid you farewell.
+
+H: Get back to earth good sir. Horses,  knights and tourneys are long gone. Besides look at what that  ''honorable'' nobility has done to the Commonwealth.May they all be damned to hell for all I care.[End] Message: Retrieval of the debt was unsuccessful. Message: Retrieved debt x/3.
+
+W: Well, just speak more quietly, i'm giving it back, without the interests, but the debt to the last penny. That's all I can give. [Koniec] Message: Retrieval of the debt partially successful. Message: Retrieved debt x/3. <+1 pkt>
+
+R: Do you really belive I will listen to you? Go and bother someone else with your made up stories[Koniec] Message: Retrival of the debt was unssucessful. Message: Retriven debt x/3.
+
+<+3  perswazja> Well damn you sir! Here you are, the money that I borrowed without any intrest of course. And Do not return here again else I will be forced to let my dogs off the leash.[Koniec] Message: Retrieval of the debt partially successful. Message: Retrieved debt x/3. <+1 pkt>
+
+<+4  perswazja>  Well damn you sir! Here you are, the money that I borrowed with intrest I was I promised to pay, just as we agreed.[Koniec] Message: Retrival of the debt entirely successful. Message: Retrieved debt x/3. <+2 pkt>
+
+Dialog z biedakiem
+<perswazja mniejsza ni? 2>: Debt?! I know know nothing about it.
+Bez szans na 2 punkty, je?li gracz wybierze dobry argument zyska jeden.
+[Refer to Honor]-> 
+„„You lack the honor, I can see you are a man of lesser birth.”-> H
+[Refer to credibility]-> „Well if the townspeople find out that you refuse to pay back your debts, who will borrow you money in the future?” ->W
+[Refer to renown] ->
+ „Return it, and no one shall find out that you can't pay your debts back.” ->R
+Nothing, I bid you farewell.
+
+H:  Certainly, I might not be of noble birth, but I certainly have the brains. You will not get anything from me! [Koniec] Message: Retrieval of the debt was unsuccessful. Message: Retrieved debt x/3.
+W: Eh, very well, here is what I borrowed. I do not have more and besides that's all what I should be paying back. Message: Retrieval of the debt partially successful. Message: Retrieved debt x/3. <+1 pkt>
+R: I do not care what people might say, tell it to whomever you wish to. [Koniec] Message: Retrieval of the debt was unsuccessful. Message: Retrieved debt x/3.
+<+2  perswazja> Yes, yes I remember, here is the money... unfortunately without the interest…[Koniec] Message: Retrieval of the debt partially successful. Message: Retrieved debt x/3. <+1 pkt>
+
+<+3  perswazja> Yes, yes here is what I should've payed back, along with the interest I promised to pay.[Koniec] Message: Retrieval of the debt entirely successful. Message: Retrieved debt x/3. <+2 pkt>
+
+
+
+
+
+Dialog z mieszczank?
+
+<perswazja mniejsza ni? 3> Debt? I have never borrowed money from anyone... ; First time I hear of this... what debt?
+Bez szans na 2 punkty, je?li gracz wybierze dobry argument zyska jeden.
+[Refer to Honor]-> „Honor... you certainly lack it, how you dare to forget your debts?” ->H
+[Refer to credibility]->”Try to remind yourself and better do it quickly, as no one shall borrow you money in the future.” ->W
+[Refer to renown] ->”Try to remember and better do it quickly, what will the people say about you if you refuse to pay it back…”->R
+Nothing, I bid you farewell.
+
+H: Eh, I do not care for honor, I only care to get food on the table for my family... [Koniec] Message: Retrieval of the debt was unsuccessful. Message: Retrieved debt x/3.
+
+W: I do not care to be honest, I will manage.[Koniec] Message: Retrieval of the debt was unsuccessful. Message: Retrieved debt x/3.
+
+R:  Here you are, but keep silent. I always return my debts. Without any of that damned interest of course.[Koniec] 
+Message: Retrieval of the debt partially successful. Message: Retrieved debt x/3. <+1 pkt>
+
+<+3  perswazja> Damn that loan shark... Here is the money I have borrowed from him, every last penny of my debt. Don't expect me to pay any more.[Koniec] Message: Retrieval of the debt partially successful. Message: Retrieved debt x/3. <+1 pkt>
+
+<+4  perswazja> May heaves punish those damned loan sharks... here is the money along with the promised interest, just as we agreed. [Koniec] Message: Retrieval of the debt entirely successful. Message: Retrieved debt x/3. <+2 pkt>
+Dialog ze szlachcicem
+<perswazja mniejsza ni? 4> Debt? I have never borrowed money from anyone... ; Which debt are you speaking of? I didnt borrow money from anyone.
+Bez szans na 2 punkty, je?li gracz wybierze dobry argument zyska jeden.
+[Refer to honor]-> „I see that honor of an noble, ceased to matter for you…” ->H
+[Refer to credibility]-> „Your grace doesn't care for his own credibility, does he?…”->W
+[Odwo?aj si? do renomy] -> „Good name doesn't mean anything in the parts, does it…”->R
+Nothing, I bid you farewell.
+
+H: Ahh, be damned here is the money, its precisely what I borrowed and i'm returning every single penny. And for services the heavens shall pay... As long as Saint Peter allows that damned bastard through the gates. Message: Retrieval of the debt partially successful. Message: Retrieved debt x/3. <+1 pkt>
+W: I do not care for it, now be gone. [Koniec] Message: Retrieval of the debt was unsuccessful. Message: Retrieved debt x/3.
+R: There's not reason why I should care, now get out of my sight. [Koniec] Message: Retrieval of the debt was unsuccessful. Message: Retrieved debt x/3.
+<+5  perswazja> Yes of course, here is the money I owe him. Unfortunately without the interest which I am unable to pay…[Koniec] Message: Retrieval of the debt partially successful. Message: Retrieved debt x/3. <+1 pkt>
+<+6  perswazja> Well ill be damned, bastard has a good memory... take the money along with the interest... and now get out of my sight![Koniec] Message: Retrieval of the debt entirely successful. Message: Retrieved debt x/3 <+2 pkt>
+
+
+
+Dialog ko?cz?cy zadanie:
+Here is the money that they owed you.
+Unfortunately I was only able to get only part of the money they owed you.
+Unfortunately I could not get the money they owed you.
+
+W trakcie trwania zadania:
+And what? Did you manage to get money from them?
+
+I am working on it. -> That's good, i'm counting on you {playername}.
+Unfortunately I cannot finish the task. -> You have greatly disappointed me, I have thought you can trust a man like yourself, I was proved wrong.
+
+Zadanie 8: -----
+Zadanie 9: ------
+Zadanie 10: ------
+
+Zadanie  Specjalne: Utopce i strzygi
+Zleceniodawca: Mieszczanin/biedak
+Gratyfikacja: brak
+Cz?stotliwo?? wyst?powania: jedno na ca?? gr?
+
+*Hick*... you see two two alleys from here, drowners are walking and disturbing people, and two *hick* sundays ago someone saw a vampire not far from here. Take care of it, if not ill let everyone know you are a wastrel and that you have gonorrhea... heheh, then not even whores will sleep you with you!
+
+
+
+Je?li gracz rozpocznie dialog z npc, po wykonaniu zadania, przed wyj?ciem ze sceny.
+
+Zadanie przegrane:
+
+Mieszczanka: You're still here? You will not get anything, farewell. ; How many times I have to say that you will not get anything from me! Farewell. 
+
+Mieszczanin:  Know my good heart and be gone till I have patience. ; Ehh, you have screwed up everything {playername}, be gone…
+
+Szlachcic:  Get out of my sight before my patience run's out. ; You're still here?!
+
+Zadanie wygrane:
+Mieszczanka: I thank you again…
+
+Mieszczanin: Making business with you {playername}, is truly a pleasure. 
+
+Szlachcic: You have certainly proved yourself, if you'll need anything you know you can count on me…

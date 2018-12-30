@@ -1,0 +1,122 @@
+Greetings m'lord, to tavern for a feast we're venturing? Are we? 
+   
+- Indeed, what is it to you? 
+- Maybe, but it is none of your business.
+
+I have seen what is happening in the tavern, lord is feasting with his servants. What they will be doing, that I don't know, but i'm sure something wrong is happening, and my feelings never let me down m'lord.", "Zadanie1Chlop2Gracz1", []],
+   
+- Do you know anything else of interest?
+- Thanks for information, farewell.
+
+I shall be careful, take a talar for your help. -> I shall be on guard, take a talar, a good advice and warring is always worth its price.", "Zadanie1Chlop1Podziekowanie", []],
+(Opcja wybierana w dialogu)               (Opcja wyœwietlana)
+   
+- Do you know anything else of interest?
+   
+From tavern they threw all the peasants out... Shame about the booze. A Russian is leading them, from what I heard.
+
+- Thank you for the information.
+- I shall be careful, take a talar for your help. -> I shall be on guard, take a talar, a good advice and warring is always worth its price.
+   
+Ah, honest man you are, Lord shall reward you with many sons!
+   
+
+   
+Dialog z Potockim w karczmie:
+I thank you for saving me, whom shall I be thankful then...
+   
+I am {playername}.
+My name shall not tell you much, I am {playername}.
+   
+You have not heard it yet, but you shall hear of me more.
+
+
+You have not heard of my name I suppose, but shall shall hear more of it in the future. I am{playername}.
+   
+Story worthy of a great person, well done.
+   
+
+I shall remember your name, I am certain that you shall be famous one day.
+
+I thank you, take this pouch as a sign of my gratitude.
+
+   I cannot accept it. -> I cannot accept it, I have not done it for privileges nor for glory.
+   
+Still honor is at a equal with your bravery, I hope that once I will be able
+to pay you back in a adequate way. 
+
+
+I will accept your gift.
+   
+You see my noble lord, I only travel with my daughter, dangerous roads... help us get to Krakow, I will have something to pay you back with then.
+
+   One more thing, what has happened to the leader of the bandit mob?
+
+   
+  He is my prisoner for now, I shall escort him to the nearest prison.
+  He's body is laying in the courtyard, just like the rest of his companions.
+
+   
+You see, he was an agent, a Russian spy, I have no doubts about that. 
+
+He was sent to kidnap me. I have not introduced myself yet, my name is Jan Alojzy Potocki, I travel with my daughter from Vienna, I have been on confidential diplomatic mission there.
+
+{s0}= Pass him over to me, he possess important information that will help me tremendously, I shall be in debt to you, Especially if have have killed 
+   "I can trust you, because from now on you're an enemy to the Empire and Targowica. {s0}.
+
+- I cannot, he is of value to me.
+- He's yours.
+
+- Very well, let us travel then.
+- What was your goal in Vienna then?
+   
+   
+ 
+   I cannot, he is of value to me..
+   If it so, he's your my lord. 
+   
+Splendid, smart choice, I thank you once again.
+   
+If it is so, your choice, guard him well though, he knows many things.
+
+  Very well, let us travel.
+  What was your goal in Vienna then?
+   
+
+With my pleasure, let us travel then.
+
+
+What was your goal in Vienna then?
+You shall soon find out, but now it is best that we disappear quickly.
+
+Don't kill me, I have got important information! In exchange for then you shall let me free. 
+
+   
+- Vengeance demands blood. 
+- Surrender.
+   
+   Very well, drop you weapons, and surrender.
+   
+With your blood I shall wash away your insult.
+   
+
+I have family, money, they will pay you back well for me! !
+   
+Insult is an Insult. 
+   
+I know your kind, for you there's no mercy!
+   
+You are my prisoner.
+
+   
+Very well, insult is one, and empty pocket is other thing, we shall reach and agreement. 
+
+Now give me the keys. Be quick now and do not think about escaping... Besides there's nowhere for you to run.
+   
+What do you want, cant you see that the tavern is closed?
+
+And who are you, to give me orders?
+   
+You wont go, then we shall teach you respect you bastard, besides You have seen to much already.
+
+I am terribly sorry, I shall disappear at once. 

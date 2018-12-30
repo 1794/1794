@@ -200,7 +200,7 @@ mno_enter|Wejdź.
 menu_four_ways_inn|You arrive at the Four Ways Inn.
 menu_test_scene|You enter the test scene.
 menu_dhorak_keep|You enter the Dhorak Keep
-menu_join_siege_outside|{s1} jest pod oblężeniem {s2}.
+menu_join_siege_outside|{s1} is besieged {s2}.
 mno_approach_besiegers|Dołącz do atakujących.
 mno_pass_through_siege|Pass through the siege lines and enter {s1}.
 menu_cut_siege_without_fight|The besiegers let you approach the gates without challenge.
@@ -209,7 +209,7 @@ mno_talk_to_siege_commander|Zażądaj spotkania z przywódcą.
 mno_join_siege_with_allies|Dołącz do ataku.
 mno_join_siege_stay_back|Rozkaż żołnierzom przyłączyć się do ataku bez ciebie.
 menu_castle_outside|{s33} {s2}.
-mno_nadszedlczas|Porozmawiaj z przywódcą.
+mno_nadszedlczas|Talk to leader.
 mno_approach_gates|Podejdź do bram i zawołaj straże.
 mno_town_sneak|Przebierz się i podejmij próbę wejścia.
 mno_castle_start_siege|{reg7?Oblegaj:Przejmij} {reg6?miasto:zamek}.
@@ -220,21 +220,21 @@ mno_request_meeting_commander|Talk with...
 mno_guard_leave|Opuść.
 menu_castle_entry_granted|After a brief wait, the guards open the gates for you and allow your party inside.
 menu_castle_entry_denied|The lord of this castle has forbidden you from coming inside these walls, and the guard sergeant informs you that his men will fire if you attempt to come any closer.
-menu_castle_meeting|Z kim chcesz się spotkać?
-mno_town_werbownik|z werbownikiem
+menu_castle_meeting|whom do you want to meet?
+mno_town_werbownik|with canvasser
 mno_town_werbownik_door|Door to the tavern.
 mno_guard_meet_s5|{s5}.
-mno_forget_it|Odejdź.
+mno_forget_it|Leave.
 menu_castle_meeting_selected|Your request for a meeting is relayed inside, and finally {s6} appears in the courtyard to speak with you.
 menu_3Zdrajcy|Straże będące w pobliżu dopomogły w pochwyceniu jednego z konfederatów...
-menu_castle_besiege|Oblegasz {s1}.
-mno_siege_request_meeting|Negocjuj z dowódcą twierdzy.
-mno_siege_dywersja|Przeprowadź dywersję (30% szans na powodzenie).
-mno_call_art|Pchnij gońca po artylerię
-mno_wait_24_hours|Czekaj.
-mno_castle_lead_attack|Poprowadź żołnierzy do szturmu.
-mno_attack_stay_back|Wydaj żołnierzom rozkaz szturmu...
-mno_lift_siege|Porzuć oblężenie.
+menu_castle_besiege|Besieged {s1}.
+mno_siege_request_meeting|Negotiate with castle commander.
+mno_siege_dywersja|Carry out diversion(30% chances of success).
+mno_call_art|Send messanger for artillery
+mno_wait_24_hours|Wait.
+mno_castle_lead_attack|Lead your troops to assault.
+mno_attack_stay_back|Order troops to assault...
+mno_lift_siege|Abandon siege.
 menu_siege_attack_meets_sally|The defenders sally out to meet your assault.
 menu_castle_besiege_inner_battle|{s1}
 menu_construct_ladders|As the party member with the highest Engineer skill ({reg2}), {reg3?you estimate:{s3} estimates} that it will take {reg4} hours to build enough scaling ladders for the assault.
