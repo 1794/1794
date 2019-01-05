@@ -2923,12 +2923,12 @@ str_oboz_ros|Odszukaj oboz powstancow. Pogloski mowia jakoby byl polożony nieop
 str_glist|Find men suspected of spying for the Targowica Confederacy. They should be located near the townhouse.
 str_wojna|Contact with Chief Kosciuszko, in order to receive further orders.
 str_gzdrada|Capture the Targowica supporters, who managed to flee Warsaw right before the revolution before they can leave the country.
-str_przesluchanie|Attack and eliminate an enemy troop led by the officer {s21}, weź jenca a następnie dostarcz do Tadeusza Kosciuszki.
+str_przesluchanie|Attack and eliminate an enemy troops lead by the officer {s21}, take the captive and bring him to Tadeusza Kosciuszki.
 str_gaszek|Lover
 str_zdrada|Betrayal
 str_list|Do uzupelnienia.
 str_zniewaga|Find Ignac Martinovics's rival in Budapest.
-str_donos|Do uzupelnienia.
+str_donos|Delation
 str_egzekucja1|Convicts are to be executed soon in Debrecen. Make way to the city and find the spot where the execution will be held in the suburbs. You are to free one of them, who is part of the conspiracy.
 str_egzekucja2|Convicts are to be executed soo in Debrecen. Make way to the city and free them.
 str_dostarczbron2|The conspirators in the city of {s20} need weapons, to continue their preparations to the insurrection. Contact one of the conspirators in the city and deliver the weapons to him.
@@ -3003,7 +3003,7 @@ str_zbojnicy_name2_3|Bohdan
 str_zbojnicy_name2_4|Walenty
 str_zbojnicy_name2_5|Onufry
 str_zbojnicy_name2_55|Maurycy
-str_zbojnicy_name2_535|Franz
+str_zbojnicy_name2_535|Franek
 str_zbojnicy_name2_end|error
 str_zbojnicy_surname1_begin|Bronowic
 str_zbojnicy_surname1_begin2|Psicborza
@@ -3095,16 +3095,16 @@ str_mieszczka_mieszczka_1_1|Eh, szkoda gadac w krzyżu lamię mnie od niedzieli.
 str_mieszczka_mieszczka_1_2|Czarciego pazura już probowala? Nie? ^Tedy niech sprobuję, bolec przestanie jak ręka odjal.
 str_mieszczka_mieszczka_1_3|A, sprobuję, sprobuję. Cuchnie jak siedem diablow, ^ ale skoro pomoc może...
 str_mieszczka_mieszczka_1_4|Niema co wyrzekac, brac i tyle.^ Jak moja swiętej pamięci babka.
-str_mieszczka_biedak_1_0|I co ze zlecona robota?
-str_mieszczka_biedak_1_1|Na smierc, żem zapomnial...^ skonczę obecna i przyjdę naprawic ten dach.
-str_mieszczka_biedak_1_2|Liczę na to, ^ macie czas do jutra.
-str_mieszczanin_biedak_1_0|A, witam, witam, ^ kiedy to dlug zamiarujecie splacic?
-str_mieszczanin_biedak_1_1|Hę? Jaki dlug?
-str_mieszczanin_biedak_1_2|Oj, nie lżyj, do wtorku czekam.^ Ni dnia dlużej.
-str_mieszczanin_biedak_1_3|Panie, ja ubogi... z czego oddam?!
-str_mieszczanin_biedak_1_4|Na wodkę wydales niecnoto! ^ Jak nie oddasz to na bruk pojdziesz.
-str_biedak_mieszczanin_1_0|Dobry, możny panie dajcie no na piwo...
-str_biedak_mieszczanin_1_1|Dobre sobie, ^ gdzie indziej idźcie ludzi nagabywac!
+str_mieszczka_biedak_1_0|What about your work?^ Have you done with it?
+str_mieszczka_biedak_1_1|Shit, I have forgotten...^ tommorrow I will finish this goddamn roof.
+str_mieszczka_biedak_1_2|I count on you, ^ you have time until tomorrow.
+str_mieszczanin_biedak_1_0|Oh, dear, good to see you, ^ when you gonna pay the debt?
+str_mieszczanin_biedak_1_1|Eh? I know nothing about any debt?
+str_mieszczanin_biedak_1_2|Don't lie to me! You have time untile Friday.^ I won't wait any longer.
+str_mieszczanin_biedak_1_3|Good lord, I am poor man...^ how can I collect such sum?!
+str_mieszczanin_biedak_1_4|Bastard, I know you are drinking every night! ^ You will give it back^ or my guys will visit you.
+str_biedak_mieszczanin_1_0|Morning, would you spare coin for a drink?
+str_biedak_mieszczanin_1_1|Good joke, ^ go elsewhere to beset!
 str_biedak_biedak_1_0|Bodajes spuchl jak ul!^ Gdzie sa moje pieniadze?
 str_biedak_biedak_1_1|Pewno w oberży ostawiles, wroc i sprawdź, ^ a nie się rzucasz po prożnicy.
 str_biedak_biedak_1_2|Niech cię rozkrocznie febra trzęsie, ^ parszywy zlodziejaszku!
@@ -3132,13 +3132,13 @@ str_biedak_mieszczka_1_1|Cos się może znajdzie.^ Drwa trza narabac, skoro chę
 str_biedak_mieszczka_1_2|Mi robota nie straszna!^ Gdzie te drwa skladuje dobrodziejka?
 str_biedak_mieszczka_1_3|Wolnego! Wytrzeźwiejcie wpierw, ^ bo jak nic lapę sobie urżniecie.
 str_biedak_mieszczka_1_4|Ano, racja. Wieczorem zajdę i porabię.^ Klaniam się raz jeszcze...
-str_szlachta_biedak_1_0|Wreszcie jestescie, za co ja placę?
-str_szlachta_biedak_1_1|ooccooo, . chodzii.
-str_szlachta_biedak_1_2|Jak to o co? Co z robota?
-str_szlachta_biedak_1_3|rotoa? jakka, .. rota?^ Na Moskwę poszla!
-str_szlachta_biedak_1_4|Jaka Moskwę kurwa?!
-str_szlachta_biedak_1_5|No... z Dymitrem i^ kompania poszly wszystkie...
-str_szlachta_biedak_1_6|A bodajs spuchl moczymordo!
+str_szlachta_biedak_1_0|Finally we see each other,^ for what I am paying you?
+str_szlachta_biedak_1_1|Whaaat it's all abooout...
+str_szlachta_biedak_1_2|About your job you moron! 
+str_szlachta_biedak_1_3|Work? Whhat, .. work?^ Moscow, here we commin!
+str_szlachta_biedak_1_4|Moscow?! What Moscow for fuck's sake!
+str_szlachta_biedak_1_5|No... wit Dimitri and^ his party they moved on...
+str_szlachta_biedak_1_6|Goddamn!^ You are fired, I don't want to see you again.
 str_biedak_szlachcic_1_0|Klaniam się uniżenie...^ wspomożcie panie groszem na piwo...
 str_biedak_szlachcic_1_1|Dobre sobie, ^ w glowach wam się już poprzewracalo!
 str_biedak_szlachcic_1_2|Krolu zloty! Choc pięc zloty...
@@ -3238,7 +3238,7 @@ str_sim_warchol2_2|Prędzej proch zamoknie, nim znajdzie się ktos^ majacy choc 
 str_sim_warchol2_3|{s20}, ^ zawsze bylo z kim na pistolety stawac...
 str_sim_warchol2_4|Sprobowalbym się z kims na pistolety...
 str_sim_warchol2_e|aaa
-str_weather_complain_1_1|{s20}, pogoda.
+str_weather_complain_1_1|{s20}, weather.
 str_weather_complain_1_2|Co tu poczac, kusa rada, ^ przyjdzie stac mi parę godzin, ^ przynajmniej {s20}.
 str_weather_complain_1_3|{s20}, znow trakty rozmiękna i^ {s21}.
 str_weather_complain_2_1|Ja jeszcze nie mam kwestii.
@@ -3322,7 +3322,7 @@ str_greeting_guard5|Gdzież to ja zostawilem manierkę...
 str_greeting_guard6|Czolem.
 str_greeting_guard7|Witam.
 str_string_end|error.
-str_kontratak_1|{s68} {playername}, w zwiazku z zaistniala sytuacja frontowa, rozkazuję niezwloczne uzupelnic sily i przystapic do kontrataku, celem odzyskania straconych terytoriow w okolicach {s20}. ^^^^            Naczelnik Tadeusz Kosciuszko
+str_kontratak_1|{s68} {playername}, w zwiazku z zaistniala sytuacja frontowa, rozkazuję niezwloczne uzupelnic sily i przystapic do kontrataku, celem odzyskania straconych terytoriow w okolicach {s20}. ^^^^            General Tadeusz Kosciuszko
 str_kontratak_2|{s68} {playername}, winszuję sprawnie odpartego ataku wrogich wojsk! W zwiazku z zaistniala sytuacja frontowa rozkazuję niezwlocznie przystapic do kontrofensywy, naszym celem jest odzyskania terytoriow w okolicach {s20}. ^^^^            Naczelnik Tadeusz Kosciuszko
 str_atak_1|{s68} {playername}, winszuję sprawnie przeprowadzonego kontrataku i odzyskania kluczowego dla nas terytorium! Donoszono mi, iż wkrotce nastapi uderzenia ze strony {s20} na region {s21}. W zwiazku z tym skieruj się czym prędzej w tamte strony, aby wesprzec nasze sily.^^^^            Naczelnik Tadeusz Kosciuszko
 str_atak_2|{s68} {playername}, doszly do mnie wiesci, że plan przejęcia kluczowego dla nas terytorium spelzl na niczym. Jestesmy więc zmuszeni spisac ten region na straty i bronic tego co jeszcze możemy obronic. Donoszono mi, iż wkrotce nastapi uderzenia ze strony {s20} na region {s21}. W zwiazku z tym skieruj się czym prędzej w tamte strony, aby wesprzec nasze sily.^^^^            Naczelnik Tadeusz Kosciuszko
@@ -3330,7 +3330,7 @@ str_kontratak_1log|W zwiazku z zaistniala sytuacja frontowa, rozkazuję niezwloc
 str_kontratak_2log|W zwiazku z zaistniala sytuacja frontowa rozkazuję niezwlocznie przystapic do kontrofensywy, naszym celem jest odzyskania terytoriow w okolicach {s20}.
 str_atak_1log|Wkrotce nastapi uderzenia ze strony {s20} na region {s21}. W zwiazku z tym skieruj się czym prędzej w tamte strony, aby wesprzec sily Rzeczypospolitej.
 str_atak_2log|Wkrotce nastapi uderzenia ze strony {s20} na region {s21}. W zwiazku z tym skieruj się czym prędzej w tamte strony, aby wesprzec sily Rzeczypospolitej.
-str_atak_0|[PLACEHOLDER] {s68} {playername}. Wrog
+str_atak_0|[PLACEHOLDER] {s68} {playername}. Enemy
 str_name_deliver_message|Deliver Message to {s13}
 str_name_deliver_message_to_enemy_lord|Deliver Message to {s13}
 str_name_raise_troops|Raise {reg1} {s14}
@@ -3419,7 +3419,7 @@ str_name_zlotomaruderow|Gold of marauders
 str_name_dostarczbron|Dostarcz Bron
 str_name_dezercja|Dezercja
 str_name_emisariusz|Emissary
-str_name_prusy|Sztuka Perswazji
+str_name_prusy|Art of Persuasion
 str_name_egzekucja|Execution
 str_name_kontruderzenie|Kontruderzenie
 str_name_szpieg|Spy

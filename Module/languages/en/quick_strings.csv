@@ -782,9 +782,9 @@ qstr_Zostałeś_złapany_|You were caught by {s1} while you had been coming from
 qstr_Zwyciężyłeś!|You won!
 qstr_Bitwa_przegrana._Two|Battle lost!
 qstr_Twoi_towarzysze_wyno|You are wounded! You can't fight any longer...
-qstr_Pokonałeś_przeciwn|Pokonałeś przeciwnika.
+qstr_Pokonałeś_przeciwn|Battle won!
 qstr_Uciekłeś_z_pola_bi|You ran away from the battle.
-qstr_^^Straty_sojusznika:|^^Ally loss:{s0}
+qstr_^^Ally casualities:|^Enemy casualties:{s0}
 qstr_{s1}_z_{s3}_zdołał|{s1} from {s3} managed to escape.
 qstr_Some_of_your_tendons|Some of your tendons have been damaged in the battle. You lose 1 strength.
 qstr_You_took_a_nasty_wou|You took a nasty wound which will cause you to limp slightly even after it heals. You lose 1 agility.
@@ -840,7 +840,7 @@ qstr__This_town_has_no_ga| This town has no garrison.
 qstr__You_have_successful| You have successfully sneaked in.
 qstr_{s13}_A_tournament_w|{s13} A tournament will be held here soon.
 qstr_{reg0}_{s0}_dna:_{re|{reg0} {s0} dna: {reg1}
-qstr___{reg1}_talarów_za| ({reg1} talarów za noc)
+qstr___{reg1}_talarów_za| ({reg1} thalers per night)
 qstr_Moreover_you_earn_{r|Moreover, you earn {reg8} denars from the clever bets you placed on yourself...
 qstr_Victory_is_yours!_Yo|Victory is yours! You have won this melee, but now you must prepare yourself for the next round.
 qstr_You_have_been_bested|You have been bested in this melee, but the master of ceremonies declares a recognition of your skill and bravery, allowing you to take part in the next round.
@@ -864,35 +864,35 @@ qstr_{s13}_ordered_you_to|{s13} ordered you to join the assault against {s14}.
 qstr_Find_and_speak_with_|Find and speak with {s3} of {s4} to give him your oath of homage.
 qstr_There_has_been_an_al|There has been an alleged border incident: {s9}
 qstr_^^Note_that_so_long_|^^Note that so long as you remain marshal, the lords of the realm will be expecting you to lead them on campaign. So, if you are awaiting a feast, either for a wedding or for other purposes, you may wish to resign the marshalship by speaking to your liege
-qstr_Zbliżasz_się_do_kr|Zbliżasz się do kryjówki maruderów.
-qstr_Wygrana!|Wygrana!
-qstr_Przegrana!|Przegrana!
-qstr_Bitwa_przegrana!_Woj|Bitwa przegrana! Wojska chroniące konwój skutecznie odparły atak.
-qstr_Bitwa_wygrana!_Konw?|Bitwa wygrana! Konwój został przejęty!
-qstr_Wrogi_konwój_wpadł|Wrogi konwój wpadł w zasadzkę, okazał się być jednak znacznie lepiej chroniony niż zwiadowcy donosili...
-qstr_Prezentacja_regiment|Prezentacja regimentów.
-qstr_Wróć_na_mapę_stra|Wróć na mapę strategiczną.
-qstr_Twój_przeciwnik_tri|Twój przeciwnik triumfuje. Gdy leżysz raniony, udaje mu się niepostrzeżenie odjechać...
-qstr_Wygrywasz_pojedynek.|Wygrywasz pojedynek.
-qstr_{playername}_bez_zw?|{playername}, bez zwłoki przybywaj do Budapestu. Mam ci do przekazania wieści wielkiej wagi.^^^              Ignac Martinovics
-qstr_Błyskotliwą_prowok|Błyskotliwą prowokację, zakończyło równie błyskotliwe zwycięstwo. Oponent padł bez życia.
-qstr_Mimo_błyskotliwej_p|Mimo błyskotliwej prowokacji, oponent zatriumfował w starciu.
-qstr_Przykro_nam_ale_star|Przykro nam, ale stare zapisy gry nie są kompatybilne z ta wersję. Rozpocznij nową grę.
+qstr_Zbliżasz_się_do_kr|You are closing to marauder's hideout.
+qstr_Wygrana!|Victory!
+qstr_Przegrana!|Defeat!
+qstr_Bitwa_przegrana!_Woj|Battle defeat!
+qstr_Bitwa_wygrana!_Konw?|Battle won! Convoy taken over!
+qstr_Wrogi_konwój_wpadł|Hostile convoy came into ambush, though it's better protected than scouts have reported...
+qstr_Prezentacja_regiment|Regiments presentation.
+qstr_Wróć_na_mapę_stra|Back to the map.
+qstr_Twój_przeciwnik_tri|Your opponent won.
+qstr_Wygrywasz_pojedynek.|You won the duel.
+qstr_{playername}_bez_zw?|{playername}, move to Budapest as quickly as you can. I have very important informations for you.^^^              Ignac Martinovics
+qstr_Błyskotliwą_prowok|Brilliant provocation and equaly brilliant triumph. Opponent passed away.
+qstr_Mimo_błyskotliwej_p|Despite brilliant provocation, opponent has triumphed.
+qstr_Przykro_nam_ale_star|We are sorry, but old game saves are not compatible with this version. Start new game.
 qstr_DEBUG:_Odbyly_sie_po|DEBUG: Odbyly sie pojedynki
 qstr_Zwijasz_obóz...|Zwijasz obóz...
 qstr_DEBUG:_party_id_{reg|DEBUG: party id {reg0}
 qstr_http://1794.com.pl/1794/ge|http://1794.com.pl/1794/get.php?type=100&ver={reg0}
 qstr_DEBUG:_Player_factio|DEBUG: Player faction has changed to {s1}!!!
-qstr_{s0}_powinno_zaczac_|{s0} powinno zaczac oblezenie
-qstr_Twój_oddział_zosta|Twój oddział zostaje zauważony przez: {s1}.
+qstr_{s0}_powinno_zaczac_|{s0} should start siege
+qstr_Twój_oddział_zosta|Your party has been spoted by: {s1}.
 qstr_Party_has_nothing_to|Party has nothing to eat!
 qstr_{reg1}_{s1}_{reg2?zd|{reg1} {s1} {reg2?zdołali:zdołał} uciec nocą z twojej drużyny.
-qstr_{s1}__{s3}__został_w|{s1} ({s3}) został wypuszczony z niewoli.
-qstr_Fortyfikacja_{s1}_zn|Fortyfikacja {s1} znalazła się w rękach wroga! Doprowadź do przejęcia tego strategicznego punktu na mapie, aby móc z sukcesem prowadzić dalsze działania wojenne.
-qstr_Odnieś_zwycięstwo_|Odnieś zwycięstwo w bitwie z dowolnym wrogim oficerem.
+qstr_{s1}__{s3}__został_w|{s1} ({s3}) has been set free.
+qstr_Fortyfikacja_{s1}_zn|Fortification {s1} taken over by enemy! Recapture this strategic location to carry on millitary operation.
+qstr_Odnieś_zwycięstwo_|Fight the battle and won with any enemy officer.
 qstr_Building_of_{s0}_in_|Building of {s0} in {s4} has been completed.
 qstr_{s1}_is_no_longer_in|{s1} is no longer infested by bandits (at night).
-qstr_Płacisz_za_nocleg.|Płacisz za nocleg.
+qstr_Płacisz_za_nocleg.|You pay for accommodation.
 qstr_Betrothal_to_{s5}_ex|Betrothal to {s5} expires
 qstr__Your_tactics_skill_| Your tactics skill has increased by 1.
 qstr__Your_persuasion_ski| Your persuasion skill has increased by 1.
@@ -912,18 +912,18 @@ qstr_DEBUG:Usuwam_marker|DEBUG:Usuwam marker
 qstr_beh:_{reg0}_obj:_{re|beh: {reg0} obj: {reg1}, cur beh: {reg2} cur obj: {reg3}, slot state: {reg4}. slot obj, {reg5}
 qstr_DEBUG:_Wspolczynnik_|DEBUG: Wspolczynnik zwyciestwa wynosi: {reg0}
 qstr_updating_wave_for_fa|updating wave for faction {s0}
-qstr_Wygłosiłeś_manife|Wygłosiłeś manifest
+qstr_Wygłosiłeś_manife|You gave the manifesto
 qstr_AI_tick_AIPower:_{re|AI tick, AIPower: {reg0}
 qstr_AI_3_etap...|AI 3 etap...
 qstr________ai_state_=_{r|       ai state = {reg0}
 qstr____________is_holdin|           is holding center and do nothing
-qstr_{s0}_patroluje_{s1}|{s0} patroluje {s1}
+qstr_{s0}_patroluje_{s1}|{s0} is patrolling {s1}
 qstr_4Etap_AI...|4Etap AI...
 qstr_DEBUG:_{s0}_doesnt_h|DEBUG: {s0} doesnt have a bound
 qstr_4etap_1:_{s0}_nadal_|4etap 1: {s0} nadal odpoczywa w {s1} ({reg0}%%) {reg1}/{reg2}
 qstr_4etap_1:_{s0}_idzie_|4etap 1: {s0} idzie odpoczywac w {s1} ({reg0}%%) {reg1}/{reg2}
 qstr____center:_{reg0}|   center: {reg0}
-qstr_4etap_1:_{s0}_atakuj|4etap 1: {s0} atakuje {s1}
+qstr_4etap_1:_{s0}_atakuj|4etap 1: {s0} is attacking {s1}
 qstr_AI_ani_3_ani_4_etap.|AI ani 3 ani 4 etap...
 qstr_Wyjście_z_gry_w_tym|Wyjście z gry w tym momencie może spowodować błąd.
 qstr_Szpieg_nie_powrocil_|Szpieg nie powrocil, najprawdopodobniej wpadl w rece wroga.
@@ -1059,12 +1059,12 @@ qstr_Udało_ci_się_pomy?|Udało ci się pomyślnie spieniężyć pojmanych band
 qstr_Uzyskana_kwota:_{reg|Uzyskana kwota: {reg0}
 qstr_Witam_dobrego_pana|Witam, dobrego pana
 qstr_Kłaniam_się_wielmo|Kłaniam się wielmożnemu panu
-qstr_grajkiem|grajkiem
-qstr_lirnikiem|lirnikiem
-qstr_pielgrzymem|pielgrzymem
-qstr_Ha_dobrze!_To_jest_w|Ha, dobrze! To jest wasza wygrana.
+qstr_grajkiem|musician
+qstr_lirnikiem|lyrist
+qstr_pielgrzymem|pilgrim
+qstr_Ha_dobrze!_To_jest_w|Ha, dobrze! To jest wasza wygrana. It's your reward.
 qstr_Niech_was_diabli_dob|Niech was diabli, dobrze!
-qstr_Pudło_cóż_za_szko|Pudło, cóż za szkoda
+qstr_Pudło_cóż_za_szko|Mishit, what a shame.
 qstr_Aj_niestety_nie_uda?|Aj, niestety nie udało się.
 qstr_Oj_tym_razem_nie_pos|Oj, tym razem nie poszczęściło się.
 qstr_Było_blisko_lecz_ni|Było blisko, lecz nie tym razem.
@@ -1076,17 +1076,17 @@ qstr_kasztelan|kasztelan
 qstr_murarz|murarz
 qstr_wojewoda|wojewoda
 qstr_organista|organista
-qstr_pruskich|pruskich
-qstr_rosyjskich|rosyjskich
+qstr_pruskich|prussian
+qstr_rosyjskich|russian
 qstr_austriackich|austriackich
 qstr_Kłaniam_się|Kłaniam się
 qstr_Pokornie_witam|Pokornie witam
-qstr_Dobry_dzień|Dobry dzień
-qstr_w_czym_mogę_służy?|w czym mogę służyć
-qstr_czego_wam_trzeba|czego wam trzeba
-qstr_w_czym_mógłbym_pom|w czym mógłbym pomóc
-qstr_Miłego_dnia|Miłego dnia
-qstr_Do_zobaczenia|Do zobaczenia
+qstr_Dobry_dzień|Good morning
+qstr_w_czym_mogę_służy?|How can I serve you?
+qstr_czego_wam_trzeba|What do you need?
+qstr_w_czym_mógłbym_pom|How can I help you?
+qstr_Miłego_dnia|Have a nice day.
+qstr_Do_zobaczenia|See you.
 qstr_Do_widzenia|Farewell
 qstr_Ciężkie_to_czasy_n|Difficult times are upon us
 qstr_Trudne_to_czasy_nast|Hard times have come
@@ -1100,13 +1100,13 @@ qstr_narzędzie_mi_się_w|the tools in my workshop have broken, and I simply can
 qstr_Bóg_Wam_zapłać_do|God bless you sir!
 qstr_Szczerze_dziękuje_d|I sincerely thank you sir.
 qstr_Niech_Bóg_Wam_w_dzi|May god bless you with many children, thank you sir.
-qstr_Witam_{s68}|Witam, {s68}
-qstr_Piękny_dziś_mamy_dz|Piękny dziś mamy dzień, {s68}
-qstr_Dzień_dobry|Dzień dobry
+qstr_Witam_{s68}|Greet, {s68}
+qstr_Piękny_dziś_mamy_dz|What a beautiful day, {s68}
+qstr_Dzień_dobry|Good morning
 qstr_co_was_do_mnie_sprow|co was do mnie sprowadza
 qstr_słucham_co_macie_mi|słucham, co macie mi do powiedzenia
-qstr_w_czym_mogę_pomóc|w czym mogę pomóc
-qstr_czego_potrzebujecie|czego potrzebujecie
+qstr_w_czym_mogę_pomóc|How can I help you?
+qstr_czego_potrzebujecie|What do you need?
 qstr_na_szlachtę_co_chę|na szlachtę co chędoży za darmo, a zamtuz niema zarobku
 qstr_na_ulewę_dach_mi_pr|na ulewę, dach mi przecieka i skoro tu władza rządzi niech naprawia
 qstr_na_psy_sąsiada_co_n|na psy sąsiada co nocą szczekają i spać nie dają
@@ -1126,7 +1126,7 @@ qstr_bandyta_wczoraj_obse|bandyta wczoraj obserwował moje domostwo, do córki z
 qstr_rajca_defraudacyji_n|rajca defraudacyji niecnej się dopuszcza, zamiast drogi naprawiać
 qstr_A_tak_jest_coś_co_m|A, tak, jest coś co możesz dla mnie zrobi, słuchaj uważnie.
 qstr_Mam_coś_odpowiednie|Mam coś odpowiedniego dla ciebie, słuchaj, tylko uważnie, bo drugi raz powtarzać nie będę.
-qstr_Zmartwienie_mam_niem|Zmartwienie mam niemałe drogi panie, słuchajcie jeśli łaska, a może coś poradzicie
+qstr_Zmartwienie_mam_niem|Zmartwienie mam niemałe drogi panie, słuchajcie jeśli łaska, a może coś poradzicie I am worried
 qstr_Biedę_mam_panie_sł|Biedę mam panie, słuchajcie jeśli łaska
 qstr_Syn_mój_młodzik_je|Syn mój, młodzik jeszcze, wkrótce dwadzieścia wiosen mieć będzie
 qstr_Mój_syn_ledwie_dwad|Mój syn, ledwie dwadzieścia wiosen na wiosnę mu będzie

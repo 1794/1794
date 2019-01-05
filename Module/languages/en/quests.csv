@@ -58,26 +58,26 @@ qst_raid_caravan_to_start_war|Attack a Neutral Caravan to Provoke War
 qst_cause_provocation|Give a Kingdom Provocation to Attack Another
 qst_rescue_prisoner|Rescue or Ransom a Prisoner
 qst_destroy_bandit_lair|Destroy Bandit Lair
-qst_Insurekcja|Insurekcja
+qst_Insurekcja|Insurrection
 qst_Zamek1|Zamek I
 qst_Zamek2|Zamek II
 qst_Zamek3|Zamek III
 qst_Dezercja|Desertion
 qst_Kurland|Letter
-qst_3Zdrajcy|3 Zdrajcy
+qst_3Zdrajcy|Traitors
 qst_Emisariusz|Emissary
 qst_Prusy|Pius Dolus
-qst_Przesluchanie|Przesłuchanie
+qst_Przesluchanie|Interrogation
 qst_Infiltracja|Grex venalium
 qst_gZdrada|In tyrannos
 qst_gList|Mortui non mordent
 qst_Wojna|War
 qst_Oboz_ros|Camp
 qst_Przygotowania|Preparations
-qst_Oboz_weg|Obóz
+qst_Oboz_weg|Camp
 qst_Gaszek|Gaszek
-qst_Zdrada|Zdrada
-qst_RamieSprawiedliwosci|Ramię Sprawiedliwości
+qst_Zdrada|Betrayal
+qst_RamieSprawiedliwosci|Hand of Justice
 qst_Obelga|Fama clamosa
 qst_Dlugi|Nervus rerum
 qst_List|Letter
@@ -86,25 +86,25 @@ qst_Donos|Donos
 qst_Patrole|Belli Portae
 qst_RozpoznanieOgniem|Rozpoznanie ogniem
 qst_1000Zdrajca|Poena Talionis
-qst_ZlotoMaruderow|Złoto maruderów
-qst_Kontruderzenie|Kontruderzenie
+qst_ZlotoMaruderow|Mugger's Gold
+qst_Kontruderzenie|Counter Attack
 qst_Szpieg|Falsi crimen
-qst_DostarczBron|Dostarcz Broń
+qst_DostarczBron|Deliver Weapons
 qst_Zasadzka|Pius Dolus
-qst_Przyczolek|Kijów
-qst_Manifesty|Manifesty
+qst_Przyczolek|Kiev
+qst_Manifesty|Manifestos
 qst_Przewrot|Przewrót
 qst_collect_men|Collect Five Men
-qst_PorwanaKobieta|Porwanie
+qst_PorwanaKobieta|Kidnapping
 qst_MayorEnd|(null)
 qst_learn_where_merchant_brother_is|Learn Where the Hostages are Held.
 qst_save_relative_of_merchant|Attack the Bandit Lair
 qst_save_town_from_bandits|Save Town from Bandits
-qst_szlachetni|Wśród Szlachetnie Urodzonych
-qst_Challenge_1|Pierwsza szabla
-qst_Challenge_2|Trzy pojedynki na szable
-qst_Challenge_3|Trzy pojedynki na pistolety
-qst_Challenge_end|Pierwsza szabla
+qst_szlachetni|Among Nobly Borned
+qst_Challenge_1|The First Saber
+qst_Challenge_2|Three Sabers
+qst_Challenge_3|Handful of Bullets
+qst_Challenge_end|The First Saber
 qst_4Przejmij|Przejmij {s1}
-qst_4Ofensywa|Incerti sunt exitus belli.
+qst_4Ofensywa|Incerti sunt exitus belli
 qst_quests_end|Quests End

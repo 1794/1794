@@ -4,7 +4,7 @@ p_town_2|Lublin
 p_town_3|Krakow
 p_town_4|Vilnius
 p_town_5|Riga
-p_town_6|Gdansk
+p_town_6|Danzig
 p_town_7|Poznan
 p_town_8|Wroclaw
 p_town_9|Königsberg
@@ -36,7 +36,7 @@ p_castle_11|Bydgoszcz
 p_castle_12|Kalisz
 p_castle_13|Koszalin
 p_castle_14|Olomounc
-p_castle_15|Czêstochowa
+p_castle_15|Czestochowa
 p_castle_16|Olkusz
 p_castle_17|Zamosc
 p_castle_18|Poniewiezh
@@ -102,7 +102,7 @@ p_village_2|lowicz
 p_village_3|Nieporêt
 p_village_4|Kaluszyn
 p_village_5|Nasielsk
-p_village_6|lomZha
+p_village_6|Lomza
 p_village_7|Drohiczyn
 p_village_8|Hajnowka
 p_village_9|Krasnik
@@ -132,7 +132,7 @@ p_village_32|Legnica
 p_village_33|Olesnica
 p_village_34|Walbrzych
 p_village_35|Szaki
-p_village_36|village36
+p_village_36|Chorobla
 p_village_37|Sambor
 p_village_38|Stryj
 p_village_39|Niecieszyn
@@ -203,9 +203,9 @@ p_karczma_r|Spitessake
 p_karczma_t|Loss
 p_karczma_u|Sodom
 p_karczma_w|Merriment
-p_karczma_x|Czekaj Tavern
+p_karczma_x|Half Coin
 p_karczma_y|Three Bisons
-p_karczma_yy|Mitrêga
+p_karczma_yy|Mitrega
 p_karczma_yyy|Botomless Inn
 p_karczma_aa|Three Words Inn
 p_karczma_ab|Mountainpass Tavern

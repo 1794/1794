@@ -70,18 +70,18 @@ menu_character_report|{s9}
 menu_party_size_report|{s1}
 menu_faction_relations_report|{s1}
 menu_1794_cheats|...
-mno_3etap_camp|3 Etap
+mno_3etap_camp|3 Stage
 mno_destroytarg|teleport do swistackiego
 mno_weather|{reg0?Wyłącz:Włącz} wiadomosci pogodowe
 mno_waiterenity|Podróż w czasie
-mno_powst|Dodaj 10 fizylierów do oddziału
-mno_choose_troop|Lista NPC
-mno_choose_scene|Lista lokacji
-mno_aaaaaadddsaquest|Pomiń zadanie
+mno_powst|Add 10 fusiliers to squad
+mno_choose_troop|List of NPC
+mno_choose_scene|List of locations
+mno_aaaaaadddsaquest|Skip mission
 mno_awans|Awansuj na wyższy stopień oficerski
 mno_exit|Back...
-menu_3etap_debug|3 etap
-mno_swafsf|Koncowka 3 etapu
+menu_3etap_debug|3 stage
+mno_swafsf|End of 3 stage
 mno_a1|AiPower -1
 mno_a2|AiPower +1
 mno_x1|Rozpocznij (10)
@@ -89,18 +89,18 @@ mno_x2|Rozpocznij (20)
 mno_x3|Rozpocznij (30)
 mno_x4|Rozpocznij (40)
 mno_x5|Rozpocznij (50)
-menu_etap2_wspolczynnik|2 etap współczynnik
+menu_etap2_wspolczynnik|Second stage factor
 mno_winlevel1|-5
 mno_winlevel31|+5
 mno_winlevel2|+50
 menu_1794_mod_options|Opcje modyfikacji...
 mno_blood|{s0} widok obrażeń
-mno_duel_rank|Rankingi pojedynków
+mno_duel_rank|Duel's Rank
 mno_pogoda1|Zwiększ czynnik pogodowy
 mno_pogoda2|Zmniejsz czynnik pogodowy
 mno_quit|Back...
 menu_1794_recruit_prisoners|{reg20} jeńców jest gotowych na wcielenie do wojska. Czy napewno chcesz to zrobić?
-mno_yes|No pewnie
+mno_yes|Sure
 mno_no|Eee, jednak nie
 menu_camp|Rozbiłeś obóz. Co chcesz zrobić?
 mno_1794_recruit|Wciel jeńców do oddziału
@@ -109,12 +109,12 @@ mno_camp_1794fdsef|Opcje modyfikacji
 mno_debug_mode_switch|{reg5?Wyłącz:Włącz} tryb debug
 mno_camp_wait_here|Wait here for some time.
 mno_camp_cheat|CHEAT MENU!
-menu_camp_rank|Który ranking chcesz wybrać?
-mno_1|Broń palna
-mno_2|Broń biała
-mno_3|Żaden.
-menu_duel_menu_won_d|Pojedynek wygrany!
-menu_duel_menu_lost_d|Pojedynek przegrany!
+menu_camp_rank|Który ranking chcesz wybrać? Which rank do you want to choose?
+mno_1|White weapon
+mno_2|Distance weapon
+mno_3|None.
+menu_duel_menu_won_d|Duel won!
+menu_duel_menu_lost_d|Duel lost!
 menu_duel_menu_give_d|You gave up.
 menu_duel_end|You {s0}!
 menu_duel_menu_won|Duel won.
@@ -147,7 +147,7 @@ menu_cattle_herd|You encounter a herd of cattle.
 mno_cattle_drive_away|Drive the cattle onward.
 mno_cattle_stop|Bring the herd to a stop.
 mno_cattle_kill|Slaughter some of the animals.
-mno_leave|Opuść.
+mno_leave|Leave.
 menu_cattle_herd_kill|How many animals do you want to slaughter?
 mno_cattle_kill_1|One.
 mno_cattle_kill_2|Two.
@@ -155,22 +155,22 @@ mno_cattle_kill_3|Three.
 mno_cattle_kill_4|Four.
 mno_cattle_kill_5|Five.
 menu_arena_duel_fight|You and your opponent prepare to duel.
-menu_simple_encounter|{s2} Masz {reg10} jednostek gotowych do walki przeciwko ich {reg11}.
-mno_encounter_attack|Zaatakuj przeciwnika.
+menu_simple_encounter|{s2} Masz {reg10} jednostek gotowych do walki przeciwko ich {reg11}. You have {reg10} soldiers ready to fight against {reg11}.
+mno_encounter_attack|Attack the enemy.
 mno_encounter_order_attack|Rozkaż swoim jednostkom zaatakować bez ciebie.
-mno_encounter_leave|Opuść.
+mno_encounter_leave|Leave.
 mno_encounter_retreat|Wycofaj się, zostawiając parę jednostek, aby zatrzymać pogoń.
-mno_encounter_surrender|Poddaj się.
+mno_encounter_surrender|Surrender.
 menu_encounter_retreat_confirm|Jako dowódca oddziału z najwyższymi umiejętnościami taktycznymi, ({reg2}), {reg3?wymyślasz:{s3} obmyślasz} plan, który pozwoli ocalić życie twoje i twoich ludzi, musisz jednak zostawić {reg4} żołnierzy osłaniających wasz odwrót.
 mno_leave_behind|Poświęcenie tych ludzi pozwoli zachować resztę.
 mno_dont_leave_behind|Nikogo nie pozostawimy.
 menu_encounter_retreat|Rozkazujesz {reg4} żołnierzom zatrzymać wroga, podczas gdy wraz z resztą oddziały dokonasz odwrotu.
-menu_order_attack_begin|Twoje oddziały przygotowują się do zaatakowania wroga.
-mno_order_attack_begin|Wydaj rozkaz do rozpoczęcia ataku.
+menu_order_attack_begin|Twoje oddziały przygotowują się do zaatakowania wroga. Your troops are preaparing for attack.
+mno_order_attack_begin|Wydaj rozkaz do rozpoczęcia ataku. Order starting attack.
 mno_call_back|Odwołaj ich.
 menu_order_attack_2|{s4}^^Twoje straty: {s8}^^Straty wroga: {s9}
-mno_order_attack_continue|Rozkaż żołnierzom kontynuować atak.
-mno_order_retreat|Odwołaj swoich żołnierzy.
+mno_order_attack_continue|Rozkaż żołnierzom kontynuować atak. Order to carry on attack.
+mno_order_retreat|Odwołaj swoich żołnierzy. Call back your soldiers.
 menu_battle_debrief|{s11}^^Twoje straty:{s8}{s10}^^Straty przeciwnika:{s9}
 menu_total_victory|Zwycięstwo!
 menu_enemy_slipped_away|{s17}
@@ -183,7 +183,7 @@ mno_pre_join_leave|Odejdź.
 menu_join_battle|You are helping the {s2} against the {s1}. You have {reg10} troops fit for battle against the enemy's {reg11}.
 mno_join_attack|Charge the enemy.
 mno_join_order_attack|Order your troops to attack with your allies while you stay back.
-mno_join_leave|Opuść.
+mno_join_leave|Leave.
 menu_join_order_attack|{s4}^^Your casualties: {s8}^^Allies' casualties: {s9}^^Enemy casualties: {s10}
 menu_zendar|You enter the town of Zendar.
 mno_zendar_enter| 
@@ -201,7 +201,7 @@ menu_four_ways_inn|You arrive at the Four Ways Inn.
 menu_test_scene|You enter the test scene.
 menu_dhorak_keep|You enter the Dhorak Keep
 menu_join_siege_outside|{s1} is besieged {s2}.
-mno_approach_besiegers|Dołącz do atakujących.
+mno_approach_besiegers|Dołącz do atakujących. Join to attacking troops.
 mno_pass_through_siege|Pass through the siege lines and enter {s1}.
 menu_cut_siege_without_fight|The besiegers let you approach the gates without challenge.
 menu_besiegers_camp_with_allies|{s1} jest pod oblężeniem {s2}.
@@ -210,14 +210,14 @@ mno_join_siege_with_allies|Dołącz do ataku.
 mno_join_siege_stay_back|Rozkaż żołnierzom przyłączyć się do ataku bez ciebie.
 menu_castle_outside|{s33} {s2}.
 mno_nadszedlczas|Talk to leader.
-mno_approach_gates|Podejdź do bram i zawołaj straże.
+mno_approach_gates|Podejdź do bram i zawołaj straże. Move to the gates and call guards.
 mno_town_sneak|Przebierz się i podejmij próbę wejścia.
 mno_castle_start_siege|{reg7?Oblegaj:Przejmij} {reg6?miasto:zamek}.
-mno_castle_leave|Opuść.
-menu_castle_guard|Zbliżasz się do bramy. Straże na murach uważnie się obserwują.
+mno_castle_leave|Leave.
+menu_castle_guard|You are close to gates, guards are watching you.
 mno_request_shelter|Request entry to the castle.
 mno_request_meeting_commander|Talk with...
-mno_guard_leave|Opuść.
+mno_guard_leave|Leave.
 menu_castle_entry_granted|After a brief wait, the guards open the gates for you and allow your party inside.
 menu_castle_entry_denied|The lord of this castle has forbidden you from coming inside these walls, and the guard sergeant informs you that his men will fire if you attempt to come any closer.
 menu_castle_meeting|whom do you want to meet?
@@ -226,7 +226,7 @@ mno_town_werbownik_door|Door to the tavern.
 mno_guard_meet_s5|{s5}.
 mno_forget_it|Leave.
 menu_castle_meeting_selected|Your request for a meeting is relayed inside, and finally {s6} appears in the courtyard to speak with you.
-menu_3Zdrajcy|Straże będące w pobliżu dopomogły w pochwyceniu jednego z konfederatów...
+menu_3Zdrajcy|Guards helped to caught one of confederates...
 menu_castle_besiege|Besieged {s1}.
 mno_siege_request_meeting|Negotiate with castle commander.
 mno_siege_dywersja|Carry out diversion(30% chances of success).
@@ -271,7 +271,7 @@ menu_siege_join_defense|{s4}^^Twoje straty: {s8}^^Straty sojusznika: {s9}^^Strat
 menu_enter_your_own_castle|{s10}
 menu_village|Wieś.
 mno_uniwersal|Wygłoś uniewersał.
-mno_village_leave|Opuść...
+mno_village_leave|Leave...
 menu_village_hostile_action|What action do you have in mind?
 mno_village_take_food|Force the peasants to give you supplies.
 mno_village_steal_cattle|Steal cattle.
